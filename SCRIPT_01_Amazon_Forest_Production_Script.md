@@ -5,7 +5,7 @@
 **Image generation:** Google Flow only (Step 1 subject sheets, Step 2 environment plates, Step 3 scene reference images)
 **Video generation:** Google Flow — one video prompt per scene, built from that scene's saved reference image, each carrying its own sound design
 **Payoff:** The camera rises from one lone survivor to the endless living canopy, so the viewer feels how many untold stories still hide in the forest, then ends on a night sky and one last firefly.
-**Dialogue/Audio rule:** No dialogue in generated clips, only BGM and diegetic SFX. The recorded Tamil voice-over ("AMAZON FINAL VOICE", 6:54) is laid over the clips in the edit; every scene is timed to its spoken lines.
+**Dialogue/Audio rule:** The generated clips contain NO voice of any kind: only instrumental BGM and diegetic SFX. Your recorded Tamil voice-over ("AMAZON FINAL VOICE", 6:54) is added in the edit; every scene is timed to its spoken lines.
 
 **Assumptions made for the blank input fields (change if needed):**
 - **Style:** photorealistic cinematic documentary, 35mm anamorphic look.
@@ -39,7 +39,7 @@ STYLE — Photorealistic cinematic documentary, 35mm anamorphic lens look, shall
 HARD RULES — No on-screen text, captions, logos or watermarks. Human characters have clear, natural, fully visible faces (realistic skin texture, eyes, expressions) that match their saved reference sheets exactly in every shot; these are invented fictional faces, not likenesses of any real person. Faces never morph, age, or change between shots. No gore, no visible violence, no weapons pointed at a person: danger is shown by aftermath, shadow, sound and the reaction of people, animals and objects. Historic and tragic events are implied through symbolic imagery (empty hammock, quiet clearing, dropped hat, shafts of light) and grief or fear on faces, never re-enacted.
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts, floating debris, texture smearing, plastic skin or fur, inconsistent shadows, distorted hands or anatomy.
 LIGHTING — Continuity of time-of-day per setting: rainforest = filtered green daylight with amber shafts; Tanaru = golden dusk; 1925 expedition = misty warm morning; river = bright overcast day; rubber trail = dawn; deforestation = smoky orange dusk; closing = night with stars and fireflies. No sudden light jumps between consecutive shots unless the script beat is a deliberate flash-cut.
-AUDIO — Diegetic SFX + evolving cinematic BGM only; no dialogue, no singing, no spoken words in the generated clip.
+AUDIO — Generated audio is ONLY instrumental cinematic BGM plus diegetic SFX (wind, water, birds, footsteps, fire, machines). Absolutely no dialogue, no voice-over, no narration, no speech in any language, no whispering, no humming, no singing, no chanting, no crowd voices; people never speak and their mouths stay closed. Any quoted or timing text in the prompt is a camera/timing cue, never spoken words.
 CAMERA — Smooth, physically plausible motion only; each shot's opening camera motion matches the previous shot's closing motion vector for a seamless cut.
 ```
 
@@ -191,7 +191,7 @@ A quiet forest clearing at night, a huge starry sky, Milky Way overhead, a black
 # STEP 3 & STEP 4 — SCENES (re-timed to the voice-over timestamps)
 
 **How each scene is shaped:**
-Header line (scene number, label, timestamp) → **VO sync** (the spoken lines and their timestamps that fall inside this scene) → Step 3 Ingredients → Step 3 Reference Image Prompt → Step 4 Ingredients → Video Prompt (with in-clip second marks, where `0s` = the scene's start time) → Sound → Cut→ to the next scene.
+Header line (scene number, label, timestamp) → **VO sync** (editor note only, never paste into Flow: the spoken lines and their timestamps that fall inside this scene) → Step 3 Ingredients → Step 3 Reference Image Prompt → Step 4 Ingredients → Video Prompt (with in-clip second marks, where `0s` = the scene's start time) → Sound → Cut→ to the next scene.
 Append the GLOBAL LOCK BLOCK to the end of every Step 3 and Step 4 prompt.
 
 ---
@@ -206,8 +206,8 @@ Ultra-wide drone-style aerial shot at dawn over an endless emerald Amazon canopy
 Save as: `S001_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S001_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S001_Ref.png`. 0–6s: the camera glides slowly forward over the canopy, mist curling around the treetops, the sun edging up; a flock of distant parrots crosses far below. 6–8s: the motion eases, the sun clears the horizon and the light warms, ready for the narrator's first word at 7s. Slow, majestic, no cuts.
-Sound (BGM+SFX, no dialogue): Deep low string drone and distant war-drum heartbeat fade in; wind rush, birdsong, a distant howler-monkey call; the music dips slightly at 7s to open space for the voice.
+I2V from `S001_Ref.png`. 0–6s: the camera glides slowly forward over the canopy, mist curling around the treetops, the sun edging up; a flock of distant parrots crosses far below. 6–8s: the motion eases, the sun clears the horizon and the light warms, ready for the narrator's first word at 7s. Slow, majestic, no cuts. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): Deep low string drone and distant war-drum heartbeat fade in; wind rush, birdsong, a distant howler-monkey call; the music dips slightly at 7s to open space for the voice.
 Cut→S002: Hard cut, continuing the same forward glide.
 
 **S002 — A place man cannot fully understand | 0:08–0:16**
@@ -218,8 +218,8 @@ Very high aerial view of the canopy stretching to the curved horizon in gold daw
 Save as: `S002_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S002_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S002_Ref.png`. 0–4s: the camera rises slowly and tilts up so the forest seems to widen to the horizon; 4–8s: mist banks thicken and drift across the canopy, so parts of the forest vanish behind them (the words "not fully understood" at 4s); the last second holds on one dark mist-hidden valley.
-Sound (BGM+SFX, no dialogue): Music thins to a sustained cello note with a hint of mystery; wind, distant birds, a low resonance as the mist thickens at 4s.
+I2V from `S002_Ref.png`. 0–4s: the camera rises slowly and tilts up so the forest seems to widen to the horizon; 4–8s: mist banks thicken and drift across the canopy, so parts of the forest vanish behind them; the last second holds on one dark mist-hidden valley. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): Music thins to a sustained cello note with a hint of mystery; wind, distant birds, a low resonance as the mist thickens at 4s.
 Cut→S003: Match cut on the mist-hidden valley, continuing the descent.
 
 **S003 — "Amazon forest" | 0:16–0:24**
@@ -230,8 +230,8 @@ Aerial shot looking down at a mist-covered valley of canopy where a small dark g
 Save as: `S003_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S003_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S003_Ref.png`. 0–1s: hold; at 1s ("Amazon forest") the sun flares golden over the canopy in one strong beat; 2–5s: the camera tilts down and begins a smooth dive toward the dark gap; 5–8s: it plunges through the gap between leaves and branches, and the light drops from gold to deep green as the canopy closes overhead ("no GPS signal" at 5s, "sunlight" at 7s).
-Sound (BGM+SFX, no dialogue): A strong orchestral hit on the sun flare at 1s; then a descending whoosh through leaves; the music turns hushed with a low drone; a faint electronic dropout crackle at 5s hinting at lost signal.
+I2V from `S003_Ref.png`. 0–1s: hold; at 1s the sun flares golden over the canopy in one strong beat; 2–5s: the camera tilts down and begins a smooth dive toward the dark gap; 5–8s: it plunges through the gap between leaves and branches, and the light drops from gold to deep green as the canopy closes overhead. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): A strong orchestral hit on the sun flare at 1s; then a descending whoosh through leaves; the music turns hushed with a low drone; a faint electronic dropout crackle at 5s hinting at lost signal.
 Cut→S004: Continuous dive, the camera arriving in the green gloom below.
 
 **S004 — Sunlight never touches the ground | 0:24–0:32**
@@ -242,8 +242,8 @@ Extreme low-angle shot on the forest floor looking up a tunnel of giant trunks, 
 Save as: `S004_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S004_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S004_Ref.png`. 0–3s: the light shafts fade and thin out until the floor is nearly dark ("never touches the ground" at 0s); 3–4s: a beat of stillness ("even this moment"); 4–8s: the camera tilts down slowly along a trunk and glides forward between the roots; far away a very faint thread of smoke and a warm glow appear between the trunks ("people no one knows" at 6s) and the shot holds on it.
-Sound (BGM+SFX, no dialogue): The cello note fades; dripping water, insect hum; a soft, mysterious pad rises at 4s; one distant wooden knock at 6s.
+I2V from `S004_Ref.png`. 0–3s: the light shafts fade and thin out until the floor is nearly dark; 3–4s: a beat of stillness; 4–8s: the camera tilts down slowly along a trunk and glides forward between the roots; far away a very faint thread of smoke and a warm glow appear between the trunks and the shot holds on it. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The cello note fades; dripping water, insect hum; a soft, mysterious pad rises at 4s; one distant wooden knock at 6s.
 Cut→S005: Match cut on the distant glow, becoming an aerial push toward the same smoke thread.
 
 **S005 — "This is a true story" | 0:32–0:40**
@@ -254,8 +254,8 @@ Aerial view pushing in toward one tiny forest clearing with a single thin thread
 Save as: `S005_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S005_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S005_Ref.png`. 0–4s: the camera pushes in slowly toward the clearing as the mist parts; 4–6s: the shot sharpens and the smoke thread becomes crisp ("not a myth" at 4s); 6–8s: the camera settles over the thatched roof and holds steady on it ("until 2022" at 7s).
-Sound (BGM+SFX, no dialogue): A suspense bed with a low pulsing synth; the pulse tightens at 4s; a single struck low note at 7s.
+I2V from `S005_Ref.png`. 0–4s: the camera pushes in slowly toward the clearing as the mist parts; 4–6s: the shot sharpens and the smoke thread becomes crisp; 6–8s: the camera settles over the thatched roof and holds steady on it. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): A suspense bed with a low pulsing synth; the pulse tightens at 4s; a single struck low note at 7s.
 Cut→S006: Hard cut to a wider aerial that pulls away from the clearing.
 
 **S006 — A warning on the horizon | 0:40–0:48**
@@ -266,8 +266,8 @@ Wide aerial view at dawn from above the clearing, the smoke thread small in the 
 Save as: `S006_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S006_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S006_Ref.png`. 0–3s: the camera pulls back and rises smoothly, the clearing shrinking below; 3–6s: the horizon smoke thickens and the orange glow grows brighter, foreshadowing the "last part" (5s); 6–8s: the camera holds a high wide, the smoke still rising ("still happening in the forest today" at 7s).
-Sound (BGM+SFX, no dialogue): The pulse continues under an ominous low brass note that rises at 4s; wind, distant faint crackle of fire at 6s.
+I2V from `S006_Ref.png`. 0–3s: the camera pulls back and rises smoothly, the clearing shrinking below; 3–6s: the horizon smoke thickens and the orange glow grows brighter, foreshadowing a danger to come; 6–8s: the camera holds a high wide, the smoke still rising. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The pulse continues under an ominous low brass note that rises at 4s; wind, distant faint crackle of fire at 6s.
 Cut→S007: Cross-dissolve into a new aerial descending toward a green forest island.
 
 **S007 — Tanaru | 0:48–0:56**
@@ -278,8 +278,8 @@ High aerial view descending toward a small isolated island of dense green forest
 Save as: `S007_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S007_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S007_Ref.png`. 0–3s: the camera glides forward over cleared pasture, the orange smoke glow still faint at the frame edge ("a danger", 0–2s); 3–7s: it tilts down and descends toward the forest island, the sharp line where the trees stop clearly visible ("Brazil… Rondônia… a forest", 3–6s); 7–8s: the camera stops just above the island, the sun brightening it on "Tanaru" (7s).
-Sound (BGM+SFX, no dialogue): A sombre low piano motif enters over the strings; wind and distant cattle lowing; a soft swell at 7s.
+I2V from `S007_Ref.png`. 0–3s: the camera glides forward over cleared pasture, the orange smoke glow still faint at the frame edge; 3–7s: it tilts down and descends toward the forest island, the sharp line where the trees stop clearly visible; 7–8s: the camera stops just above the island, the sun brightening it at 7s. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): A sombre low piano motif enters over the strings; wind and distant cattle lowing; a soft swell at 7s.
 Cut→S008: Continuous descent through the canopy into the forest.
 
 ---
@@ -294,8 +294,8 @@ Wide shot from behind blurred foreground leaves into the golden-dusk clearing, t
 Save as: `S008_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S008_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S008_Ref.png`. 0–2s: the camera creeps forward through the foreground leaves ("in this forest… 26 years", 0–1s); 2–5s: the leaves part and the camera slides closer as he stands alone, and at 4s he slowly turns so his lined, watchful face becomes clearly visible ("only one man… alone" at 2–4s); 5–8s: the camera holds a medium shot as he looks toward the trees, calm and unspeaking ("no name… no one knows his language", 5–8s).
-Sound (BGM+SFX, no dialogue): The piano motif continues over a soft pad; forest evening ambience; a single low string swell as the face is revealed at 4s.
+I2V from `S008_Ref.png`. 0–2s: the camera creeps forward through the foreground leaves; 2–5s: the leaves part and the camera slides closer as he stands alone, and at 4s he slowly turns so his lined, watchful face becomes clearly visible; 5–8s: the camera holds a medium shot as he looks toward the trees, calm and unspeaking. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The piano motif continues over a soft pad; forest evening ambience; a single low string swell as the face is revealed at 4s.
 Cut→S009: Hard cut to a closer shot of his face.
 
 **S009 — "Man of the Hole" | 1:04–1:12**
@@ -306,8 +306,8 @@ Close-up of the lone man's lined face in three-quarter profile, dark watchful ey
 Save as: `S009_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S009_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S009_Ref.png`. 0–4s: a very slow push-in on his face; his eyes glance away and his expression stays sorrowful ("no record of his people", 1–2s); 4–5s: a beat of stillness; 5–8s: a rack focus shifts from his face to the pit behind him ("Man of the Hole" at 5s) and the camera holds on the dark round opening.
-Sound (BGM+SFX, no dialogue): The music drops to a hollow low tone; fire crackle from off-screen; at 5s a deep resonant "hole" hit with a fading echo.
+I2V from `S009_Ref.png`. 0–4s: a very slow push-in on his face; his eyes glance away and his expression stays sorrowful; 4–5s: a beat of stillness; 5–8s: a rack focus shifts from his face to the pit behind him and the camera holds on the dark round opening. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The music drops to a hollow low tone; fire crackle from off-screen; at 5s a deep resonant "hole" hit with a fading echo.
 Cut→S010: Match cut on the round dark pit, becoming a top-down shot of many pits.
 
 **S010 — The deep holes | 1:12–1:20**
@@ -318,8 +318,8 @@ Straight top-down view of the forest floor at golden dusk with a single deep rou
 Save as: `S010_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S010_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S010_Ref.png`. 0–3s: the camera rises slowly straight up from the pit; at 3s ("deep holes") a second pit comes into view at the frame edge; 3–6s: as the camera keeps rising, further pits appear one after another across the forest floor, forming a scattered pattern ("dug in a place for each", 3–5s); 6–8s: the camera drifts toward a pit covered with a thin lattice of branches and leaves, a trap, and holds on it ("to trap animals", 7s).
-Sound (BGM+SFX, no dialogue): Slow rising strings; soil crumble, rustle of leaves; a soft percussive thud as each new pit appears; a light sting on the covered trap at 7s.
+I2V from `S010_Ref.png`. 0–3s: the camera rises slowly straight up from the pit; at 3s a second pit comes into view at the frame edge; 3–6s: as the camera keeps rising, further pits appear one after another across the forest floor, forming a scattered pattern; 6–8s: the camera drifts toward a pit covered with a thin lattice of branches and leaves, a trap, and holds on it. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): Slow rising strings; soil crumble, rustle of leaves; a soft percussive thud as each new pit appears; a light sting on the covered trap at 7s.
 Cut→S011: Hard cut to a forward dolly at ground level.
 
 **S011 — The empty hole inside the hut | 1:20–1:28**
@@ -330,8 +330,8 @@ Low ground-level view along the forest floor at golden dusk toward the palm-that
 Save as: `S011_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S011_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S011_Ref.png`. 0–2s: the camera glides forward past the root-pit ("some holes… a hiding place", 2–3s); 3–5s: it moves through the open front of the hut ("inside the house", 4s); 5–7s: it slows and stops over a round empty pit dug in the earthen floor ("an empty hole", 5s), the empty hammock swaying above; 7–8s: a slow rack focus into the pit's depth ("no one understands why", 6–8s).
-Sound (BGM+SFX, no dialogue): The music thins to a hollow held note; soft footstep-like percussion; hammock rope creak; a low sting at 5s on the pit.
+I2V from `S011_Ref.png`. 0–2s: the camera glides forward past the root-pit; 3–5s: it moves through the open front of the hut; 5–7s: it slows and stops over a round empty pit dug in the earthen floor, the empty hammock swaying above; 7–8s: a slow rack focus into the pit's depth. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The music thins to a hollow held note; soft footstep-like percussion; hammock rope creak; a low sting at 5s on the pit.
 Cut→S012: Hard cut to a smoky orange wide shot.
 
 ---
@@ -346,8 +346,8 @@ Wide low-angle shot at smoky orange dusk along a red-earth road toward the fores
 Save as: `S012_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S012_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S012_Ref.png`. 0–3s: the camera holds still on the empty road as smoke drifts ("why was he alone?"); 3–5s: from 3s ("the 1970s") the bulldozer begins to emerge from the haze and grows larger as it advances; 5–8s: it rolls closer with its blade pushing soil, and the camera slowly dollies back ahead of it ("land-grabbing outsiders", 5–8s).
-Sound (BGM+SFX, no dialogue): Dark low brass drone and a slow taiko; from 3s the diesel rumble and track clank rise; wood cracking at the end.
+I2V from `S012_Ref.png`. 0–3s: the camera holds still on the empty road as smoke drifts; 3–5s: from 3s the bulldozer begins to emerge from the haze and grows larger as it advances; 5–8s: it rolls closer with its blade pushing soil, and the camera slowly dollies back ahead of it. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): Dark low brass drone and a slow taiko; from 3s the diesel rumble and track clank rise; wood cracking at the end.
 Cut→S013: Hard cut to the emptied village clearing.
 
 **S013 — His people destroyed | 1:36–1:44**
@@ -358,8 +358,8 @@ Wide view at smoky dusk of the clearing after a tragedy: several empty hammocks 
 Save as: `S013_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S013_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S013_Ref.png`. 0–4s: the camera glides slowly sideways across the silent clearing, empty hammocks swaying and smoke curling over cold hearths ("his whole people wiped out… a massacre", 0–4s; nothing violent is shown); 4–6s: the camera stops and the man slowly steps out from behind the tree, his face visible with fear and grief ("only he escaped", 5s); 6–8s: he looks toward the forest edge, distrustful ("no one after that he trusted", 7s).
-Sound (BGM+SFX, no dialogue): Music turns mournful with a low cello; wind, creaking hammock ropes, distant fading engine; a soft low sting at 5s.
+I2V from `S013_Ref.png`. 0–4s: the camera glides slowly sideways across the silent clearing, empty hammocks swaying and smoke curling over cold hearths; 4–6s: the camera stops and the man slowly steps out from behind the tree, his face visible with fear and grief; 6–8s: he looks toward the forest edge, distrustful. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): Music turns mournful with a low cello; wind, creaking hammock ropes, distant fading engine; a soft low sting at 5s.
 Cut→S014: Cross-dissolve into an observer's view through leaves.
 
 **S014 — Watched from a distance | 1:44–1:52**
@@ -370,8 +370,8 @@ Medium telephoto shot compressed through blurred foreground leaves, the lone man
 Save as: `S014_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S014_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S014_Ref.png`. 0–3s: a slow lateral creep behind the foreground leaves ("a government department", 1–2s); 3–6s: at 3s ("watched from afar") the camera eases back so the man is smaller and more distant behind the leaf screen; he tends the fire and glances toward the trees; 6–8s: the camera stops at the same distance, refusing to move nearer ("never went close", 6s).
-Sound (BGM+SFX, no dialogue): Quiet held-breath ambience, faint crackling fire, insects, a soft pad; a subtle camera-focus click at 3s; a distant woodpecker.
+I2V from `S014_Ref.png`. 0–3s: a slow lateral creep behind the foreground leaves; 3–6s: at 3s the camera eases back so the man is smaller and more distant behind the leaf screen; he tends the fire and glances toward the trees; 6–8s: the camera stops at the same distance, refusing to move nearer. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): Quiet held-breath ambience, faint crackling fire, insects, a soft pad; a subtle camera-focus click at 3s; a distant woodpecker.
 Cut→S015: Hard cut to a closer view of him raising the bow.
 
 **S015 — The warning arrow | 1:52–2:00**
@@ -382,8 +382,8 @@ Medium shot at golden dusk of the lone man at the edge of the clearing in three-
 Save as: `S015_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S015_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S015_Ref.png`. 0–2s: the camera pushes in slowly as he draws the bow tight ("anyone who approaches…", 0–2s); 2–3s: he releases and the arrow flies out of frame into the dark trees, a warning shot, and we hear it strike a trunk ("drives them off with arrows", 2s); 3–8s: he lowers the bow, the fierce look softening into a lonely, exhausted stare; the camera pushes to a close view of his face ("think about it… 26 years… one man… no one to talk to", 3–8s).
-Sound (BGM+SFX, no dialogue): Music thins to one held string note; bow-string creak, whoosh of the arrow, a wood thud at 2s; the note swells softly at 4s into a lonely melody.
+I2V from `S015_Ref.png`. 0–2s: the camera pushes in slowly as he draws the bow tight; 2–3s: he releases and the arrow flies out of frame into the dark trees, a warning shot, and we hear it strike a trunk; 3–8s: he lowers the bow, the fierce look softening into a lonely, exhausted stare; the camera pushes to a close view of his face. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): Music thins to one held string note; bow-string creak, whoosh of the arrow, a wood thud at 2s; the note swells softly at 4s into a lonely melody.
 Cut→S016: Cross-dissolve into a time-lapse of the clearing.
 
 **S016 — The forest was his world | 2:00–2:08**
@@ -394,8 +394,8 @@ Locked-off wide shot of the empty clearing and palm-thatch hut at golden dusk, a
 Save as: `S016_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S016_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S016_Ref.png`. 0–4s: a time-lapse of clouds and seasons: light moves from dusk through night, dawn and day, leaves grow slightly around the clearing while the hut stays unchanged ("no one to share his culture… the forest was his world", 0–4s); 4s ("August 2022"): the light settles into a calm, soft late-morning glow; 5–8s: the camera begins a smooth forward move along a forest path toward the hut as if a visitor were walking ("an officer went to look around as usual", 6–8s).
-Sound (BGM+SFX, no dialogue): Slow melancholic solo flute; fast wind whoosh, day-night bird and cricket cycles; at 4s the sound calms to a soft morning ambience; light footsteps from 5s.
+I2V from `S016_Ref.png`. 0–4s: a time-lapse of clouds and seasons: light moves from dusk through night, dawn and day, leaves grow slightly around the clearing while the hut stays unchanged; 4s: the light settles into a calm, soft late-morning glow; 5–8s: the camera begins a smooth forward move along a forest path toward the hut as if a visitor were walking. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): Slow melancholic solo flute; fast wind whoosh, day-night bird and cricket cycles; at 4s the sound calms to a soft morning ambience; light footsteps from 5s.
 Cut→S017: Continuous forward move, the camera entering the hut.
 
 **S017 — Found in the hammock | 2:08–2:16**
@@ -406,8 +406,8 @@ Soft-lit view from the doorway into the hut, a woven hammock hanging in the cent
 Save as: `S017_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S017_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S017_Ref.png`. 0–3s: the camera moves slowly through the doorway toward the hammock ("inside his hut… on a hammock", 1–2s); 3–4s: it stops and holds on his peaceful, still face ("that man was lying dead", 3–4s); 4–6s: the camera pans gently across the tidy hut, bow, pots and cold fire all undisturbed ("no violence", 5s); 6–8s: it tilts down to the earthen floor, showing only one line of his own footprints ("no trace of another person", 7s). Nothing graphic.
-Sound (BGM+SFX, no dialogue): The flute fades to a single soft sustained string; a faint breeze through thatch and a gentle hammock creak; a hush at 4s; a very soft note at 7s.
+I2V from `S017_Ref.png`. 0–3s: the camera moves slowly through the doorway toward the hammock; 3–4s: it stops and holds on his peaceful, still face; 4–6s: the camera pans gently across the tidy hut, bow, pots and cold fire all undisturbed; 6–8s: it tilts down to the earthen floor, showing only one line of his own footprints. Nothing graphic. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The flute fades to a single soft sustained string; a faint breeze through thatch and a gentle hammock creak; a hush at 4s; a very soft note at 7s.
 Cut→S018: Match cut on the hammock, moving to a close top-down view of the feathers.
 
 **S018 — The macaw feathers | 2:16–2:24**
@@ -418,8 +418,8 @@ Close top-down view of the hammock, scarlet-and-blue macaw feathers laid careful
 Save as: `S018_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S018_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S018_Ref.png`. 0–2s: a slow push-in on the hammock ("the way he was lying", 0–2s); 2–4s: a gentle drift down over the feathers, a breeze stirring one feather ("macaw feathers… as decoration", 2–4s); 4–6s: the camera glides slowly up to his peaceful face ("as if preparing himself for death", 4–6s); 6–8s: it holds still, a scarlet feather settling in the last second.
-Sound (BGM+SFX, no dialogue): A slow, reverent string melody; a soft feather rustle, a breeze; one distant macaw call at 2s; silence in the last second.
+I2V from `S018_Ref.png`. 0–2s: a slow push-in on the hammock; 2–4s: a gentle drift down over the feathers, a breeze stirring one feather; 4–6s: the camera glides slowly up to his peaceful face; 6–8s: it holds still, a scarlet feather settling in the last second. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): A slow, reverent string melody; a soft feather rustle, a breeze; one distant macaw call at 2s; silence in the last second.
 Cut→S019: Slow cross-dissolve, the camera pulling back from the hut.
 
 **S019 — Everything vanished with him | 2:24–2:32**
@@ -430,8 +430,8 @@ Wide view from outside the hut looking at the open front at soft dusk, the hammo
 Save as: `S019_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S019_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S019_Ref.png`. 0–3s: the camera pulls slowly back from the hut ("the real horror is here", 1s); 3–6s: mist thickens and drifts across the clearing, and the fire embers glow lower ("his language… his tribe's name… his own name", 3–6s); 6–8s: the last ember dies and the smoke dissolves, and the hut fades into the mist and darkness ("all of it lost with his death", 7s).
-Sound (BGM+SFX, no dialogue): The melody fades to a single low note; crackle of dying embers, a fading breeze; a last soft hiss as the ember goes out at 7s.
+I2V from `S019_Ref.png`. 0–3s: the camera pulls slowly back from the hut; 3–6s: mist thickens and drifts across the clearing, and the fire embers glow lower; 6–8s: the last ember dies and the smoke dissolves, and the hut fades into the mist and darkness. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The melody fades to a single low note; crackle of dying embers, a fading breeze; a last soft hiss as the ember goes out at 7s.
 Cut→S020: Cross-dissolve, the camera rising into the sky.
 
 ---
@@ -446,8 +446,8 @@ High aerial view at pre-dawn blue light over the canopy, several tiny distant sm
 Save as: `S020_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S020_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S020_Ref.png`. 0–5s: the camera rises and drifts forward, revealing more and more small smoke threads across the canopy so a pattern forms ("this is not a single incident… a part of a big pattern", 1–5s); 5–8s: the sun rises, the colour warms to a sepia-tinged golden tone and mist thickens across the frame, ending as a soft warm haze ready for a dissolve into a mist trail ("1925", 6s).
-Sound (BGM+SFX, no dialogue): A slow rising string line; wind and distant birds; at 6s a soft old-film-like warmth enters the music with a gentle harp.
+I2V from `S020_Ref.png`. 0–5s: the camera rises and drifts forward, revealing more and more small smoke threads across the canopy so a pattern forms; 5–8s: the sun rises, the colour warms to a sepia-tinged golden tone and mist thickens across the frame, ending as a soft warm haze ready for a dissolve into a mist trail. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): A slow rising string line; wind and distant birds; at 6s a soft old-film-like warmth enters the music with a gentle harp.
 Cut→S021: Cross-dissolve out of the haze into a 1925 trail camp.
 
 **S021 — The colonel and his belief | 2:40–2:48**
@@ -458,8 +458,8 @@ Medium shot in warm misty morning light at the 1925 camp: the tall grey-moustach
 Save as: `S021_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S021_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S021_Ref.png`. 0–2s: the camera settles ("an English army officer", 0–2s); 2–5s: it pushes in slowly toward the colonel's face as his pale blue eyes light with conviction ("named Percy Fawcett… he had a belief", 2–4s); 5–8s: a rack focus drops from his face to the map on the crate where a hand-inked circle marks an empty unmapped centre ("an ancient city hidden in the Amazon", 5–8s).
-Sound (BGM+SFX, no dialogue): A gentle adventurous theme on pizzicato strings; paper rustle, lantern flutter, dawn birds; a soft mystery sting at 6s on the circled mark.
+I2V from `S021_Ref.png`. 0–2s: the camera settles; 2–5s: it pushes in slowly toward the colonel's face as his pale blue eyes light with conviction; 5–8s: a rack focus drops from his face to the map on the crate where a hand-inked circle marks an empty unmapped centre. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): A gentle adventurous theme on pizzicato strings; paper rustle, lantern flutter, dawn birds; a soft mystery sting at 6s on the circled mark.
 Cut→S022: Hard cut to a macro of the map.
 
 **S022 — The name on the map, and the earlier journeys | 2:48–2:56**
@@ -470,8 +470,8 @@ Macro top-down view of a stained hand-drawn map on a wooden crate, ink rivers wi
 Save as: `S022_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S022_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S022_Ref.png`. 0–3s: the camera holds tight on the circled glyph as it seems to glow softly ("he named it", 0–3s); 3–6s: the camera glides slowly along the dotted inked routes that loop out into the forest and return to the river ("many times he had gone in and returned", 3–6s); 6–8s: it rises slightly to show the whole map and a brass compass lying beside it ("the Royal Geographical Society…", 7s).
-Sound (BGM+SFX, no dialogue): The theme drops to a hushed harp and low strings; paper crinkle, a lantern glass tick, a moth's wing flutter; a soft reverent swell at 7s.
+I2V from `S022_Ref.png`. 0–3s: the camera holds tight on the circled glyph as it seems to glow softly; 3–6s: the camera glides slowly along the dotted inked routes that loop out into the forest and return to the river; 6–8s: it rises slightly to show the whole map and a brass compass lying beside it. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The theme drops to a hushed harp and low strings; paper crinkle, a lantern glass tick, a moth's wing flutter; a soft reverent swell at 7s.
 Cut→S023: Hard cut to the trail head, wide.
 
 **S023 — The last journey begins | 2:56–3:04**
@@ -482,8 +482,8 @@ Wide establishing shot in warm misty morning light on a muddy jungle trail: the 
 Save as: `S023_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S023_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S023_Ref.png`. 0–3s: the camera cranes slowly up and back as the colonel looks ahead resolutely ("the society trusted his maps", 0–3s); 3–5s: the young man and the companion walk into frame to stand beside him ("with his son Jack… and his son's friend", 3–5s); 5–8s: the three step forward together onto the trail, the camera arcing to a three-quarter front angle ("the last journey… he set out", 5–8s).
-Sound (BGM+SFX, no dialogue): The adventurous theme rises to a hopeful swell with brass and strings; boots in mud, canvas rustle, dawn bird chorus; a drum accent as they step out at 5s.
+I2V from `S023_Ref.png`. 0–3s: the camera cranes slowly up and back as the colonel looks ahead resolutely; 3–5s: the young man and the companion walk into frame to stand beside him; 5–8s: the three step forward together onto the trail, the camera arcing to a three-quarter front angle. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The adventurous theme rises to a hopeful swell with brass and strings; boots in mud, canvas rustle, dawn bird chorus; a drum accent as they step out at 5s.
 Cut→S024: Match cut on their stride, into a ground-level tracking shot.
 
 ---
@@ -498,8 +498,8 @@ Low-angle shot at mud level of three pairs of leather boots and puttees marching
 Save as: `S024_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S024_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S024_Ref.png`. 0–4s: the camera tracks backwards ahead of the marching boots, mud squelching, then tilts up to their faces ("into Brazil's forest… deep", 1–4s); 4–8s: the jungle closes in, the light dims and the trail narrows, and the three men pass into deeper shadow ("in a letter… information we send will reach no one", 5–8s).
-Sound (BGM+SFX, no dialogue): The theme carries a steady marching pulse that slows and turns uneasy at 4s; squelching boots, leather creak, insects growing louder; music thins at 8s.
+I2V from `S024_Ref.png`. 0–4s: the camera tracks backwards ahead of the marching boots, mud squelching, then tilts up to their faces; 4–8s: the jungle closes in, the light dims and the trail narrows, and the three men pass into deeper shadow. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The theme carries a steady marching pulse that slows and turns uneasy at 4s; squelching boots, leather creak, insects growing louder; music thins at 8s.
 Cut→S025: Hard cut to a macro of a letter.
 
 **S025 — The last letter, and the empty camp | 3:12–3:20**
@@ -510,8 +510,8 @@ Macro of a folded letter sealed with a red wax seal on a wooden crate, faint blu
 Save as: `S025_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S025_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S025_Ref.png`. 0–2s: the lantern flame flickers over the wax seal ("they wrote and sent it", 0–1s); 2–3s: the flame gutters and goes out ("the three of them vanished", 1–2s); 3–5s: the camera pulls smoothly back from the crate to reveal the whole camp empty and quiet in the mist; 5–8s: a time-lapse begins — dozens of boot prints in different sizes appear across the mud, one group after another, all leading into the trees ("the next 90 years… hundreds went searching", 3–8s).
-Sound (BGM+SFX, no dialogue): A solo violin, then silence at 2s as the flame dies; a hollow low pad with a slow tick; from 5s a steady rhythm of footsteps building.
+I2V from `S025_Ref.png`. 0–2s: the lantern flame flickers over the wax seal; 2–3s: the flame gutters and goes out; 3–5s: the camera pulls smoothly back from the crate to reveal the whole camp empty and quiet in the mist; 5–8s: a time-lapse begins — dozens of boot prints in different sizes appear across the mud, one group after another, all leading into the trees. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): A solo violin, then silence at 2s as the flame dies; a hollow low pad with a slow tick; from 5s a steady rhythm of footsteps building.
 Cut→S026: Hard cut to a bone in the leaf-litter.
 
 **S026 — The bones that were not his | 3:20–3:28**
@@ -522,8 +522,8 @@ Macro of a single old bleached long bone half-buried in mossy leaf-litter beside
 Save as: `S026_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S026_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S026_Ref.png`. 0–2s: the camera pushes in slowly on the bone ("a skeleton was found", 0–1s); 2–4s: the amber shaft of light drifts off the bone and the scene cools ("but the DNA test… not Fawcett's", 2–4s); 4–6s: the camera tilts up past the moss to an old pith helmet hanging on a broken branch above ("some never came back", 5s); 6–8s: it holds there as the helmet sways in the mist ("this search has taken thousands of lives", 7s).
-Sound (BGM+SFX, no dialogue): A dissonant low string cluster; a droplet plink, beetle rustle; a wood creak from the helmet at 5s; a hollow wind tone.
+I2V from `S026_Ref.png`. 0–2s: the camera pushes in slowly on the bone; 2–4s: the amber shaft of light drifts off the bone and the scene cools; 4–6s: the camera tilts up past the moss to an old pith helmet hanging on a broken branch above; 6–8s: it holds there as the helmet sways in the mist. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): A dissonant low string cluster; a droplet plink, beetle rustle; a wood creak from the helmet at 5s; a hollow wind tone.
 Cut→S027: Hard cut to a slow forward glide down the trail.
 
 **S027 — Nobody knows what happened | 3:28–3:36**
@@ -534,8 +534,8 @@ Wide low view along a misty forest trail at dawn, giant trunks on both sides, an
 Save as: `S027_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S027_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S027_Ref.png`. 0–4s: the camera glides slowly forward down the empty trail ("till today… no one knows what became of Fawcett", 0–4s); 4–6s: the stone steps become clearer through the mist ("his City of Z", 5s); 6–8s: the mist swirls back in and partly hides the steps again ("does it exist or not?", 6–8s), leaving it ambiguous.
-Sound (BGM+SFX, no dialogue): A hopeful yet uneasy theme on solo horn and low strings; wind, distant jungle calls; a tonal sting at 5s as the steps appear.
+I2V from `S027_Ref.png`. 0–4s: the camera glides slowly forward down the empty trail; 4–6s: the stone steps become clearer through the mist; 6–8s: the mist swirls back in and partly hides the steps again, leaving it ambiguous. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): A hopeful yet uneasy theme on solo horn and low strings; wind, distant jungle calls; a tonal sting at 5s as the steps appear.
 Cut→S028: Hard cut to the mist thickening.
 
 **S028 — The forest keeps its secrets | 3:36–3:44**
@@ -546,8 +546,8 @@ Low wide view of thick white mist rolling across the mossy stone steps in the fo
 Save as: `S028_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S028_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S028_Ref.png`. 0–4s: the mist thickens and swallows the steps completely ("a big mystery", 0–2s; "one thing is certain", 3s); 4–6s: the camera rises up through the mist and canopy ("Amazon forest… keeps its secret", 4–6s); 6–8s: it breaks into light above the canopy and tilts to show a brown river winding through the forest ("not only people…", 7s).
-Sound (BGM+SFX, no dialogue): The horn theme fades; soft wind and a hush as the mist swallows the steps; a whoosh as the camera rises; a rising note at 6s.
+I2V from `S028_Ref.png`. 0–4s: the mist thickens and swallows the steps completely; 4–6s: the camera rises up through the mist and canopy; 6–8s: it breaks into light above the canopy and tilts to show a brown river winding through the forest. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The horn theme fades; soft wind and a hush as the mist swallows the steps; a whoosh as the camera rises; a rising note at 6s.
 Cut→S029: Hard cut to a skimming shot over the river.
 
 ---
@@ -562,8 +562,8 @@ Low tracking view skimming just above the brown Amazon river surface toward a mi
 Save as: `S029_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S029_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S029_Ref.png`. 0–3s: the camera skims forward over the water surface ("the Amazon river itself… a living danger", 0–2s); 3–4s: it dips smoothly into the tea-brown water, particles swirling; 4–8s: underwater a tiny translucent candiru hangs in the current beside a sand grain and a leaf edge for scale ("there is a fish… named candiru", 3–5s; "not even an inch long", 6–7s).
-Sound (BGM+SFX, no dialogue): The music turns wary with a low drone; water rush, then a muffled underwater ambience from 4s; soft bubble pops and a faint high sting on the fish.
+I2V from `S029_Ref.png`. 0–3s: the camera skims forward over the water surface; 3–4s: it dips smoothly into the tea-brown water, particles swirling; 4–8s: underwater a tiny translucent candiru hangs in the current beside a sand grain and a leaf edge for scale. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The music turns wary with a low drone; water rush, then a muffled underwater ambience from 4s; soft bubble pops and a faint high sting on the fish.
 Cut→S030: Match cut on the small fish, into a wider shallow-water shot.
 
 **S030 — Locals stay wary | 3:52–4:00**
@@ -574,8 +574,8 @@ Medium shot from the riverbank of the rubber-tapper (a local man in a straw hat)
 Save as: `S030_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S030_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S030_Ref.png`. 0–3s: the man glances at the water, then slowly and carefully steps back toward the bank ("locals fear it… stay careful when standing wet in the river", 0–4s); 4–6s: the camera cuts down through the surface to show the thin candiru shadow following the ripple line toward a root crack ("enters open places on the body", 4–6s); 6–8s: the fish slips inside the crack in the root and vanishes ("once it gets in", 7s). Nothing shown on a body.
-Sound (BGM+SFX, no dialogue): Suspense pulse over low strings; soft water lapping, careful footsteps; a muffled underwater tone from 4s; a soft sting at 7s.
+I2V from `S030_Ref.png`. 0–3s: the man glances at the water, then slowly and carefully steps back toward the bank; 4–6s: the camera cuts down through the surface to show the thin candiru shadow following the ripple line toward a root crack; 6–8s: the fish slips inside the crack in the root and vanishes. Nothing shown on a body. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): Suspense pulse over low strings; soft water lapping, careful footsteps; a muffled underwater tone from 4s; a soft sting at 7s.
 Cut→S031: Hard cut to a dark, dramatic shoal.
 
 **S031 — The movie piranha myth | 4:00–4:08**
@@ -586,8 +586,8 @@ Low-angle underwater shot looking up, a dark shoal of about fifteen red-bellied 
 Save as: `S031_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S031_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S031_Ref.png`. 0–2s: the camera drifts through dark roots as the light dims ("it must be removed by an operation", 0–2s); 3s: the shoal swings into view and turns toward the lens in a dramatic thriller-style approach ("piranha", 3s); 4–7s: the shoal swirls and charges closer, teeth glinting, exactly like a movie ("as shown in cinema… eat a man in a minute", 4–7s); 7–8s: the shoal turns sharply away.
-Sound (BGM+SFX, no dialogue): A horror-movie style rising string tremolo and pounding bass from 3s; muffled water rush, fin flicks; a sharp sting at 4s.
+I2V from `S031_Ref.png`. 0–2s: the camera drifts through dark roots as the light dims; 3s: the shoal swings into view and turns toward the lens in a dramatic thriller-style approach; 4–7s: the shoal swirls and charges closer, teeth glinting, exactly like a movie; 7–8s: the shoal turns sharply away. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): A horror-movie style rising string tremolo and pounding bass from 3s; muffled water rush, fin flicks; a sharp sting at 4s.
 Cut→S032: Hard cut to a calm single fish.
 
 **S032 — Alone, calm; together, when water shrinks, dangerous | 4:08–4:16**
@@ -598,8 +598,8 @@ Underwater view of a lone piranha cruising peacefully past submerged roots and l
 Save as: `S032_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S032_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S032_Ref.png`. 0–3s: the camera tracks alongside the lone piranha as it glides calmly and nibbles a drifting fruit ("in truth alone… mostly not dangerous", 0–3s); 3–4s: the camera rises through the surface; 4–8s: above water a time-lapse shows the river pool shrinking and cracked mud spreading while dozens of piranhas crowd the small pool and churn the surface harder and harder ("when the water drops, no food, a big crowd… the danger is real", 3–7s).
-Sound (BGM+SFX, no dialogue): Gentle low pizzicato; soft underwater tone; from 3s a building tension with rising drums, splashes and fin slaps; dry wind at 7s.
+I2V from `S032_Ref.png`. 0–3s: the camera tracks alongside the lone piranha as it glides calmly and nibbles a drifting fruit; 3–4s: the camera rises through the surface; 4–8s: above water a time-lapse shows the river pool shrinking and cracked mud spreading while dozens of piranhas crowd the small pool and churn the surface harder and harder. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): Gentle low pizzicato; soft underwater tone; from 3s a building tension with rising drums, splashes and fin slaps; dry wind at 7s.
 Cut→S033: Whip pan to a still, quiet water surface.
 
 **S033 — The heaviest snake | 4:16–4:24**
@@ -610,8 +610,8 @@ Water-level view at the flooded roots of a riverbank, the still brown surface at
 Save as: `S033_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S033_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S033_Ref.png`. 0–1s: the surface is still, then the snout rises slightly ("one more… anaconda", 1s); 1–4s: the camera pulls slowly back and lowers through the surface to reveal the huge olive body coiled among the roots underwater ("the world's heaviest snake", 1–3s); 4–8s: it lies almost motionless with only slow gill-like ripples, a bird's shadow passing over the surface ("hides in the water… hunts animals that come to drink", 4–8s).
-Sound (BGM+SFX, no dialogue): A very low slow drone with a heartbeat; water lapping, an insect hum; a hiss at 1s; a muffled underwater tone from 3s.
+I2V from `S033_Ref.png`. 0–1s: the surface is still, then the snout rises slightly; 1–4s: the camera pulls slowly back and lowers through the surface to reveal the huge olive body coiled among the roots underwater; 4–8s: it lies almost motionless with only slow gill-like ripples, a bird's shadow passing over the surface. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): A very low slow drone with a heartbeat; water lapping, an insect hum; a hiss at 1s; a muffled underwater tone from 3s.
 Cut→S034: Match cut to a close view of its eye.
 
 **S034 — The recorded 1997 incident | 4:24–4:32**
@@ -622,8 +622,8 @@ Extreme macro of the anaconda's amber eye with its vertical pupil and wet olive 
 Save as: `S034_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S034_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S034_Ref.png`. 0–3s: the pupil narrows slightly ("attacks on people are rare", 0–2s); 3–5s: a rack focus shifts from the eye to the garden across the water ("but in 1997… a gardener in Brazil", 3–5s); 5–8s: a slow ripple crosses the river toward the garden and the camera holds as birds fly off ("an anaconda attack… a recorded true incident", 6–8s). Nothing violent shown.
-Sound (BGM+SFX, no dialogue): Held low tone; tongue flick, water drips; a tension sting at 3s; distant birds flushing at 6s.
+I2V from `S034_Ref.png`. 0–3s: the pupil narrows slightly; 3–5s: a rack focus shifts from the eye to the garden across the water; 5–8s: a slow ripple crosses the river toward the garden and the camera holds as birds fly off. Nothing violent shown. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): Held low tone; tongue flick, water drips; a tension sting at 3s; distant birds flushing at 6s.
 Cut→S035: Cut to a slow tilt from the water up.
 
 **S035 — Water, soil, tree, wind: nowhere safe | 4:32–4:40**
@@ -634,8 +634,8 @@ Low view at the river's edge at the water surface, a muddy bank beside it with a
 Save as: `S035_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S035_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S035_Ref.png`. 0–4s: the camera holds at the water surface as ripples pass ("see how this forest warns you", 0–3s); 4s ("water") the water darkens; 4–5s ("soil") the camera tilts up over the muddy bank; 5s ("tree") it climbs the trunk; 5–6s ("wind") it reaches the canopy, which sways hard in a gust; 6–8s: the wind drops completely and everything goes still ("nothing is safe", 6s).
-Sound (BGM+SFX, no dialogue): A wary theme; water lapping, a wet mud squelch, a wood creak, a wind gust rising; a sudden hush at 6s.
+I2V from `S035_Ref.png`. 0–4s: the camera holds at the water surface as ripples pass; 4s the water darkens; 4–5s the camera tilts up over the muddy bank; 5s it climbs the trunk; 5–6s it reaches the canopy, which sways hard in a gust; 6–8s: the wind drops completely and everything goes still. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): A wary theme; water lapping, a wet mud squelch, a wood creak, a wind gust rising; a sudden hush at 6s.
 Cut→S036: Cross-dissolve to the dawn trail.
 
 ---
@@ -650,8 +650,8 @@ Wide shot at dawn on a misty rubber-tree trail, the rubber tapper in a straw hat
 Save as: `S036_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S036_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S036_Ref.png`. 0–3s: the mist swirls and light beams shift, the trail quiet ("a true incident… not about animals, about humans", 0–4s); 4s ("Chico Mendes"): he steps into a shaft of gold light and the camera settles on his face; 5–8s: the camera tracks backwards ahead of him as he walks and touches a rubber tree ("a man… from a rubber tree", 5–8s).
-Sound (BGM+SFX, no dialogue): A warm humble guitar and flute theme enters; boots on mud, dawn birds; a soft chime as he enters the light at 4s.
+I2V from `S036_Ref.png`. 0–3s: the mist swirls and light beams shift, the trail quiet; 4s: he steps into a shaft of gold light and the camera settles on his face; 5–8s: the camera tracks backwards ahead of him as he walks and touches a rubber tree. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): A warm humble guitar and flute theme enters; boots on mud, dawn birds; a soft chime as he enters the light at 4s.
 Cut→S037: Hard cut to a macro on the cut in the bark.
 
 **S037 — The forest he grew up in | 4:48–4:56**
@@ -662,8 +662,8 @@ Macro of a curved tapping knife making a fresh diagonal cut into a rubber tree's
 Save as: `S037_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S037_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S037_Ref.png`. 0–3s: the knife draws a smooth shallow cut and milky latex wells up and runs down into a tin cup ("the milk-tapping worker", 0–2s); 3–5s: the camera rises from the cup along his arm to his face ("he grew up in this forest", 3–5s); 5–8s: he turns to look toward a dark column of smoke far above the ridge, his brow furrowing with sorrow ("saw the forest destroyed… deep sorrow", 5–8s).
-Sound (BGM+SFX, no dialogue): The theme stays warm; knife scrape and latex drip; from 5s a low cello darkens the music and a distant chainsaw whine rises.
+I2V from `S037_Ref.png`. 0–3s: the knife draws a smooth shallow cut and milky latex wells up and runs down into a tin cup; 3–5s: the camera rises from the cup along his arm to his face; 5–8s: he turns to look toward a dark column of smoke far above the ridge, his brow furrowing with sorrow. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The theme stays warm; knife scrape and latex drip; from 5s a low cello darkens the music and a distant chainsaw whine rises.
 Cut→S038: Cut to a wide trail with many people.
 
 **S038 — A voice against the powerful | 4:56–5:04**
@@ -674,8 +674,8 @@ Wide low view at dawn on the rubber trail: the tapper stands in the foreground w
 Save as: `S038_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S038_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S038_Ref.png`. 0–4s: the camera drifts slowly along the line of tappers and their families as smoke drifts in behind them ("thousands of families depend on the forest… their livelihoods gone", 0–4s); 4–5s: the tapper turns to face the camera, resolute; 5–8s: he raises his straw hat high in the air and the others behind him raise theirs one by one ("against the government… against the big landowners… he raised his voice", 5–8s).
-Sound (BGM+SFX, no dialogue): The theme darkens under the first four seconds, then swells into a determined strings and choir-like pad at 5s; murmuring crowd without words, fabric rustle.
+I2V from `S038_Ref.png`. 0–4s: the camera drifts slowly along the line of tappers and their families as smoke drifts in behind them; 4–5s: the tapper turns to face the camera, resolute; 5–8s: he raises his straw hat high in the air and the others behind him raise theirs one by one. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The theme darkens under the first four seconds, then swells into a determined strings and warm synth pad at 5s; fabric rustle.
 Cut→S039: Cross-dissolve to a quiet medal.
 
 **S039 — International recognition | 5:04–5:12**
@@ -686,8 +686,8 @@ Macro of a modest brass medal on a blue ribbon lying on a rough wooden porch rai
 Save as: `S039_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S039_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S039_Ref.png`. 0–2s: warm golden light glints across the brass as the camera pushes slowly in ("international attention", 0–2s); 2–4s: a rack focus moves from the medal to the straw hat ("the United Nations gave him an award", 2–4s); 4–6s: the warm light fades into a cold blue dusk ("but…", 4s); 6–8s: a moth circles and the yard's dark treeline is visible in soft focus ("1988, December 22", 6–8s).
-Sound (BGM+SFX, no dialogue): A quiet dignified piano; light metal shimmer, ribbon rustle; at 4s the piano stops and a low drone enters; crickets grow at 6s.
+I2V from `S039_Ref.png`. 0–2s: warm golden light glints across the brass as the camera pushes slowly in; 2–4s: a rack focus moves from the medal to the straw hat; 4–6s: the warm light fades into a cold blue dusk; 6–8s: a moth circles and the yard's dark treeline is visible in soft focus. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): A quiet dignified piano; light metal shimmer, ribbon rustle; at 4s the piano stops and a low drone enters; crickets grow at 6s.
 Cut→S040: Hard cut to a locked wide of the yard.
 
 ---
@@ -702,8 +702,8 @@ Locked-off wide shot of the back yard of the wooden stilt house at blue-hour dus
 Save as: `S040_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S040_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S040_Ref.png`. 0–2s: the camera holds still as crickets sound ("behind his own house", 0–2s); 2s: a flock of birds bursts from the dark treeline and scatters ("shot with a gun", 2s); the straw hat trembles and slips from the rail, falling out of frame; 3–6s: silence, the towel swinging gently, the window light flickering once ("the reason… "; 4–6s); 6–8s: a second, distant light and the sound of engines approach from far off-screen ("a landowner's family were arrested", 6–8s). Nothing violent is shown.
-Sound (BGM+SFX, no dialogue): Sparse hushed piano; crickets; one distant sharp crack echoing at 2s, a burst of wings; then a long hush and a low tone; faint engines from 6s.
+I2V from `S040_Ref.png`. 0–2s: the camera holds still as crickets sound; 2s: a flock of birds bursts from the dark treeline and scatters; the straw hat trembles and slips from the rail, falling out of frame; 3–6s: silence, the towel swinging gently, the window light flickering once; 6–8s: a second, distant light and the sound of engines approach from far off-screen. Nothing violent is shown. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): Sparse hushed piano; crickets; one distant sharp crack echoing at 2s, a burst of wings; then a long hush and a low tone; faint engines from 6s.
 Cut→S041: Hard cut to the dropped hat.
 
 **S041 — His death made the world speak | 5:20–5:28**
@@ -714,8 +714,8 @@ Low-angle close shot of the straw hat lying on the wooden porch step in the dust
 Save as: `S041_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S041_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S041_Ref.png`. 0–3s: a slow push-in on the hat, the moth circling ("his death…", 0–2s); 3–5s: the camera lifts and rises as a time-lapse turns the night to dawn and the sky glows gold above the treeline ("across the whole world… for the first time, spoke loudly", 3–5s); 5–8s: it rises over the treeline to reveal an unbroken green canopy in soft sunrise light ("the protected areas in the Amazon today…", 5–8s).
-Sound (BGM+SFX, no dialogue): A solo cello with a mournful line; moth wing flutter, crickets that turn to dawn birds at 4s; the cello lifts into a warm hopeful chord at 6s.
+I2V from `S041_Ref.png`. 0–3s: a slow push-in on the hat, the moth circling; 3–5s: the camera lifts and rises as a time-lapse turns the night to dawn and the sky glows gold above the treeline; 5–8s: it rises over the treeline to reveal an unbroken green canopy in soft sunrise light. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): A solo cello with a mournful line; moth wing flutter, crickets that turn to dawn birds at 4s; the cello lifts into a warm hopeful chord at 6s.
 Cut→S042: Continuous rise, the camera flying on over the canopy.
 
 **S042 — Saved by his sacrifice | 5:28–5:36**
@@ -726,8 +726,8 @@ High aerial view at sunrise of an intact protected rainforest reserve, gold ligh
 Save as: `S042_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S042_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S042_Ref.png`. 0–4s: the camera glides forward over the glowing canopy, birds crossing, the river shining ("many areas exist because of his sacrifice", 0–3s); 4–8s: it tilts down and descends through the mist toward the rubber trail and ends on a tin cup on a rubber tree with a single drop of latex falling into it at 6s ("one man… gave his life for the forest", 4–6s; "history", 7s).
-Sound (BGM+SFX, no dialogue): The cello theme blooms into a full warm orchestral swell; birds waking up, wind over the trees; a soft latex drip at 6s over a gentle held chord.
+I2V from `S042_Ref.png`. 0–4s: the camera glides forward over the glowing canopy, birds crossing, the river shining; 4–8s: it tilts down and descends through the mist toward the rubber trail and ends on a tin cup on a rubber tree with a single drop of latex falling into it at 6s. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The cello theme blooms into a full warm orchestral swell; birds waking up, wind over the trees; a soft latex drip at 6s over a gentle held chord.
 Cut→S043: Hard cut to a cold, quiet dawn.
 
 ---
@@ -742,8 +742,8 @@ Cold blue dawn aerial view of the endless canopy with thin mist, a straight empt
 Save as: `S043_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S043_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S043_Ref.png`. 0–3s: the light is cool and still over the canopy ("I said at the beginning… the last part is the most important", 0–3s); 4s ("here it is… 2011"): a faint propeller hum begins and the drone moves fully into frame; 5–8s: the camera turns to track alongside it as it glides steadily and banks toward the deep forest ("the Brazilian government… a drone aircraft", 5–8s).
-Sound (BGM+SFX, no dialogue): The warm theme is replaced by a cool technological pulse and low drone from 4s; propeller hum, wind rush.
+I2V from `S043_Ref.png`. 0–3s: the light is cool and still over the canopy; 4s: a faint propeller hum begins and the drone moves fully into frame; 5–8s: the camera turns to track alongside it as it glides steadily and banks toward the deep forest. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The warm theme is replaced by a cool technological pulse and low drone from 4s; propeller hum, wind rush.
 Cut→S044: Match cut on the banking drone into its own point of view.
 
 **S044 — The uncontacted people found | 5:44–5:52**
@@ -754,8 +754,8 @@ Drone point-of-view aerial shot looking down through a break in the canopy at a 
 Save as: `S044_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S044_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S044_Ref.png`. 0–3s: the camera glides forward over the canopy ("flown into the Amazon forest… Kawahiva", 0–2s); 3–6s: it descends toward the huts as the tiny distant figures move about their day ("an indigenous people", 3–5s); 6–8s: the camera holds steady above the clearing ("living with no contact with the outside world… found", 6–8s).
-Sound (BGM+SFX, no dialogue): Cool pulse continues under an awed string note; the drone hum in the distance; a hush at 6s.
+I2V from `S044_Ref.png`. 0–3s: the camera glides forward over the canopy; 3–6s: it descends toward the huts as the tiny distant figures move about their day; 6–8s: the camera holds steady above the clearing. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): Cool pulse continues under an awed string note; the drone hum in the distance; a hush at 6s.
 Cut→S045: Hard cut to a ground-level push through foliage.
 
 **S045 — They keep running | 5:52–6:00**
@@ -766,8 +766,8 @@ Ground-level view inside the forest of a small campfire still glowing beside two
 Save as: `S045_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S045_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S045_Ref.png`. 0–4s: the camera pushes in slowly toward the fire as a hammock rope still swings and the embers glow ("unseen by anyone… moving from place to place, always running", 0–4s); 4–6s: the first distant sound of a chainsaw begins and grows ("because loggers…", 4–6s); 6–8s: a distant metal clang of a digging tool joins in and the camera stops on the fire ("illegal gold-seekers", 6–8s).
-Sound (BGM+SFX, no dialogue): A low tremolo; crackling embers, hammock rope creak; from 4s a chainsaw whine growing, then distant metal clangs at 6s.
+I2V from `S045_Ref.png`. 0–4s: the camera pushes in slowly toward the fire as a hammock rope still swings and the embers glow; 4–6s: the first distant sound of a chainsaw begins and grows; 6–8s: a distant metal clang of a digging tool joins in and the camera stops on the fire. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): A low tremolo; crackling embers, hammock rope creak; from 4s a chainsaw whine growing, then distant metal clangs at 6s.
 Cut→S046: Hard cut to a low tracking shot on a road.
 
 **S046 — Following behind them, today | 6:00–6:08**
@@ -778,8 +778,8 @@ Low-angle tracking view at smoky orange dusk of the yellow bulldozer rolling alo
 Save as: `S046_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S046_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S046_Ref.png`. 0–3s: the camera tracks alongside the bulldozer as it moves ahead, its blade throwing soil ("they keep coming behind them", 0–3s); 3–5s: the camera cranes up and over the machine ("today, in 2026… even this moment", 3–5s); 5–8s: it rises high above the canopy to show many faint smoke threads spread across the forest, many hidden communities ("many indigenous groups hidden in the Amazon", 5–8s).
-Sound (BGM+SFX, no dialogue): Heavy drums and a brass drone that soften into a quiet ambient wind at 5s; diesel roar and track clank fading as the camera lifts.
+I2V from `S046_Ref.png`. 0–3s: the camera tracks alongside the bulldozer as it moves ahead, its blade throwing soil; 3–5s: the camera cranes up and over the machine; 5–8s: it rises high above the canopy to show many faint smoke threads spread across the forest, many hidden communities. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): Heavy drums and a brass drone that soften into a quiet ambient wind at 5s; diesel roar and track clank fading as the camera lifts.
 Cut→S047: Continuous aerial, gliding forward.
 
 **S047 — The pace of destruction nears them | 6:08–6:16**
@@ -790,8 +790,8 @@ Aerial view at dusk over a peaceful small clearing with thatched huts and a thin
 Save as: `S047_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S047_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S047_Ref.png`. 0–3s: the camera hovers over the calm clearing as its smoke rises straight up ("they don't know there's such a thing as a modern world", 0–3s); 3–5s: the camera turns slowly toward the horizon ("but the speed at which the forest is destroyed", 3–4s); 5–8s: the fire line grows and creeps forward across cleared land toward the forest, the camera gliding toward it ("is coming toward their world too", 5–8s).
-Sound (BGM+SFX, no dialogue): Quiet melancholy pad; wind; from 4s a menacing rise of drums and roaring fire; a low brass swell at 6s.
+I2V from `S047_Ref.png`. 0–3s: the camera hovers over the calm clearing as its smoke rises straight up; 3–5s: the camera turns slowly toward the horizon; 5–8s: the fire line grows and creeps forward across cleared land toward the forest, the camera gliding toward it. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): Quiet melancholy pad; wind; from 4s a menacing rise of drums and roaring fire; a low brass swell at 6s.
 Cut→S048: Cross-dissolve into the lone man's face.
 
 **S048 — How many more, alone and nameless? | 6:16–6:24**
@@ -802,8 +802,8 @@ Medium shot at the tree line of the clearing at dusk, the lone man in three-quar
 Save as: `S048_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S048_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S048_Ref.png`. 0–3s: a slow push-in toward his face, the far glow pulsing in his eyes ("think about it… like the Man of the Hole", 0–2s); 3–6s: the camera keeps pushing in as he lowers his head slightly ("how many more… whose people were wiped out… alone without even a name", 2–5s); 6–8s: he lifts his eyes again toward the fire and the camera holds still ("right this minute in the forest", 6–8s).
-Sound (BGM+SFX, no dialogue): A lone flute over a soft pad; distant fire rumble, crickets; music dips to near silence at 6s.
+I2V from `S048_Ref.png`. 0–3s: a slow push-in toward his face, the far glow pulsing in his eyes; 3–6s: the camera keeps pushing in as he lowers his head slightly; 6–8s: he lifts his eyes again toward the fire and the camera holds still. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): A lone flute over a soft pad; distant fire rumble, crickets; music dips to near silence at 6s.
 Cut→S049: Slow cross-dissolve into a bright dawn.
 
 ---
@@ -818,8 +818,8 @@ Wide aerial view at sunrise over the emerald canopy stretching to the horizon, a
 Save as: `S049_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S049_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S049_Ref.png`. 0–2s: the camera glides forward as the scarlet macaws cross the frame ("Amazon forest", 0s; "not just trees and animals", 1–2s); 4–5s: the mist thickens and dims the light ("human history… sorrow", 4–5s); 5–6s: bright gold rays break through the mist ("sacrifice", 6s); 6–8s: the mist parts and reveals a faint moss-covered stone terrace deep in the trees ("the mystery that isn't solved yet", 7s).
-Sound (BGM+SFX, no dialogue): The outro theme builds with warm strings and flute; wind over the canopy, macaw calls; a soft harp accent at 6s.
+I2V from `S049_Ref.png`. 0–2s: the camera glides forward as the scarlet macaws cross the frame; 4–5s: the mist thickens and dims the light; 5–6s: bright gold rays break through the mist; 6–8s: the mist parts and reveals a faint moss-covered stone terrace deep in the trees. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The outro theme builds with warm strings and flute; wind over the canopy, macaw calls; a soft harp accent at 6s.
 Cut→S050: Continuous, the camera rising above the canopy.
 
 **S050 — A book, one page turned | 6:32–6:40**
@@ -830,8 +830,8 @@ Vast aerial view at sunrise of the endless emerald canopy, mist between the tree
 Save as: `S050_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S050_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S050_Ref.png`. 0–1s: the camera rises slowly ("a book", 1s); 2s ("only one page… turned"): a single strong wave of wind sweeps across the canopy like a page turning; 3–4s: the leaves settle; 4–6s: a series of smaller waves ripple across the far forest, one after another ("many more pages", 4–6s); 6–8s: the mist rolls in over the canopy so the far parts are hidden ("unread, hidden", 6–8s).
-Sound (BGM+SFX, no dialogue): The outro theme swells, warm strings, flute and soft choir pad; a paper-like whoosh of wind at 2s; a dawn bird chorus.
+I2V from `S050_Ref.png`. 0–1s: the camera rises slowly; 2s: a single strong wave of wind sweeps across the canopy like a page turning; 3–4s: the leaves settle; 4–6s: a series of smaller waves ripple across the far forest, one after another; 6–8s: the mist rolls in over the canopy so the far parts are hidden. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The outro theme swells, warm strings, flute and warm synth pad; a paper-like whoosh of wind at 2s; a dawn bird chorus.
 Cut→S051: Cross-dissolve into sunset and stars.
 
 **S051 — The call to action, dusk to night | 6:40–6:48**
@@ -842,8 +842,8 @@ Aerial view at sunset over the canopy, the sky deep orange fading to violet, mis
 Save as: `S051_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S051_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S051_Ref.png`. 0–3s: the camera descends slowly as the sunset fades to deep blue night; 3–6s: it settles low over a quiet forest clearing with a starry sky and the Milky Way above ("comment", 3s); 6–8s: fireflies rise from the ferns one by one and multiply ("subscribe… press the bell", 5–7s).
-Sound (BGM+SFX, no dialogue): The outro theme softens to a gentle piano; crickets and night frogs grow; a soft twinkling chime accent as each firefly appears from 6s.
+I2V from `S051_Ref.png`. 0–3s: the camera descends slowly as the sunset fades to deep blue night; 3–6s: it settles low over a quiet forest clearing with a starry sky and the Milky Way above; 6–8s: fireflies rise from the ferns one by one and multiply. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The outro theme softens to a gentle piano; crickets and night frogs grow; a soft twinkling chime accent as each firefly appears from 6s.
 Cut→S052: Continuous, the camera tilting up to the stars.
 
 **S052 — Until the next video | 6:48–6:54 (trim to 6s in edit)**
@@ -854,8 +854,8 @@ Quiet forest clearing at night, a sky full of stars and the Milky Way above a bl
 Save as: `S052_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S052_Ref.png`
 Video Prompt (Google Flow, 8s, use the first 6s):
-I2V from `S052_Ref.png`. 0–2s: the camera tilts up slowly toward the stars while the fireflies glow ("we'll meet in the next video", 0–1s); 2–4s: the foreground firefly lifts higher and glows ("thank you… thank you… thank you", 1–3s); 4–6s: the firefly fades among the other lights and the frame settles on the Milky Way; make sure the first 6 seconds hold a complete closing beat.
-Sound (BGM+SFX, no dialogue): The outro theme resolves to a final held chord and fades to silence by 6s; soft night crickets fading last.
+I2V from `S052_Ref.png`. 0–2s: the camera tilts up slowly toward the stars while the fireflies glow; 2–4s: the foreground firefly lifts higher and glows; 4–6s: the firefly fades among the other lights and the frame settles on the Milky Way; make sure the first 6 seconds hold a complete closing beat. No speech, narration, whispering or lip movement: any people keep their mouths closed. Audio is music and sound effects only.
+Sound (BGM+SFX only, no voice or speech): The outro theme resolves to a final held chord and fades to silence by 6s; soft night crickets fading last.
 Cut→END: Fade to black (last 1s of the 6s).
 
 ---
@@ -864,7 +864,7 @@ Cut→END: Fade to black (last 1s of the 6s).
 
 - **Runtime check:** the voice file is 6:54 = 414 s. 414 ÷ 8 = 51.75, so 52 scenes. S001–S051 are 8 s each (408 s). S052 nominally runs 6:48–6:56 and is trimmed to 6 s so the video ends at exactly 6:54. The narration itself runs 0:07 to 6:49.
 - **Timeline rule:** the video timeline is the same as the voice file. Place the voice file on the timeline at 0:00, then drop each clip at its scene start time (S001 at 0:00, S002 at 0:08, and so on: scene N starts at (N − 1) × 8 s). Every "VO sync" line and every in-clip second mark in the video prompts is relative to that timeline.
-- **How the in-clip marks work:** in each video prompt, "0–3s" means seconds from the start of that clip. The quoted words in brackets are the spoken lines landing at those seconds. Absolute time = scene start + clip second. Example: S003 "Amazon forest" at 0:17 is 1 s into S003 (0:16), and that is where the sun flare is placed.
+- **How the in-clip marks work:** in each video prompt, "0–3s" means seconds from the start of that clip; the actions are placed so they land on the spoken line at that moment (see each scene's VO sync line). The narration words are deliberately NOT written inside the Flow prompts, so the model has nothing to speak. Absolute time = scene start + clip second. Example: S003 "Amazon forest" at 0:17 is 1 s into S003 (0:16), and that is where the sun flare is placed.
 - **Audio file credits:** the voice file has an audio-tool credit at 0:00–0:07 and again at 6:51–6:54. S001 and S052 are written so those seconds are BGM only. If you cut the credits from the audio, every scene start moves earlier by 7 s, and the first scene should be shortened to 1 s or the whole picture shifted to match.
 - **Sync tolerance:** Google Flow cannot hit an exact second every time, so treat the in-clip marks as targets. If a beat lands ±1 s off, trim or extend the clip by 1 s in the edit rather than regenerating.
 - **Sound design:** keep the BGM about 10–12 dB under the voice wherever there is narration, and let it swell only in the gaps (S001, S019, S048 end, S052).
