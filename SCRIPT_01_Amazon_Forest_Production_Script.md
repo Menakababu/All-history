@@ -1,17 +1,17 @@
 # SCRIPT 01 — அமேசன் காடு: The Forest That Keeps Its Secrets
-### [TEMPLATE v3 — Google Flow only · 8s scenes · subject sheets → environment plates → per-scene reference image → per-scene video · global lock appended to every prompt · no on-screen text · no visible faces · BGM + diegetic SFX only]
+### [TEMPLATE v3 — Google Flow only · 8s scenes · subject sheets → environment plates → per-scene reference image → per-scene video · global lock appended to every prompt · no on-screen text · consistent visible faces · BGM + diegetic SFX only]
 
 **Duration:** 7:30 | **Total Scenes:** 57 (8s each, final scene trimmed to land at 7:30)
 **Image generation:** Google Flow only (Step 1 subject sheets, Step 2 environment plates, Step 3 scene reference images)
 **Video generation:** Google Flow — one video prompt per scene, built from that scene's saved reference image, each carrying its own sound design
-**Payoff:** The camera rises from one silhouetted survivor to the endless living canopy, so the viewer feels how many untold stories still hide in the forest, then ends on a night sky and one last firefly.
+**Payoff:** The camera rises from one lone survivor to the endless living canopy, so the viewer feels how many untold stories still hide in the forest, then ends on a night sky and one last firefly.
 **Dialogue/Audio rule:** No dialogue in generated clips, only BGM and diegetic SFX. The Tamil voice-over is recorded separately and laid over the clips in the edit.
 
 **Assumptions made for the blank input fields (change if needed):**
 - **Style:** photorealistic cinematic documentary, 35mm anamorphic look.
 - **Subjects:** the ones in Step 1.
-- **Hard rules:** no on-screen text. No visible faces on any human, only silhouette, back-turned, distant or shadowed. No gore or violence on screen, only implied.
-- **Real people:** the figures are generic period characters, not likenesses of real individuals.
+- **Hard rules:** no on-screen text. Human characters have clear, fully rendered faces that stay identical across every scene (invented fictional faces, not likenesses of real people). No gore or violence on screen, only implied.
+- **Real people:** the figures are fictional characters inspired by the events, with invented faces, not likenesses of real individuals.
 
 **Segment map (Step 0 math: 7:30 = 450 s ÷ 8 = 56.25 → 57 scenes)**
 
@@ -34,9 +34,9 @@
 
 ```
 GLOBAL LOCK:
-CONTINUITY — Keep Tanaru-Man, Z-Party Explorers, Seringueiro Rubber Tapper, Scarlet-1 Macaw, Sucuri-Titan Anaconda, Red-Belly Piranha, Needle-Fish Candiru, Sky-Eye Survey Drone and Iron-Reaper Bulldozer in exact color/decal/proportion continuity from their saved reference sheets — no redesign, recolor, or scale drift. Keep every environment identical to its saved environment plate.
+CONTINUITY — Keep Tanaru-Man, Z-Party Explorers, Seringueiro Rubber Tapper, Scarlet-1 Macaw, Sucuri-Titan Anaconda, Red-Belly Piranha, Needle-Fish Candiru, Sky-Eye Survey Drone and Iron-Reaper Bulldozer (including faces, hair and skin tone) in exact color/decal/proportion continuity from their saved reference sheets — no redesign, recolor, or scale drift. Keep every environment identical to its saved environment plate.
 STYLE — Photorealistic cinematic documentary, 35mm anamorphic lens look, shallow depth of field on close shots, natural film grain, rich but natural color grade (deep emerald greens, warm amber light shafts, muted earth tones). Real material physics: wet leaves glisten, mud clumps, smoke diffuses, water refracts, wood grain and rust stay stable.
-HARD RULES — No on-screen text, captions, logos or watermarks. Humans appear ONLY as silhouettes, back-turned, distant or with faces fully hidden in natural shadow, hat brims, feather headdress shade or backlight; never a readable face. No gore, no visible violence, no weapons pointed at a person: danger is shown by aftermath, shadow, sound and reaction of animals and objects. Historic and tragic events are implied through symbolic imagery (empty hammock, quiet clearing, dropped hat, shafts of light), never re-enacted.
+HARD RULES — No on-screen text, captions, logos or watermarks. Human characters have clear, natural, fully visible faces (realistic skin texture, eyes, expressions) that match their saved reference sheets exactly in every shot; these are invented fictional faces, not likenesses of any real person. Faces never morph, age, or change between shots. No gore, no visible violence, no weapons pointed at a person: danger is shown by aftermath, shadow, sound and the reaction of people, animals and objects. Historic and tragic events are implied through symbolic imagery (empty hammock, quiet clearing, dropped hat, shafts of light) and grief or fear on faces, never re-enacted.
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts, floating debris, texture smearing, plastic skin or fur, inconsistent shadows, distorted hands or anatomy.
 LIGHTING — Continuity of time-of-day per setting: rainforest = filtered green daylight with amber shafts; Tanaru = golden dusk; 1925 expedition = misty warm morning; river = bright overcast day; rubber trail = dawn; deforestation = smoky orange dusk; closing = night with stars and fireflies. No sudden light jumps between consecutive shots unless the script beat is a deliberate flash-cut.
 AUDIO — Diegetic SFX + evolving cinematic BGM only; no dialogue, no singing, no spoken words in the generated clip.
@@ -49,16 +49,16 @@ CAMERA — Smooth, physically plausible motion only; each shot's opening camera 
 
 ### 1A. Lone Forest Dweller ("Tanaru-Man")
 **Portrait Image Prompt — Google Flow:**
-Full-body standing portrait of a lean, weathered indigenous man in his 50s from an uncontacted Amazon community, standing in a neutral relaxed pose, seen in three-quarter back view with his face turned away and hidden in deep natural shadow under long dark hair. Bare torso with faint red urucum (annatto) pigment on the upper arms, plain woven cotton waist cord and short loincloth, a straight hand-carved wooden bow about 1.5 m long with fibre string in his left hand, and three cane arrows with feather fletching in a woven-fibre quiver on his back. Skin shows realistic sun-weathered texture and old scars. Camera at eye level, soft grey studio-style background, warm key light from the upper left, macro-level detail on fibre weave, feather barbs and skin texture. Respectful, dignified, no face visible. Locked reference design.
+Full-body standing portrait of a lean, weathered indigenous man in his 50s from an uncontacted Amazon community, facing the camera in a neutral relaxed pose, with a clearly visible, dignified, fully detailed face: deep-set dark brown eyes, high cheekbones, a strong nose, deep lines around the eyes and mouth, short straight black hair with streaks of grey, and a thin stripe of red urucum (annatto) pigment across each cheek; his expression is calm, watchful and quietly sorrowful. Bare torso with faint red pigment on the upper arms, plain woven cotton waist cord and short loincloth, a straight hand-carved wooden bow about 1.5 m long with fibre string in his left hand, and three cane arrows with feather fletching in a woven-fibre quiver on his back. Skin shows realistic sun-weathered texture and old scars. Camera at eye level, soft grey studio-style background, warm key light from the upper left, macro-level detail on the face, fibre weave, feather barbs and skin texture. An invented fictional face, respectful and dignified. Locked reference design.
 **Save as:** `TanaruMan_Portrait.png`
 **6-Angle Turnaround Image Prompt — Google Flow:**
-Using the saved `TanaruMan_Portrait.png` as exact reference, generate a 6-panel orthographic turnaround: FRONT (face kept in natural shadow), REAR, LEFT SIDE, RIGHT SIDE, TOP-DOWN, BOTTOM/UNDERCARRIAGE (feet and ground contact view), neutral grey background, matched lighting/scale, neutral pose in every panel.
+Using the saved `TanaruMan_Portrait.png` as exact reference, generate a 6-panel orthographic turnaround: FRONT (face fully visible, identical to the portrait), REAR, LEFT SIDE, RIGHT SIDE, TOP-DOWN, BOTTOM/UNDERCARRIAGE (feet and ground contact view), neutral grey background, matched lighting/scale, neutral pose in every panel. Add a second row of three close-up face panels (front, left profile, right profile) locking the face.
 **Save as:** `TanaruMan_6Angle.png`
 **Usage note:** Attach both files to every scene where the lone man appears (S010, S011, S013, S055).
 
 ### 1B. 1925 Expedition Party ("Z-Party Explorers")
 **Portrait Image Prompt — Google Flow:**
-Group portrait of three 1920s British explorers standing in a line: a tall lean older colonel in the centre with a waxed-canvas khaki jacket, riding breeches, leather puttees, a wide-brim pith sun helmet and a leather map case; a young man on his left in a similar khaki outfit with a canvas rucksack and a rolled bedroll; a companion on his right with a slouch hat, a brass compass at his belt and a machete in a leather sheath. All faces hidden under hat brims and shadow, viewed slightly from behind. Worn, sweat-stained fabrics, brass buckles, cracked leather. Grey neutral background, soft key light from upper left, macro detail on stitching, brass patina and leather grain. Locked reference design.
+Group portrait of three 1920s British explorers standing in a line facing the camera, each with a clearly visible, fully detailed face: a tall lean older colonel in the centre (long angular face, deep sun-weathered lines, grey moustache, pale blue eyes, short grey hair, stern and determined) wearing a waxed-canvas khaki jacket, riding breeches, leather puttees, a wide-brim pith sun helmet and carrying a leather map case; a young man on his left (clean-shaven, freckled, hazel eyes, tousled brown hair, eager expression) in a similar khaki outfit with a canvas rucksack and a rolled bedroll; a companion on his right (round face, dark stubble, brown eyes, calm expression) with a slouch hat, a brass compass at his belt and a machete in a leather sheath. Worn, sweat-stained fabrics, brass buckles, cracked leather. Grey neutral background, soft key light from upper left, macro detail on faces, stitching, brass patina and leather grain. Invented fictional faces. Locked reference design.
 **Save as:** `Explorers_Portrait.png`
 **6-Angle Turnaround Image Prompt — Google Flow:**
 Using the saved `Explorers_Portrait.png` as exact reference, generate a 6-panel orthographic turnaround of the same three-man group: FRONT, REAR, LEFT SIDE, RIGHT SIDE, TOP-DOWN, BOTTOM/UNDERCARRIAGE (boots and ground), neutral grey background, matched lighting/scale, neutral pose in every panel.
@@ -67,10 +67,10 @@ Using the saved `Explorers_Portrait.png` as exact reference, generate a 6-panel 
 
 ### 1C. Rubber Tapper ("Seringueiro")
 **Portrait Image Prompt — Google Flow:**
-Full-body portrait of a Brazilian rubber tapper (seringueiro) in his 40s, standing in a relaxed pose seen from behind, face hidden under a wide straw hat. Faded blue cotton shirt with rolled sleeves, worn brown trousers, rubber boots, a small curved tapping knife at his belt, a tin cup and a canvas shoulder bag, a headlamp on the hat brim. Realistic sun-worn fabric, mud on boots, latex stains on the sleeves. Grey background, warm key light from upper right, macro detail on straw weave and latex-stained cloth. Locked reference design.
+Full-body portrait of a Brazilian rubber tapper (seringueiro) in his 40s, facing the camera in a relaxed pose, with a clearly visible, fully detailed face: warm brown skin, short black hair, a neat dark moustache, kind dark eyes with laugh lines, a sweat-lined forehead and a thoughtful, determined expression, with the wide straw hat pushed back so the face is lit. Faded blue cotton shirt with rolled sleeves, worn brown trousers, rubber boots, a small curved tapping knife at his belt, a tin cup and a canvas shoulder bag, a headlamp on the hat brim. Realistic sun-worn fabric, mud on boots, latex stains on the sleeves. Grey background, warm key light from upper right, macro detail on the face, straw weave and latex-stained cloth. An invented fictional face. Locked reference design.
 **Save as:** `Tapper_Portrait.png`
 **6-Angle Turnaround Image Prompt — Google Flow:**
-Using the saved `Tapper_Portrait.png` as exact reference, generate a 6-panel orthographic turnaround: FRONT (face shadowed by hat), REAR, LEFT SIDE, RIGHT SIDE, TOP-DOWN, BOTTOM/UNDERCARRIAGE (boots and ground contact), neutral grey background, matched lighting/scale, neutral pose in every panel.
+Using the saved `Tapper_Portrait.png` as exact reference, generate a 6-panel orthographic turnaround: FRONT (face fully visible, identical to the portrait), REAR, LEFT SIDE, RIGHT SIDE, TOP-DOWN, BOTTOM/UNDERCARRIAGE (boots and ground contact), neutral grey background, matched lighting/scale, neutral pose in every panel. Add a second row of three close-up face panels (front, left profile, right profile) locking the face.
 **Save as:** `Tapper_6Angle.png`
 **Usage note:** Attach to S038–S046 and S048.
 
@@ -303,27 +303,27 @@ Step 4 Ingredients: Starting Reference Image: `S009_Ref.png`
 Video Prompt (Google Flow, 8s):
 I2V from `S009_Ref.png`. The bulldozer creeps forward, its blade pushing a fallen trunk and soil; dust and smoke roll past the camera; the camera holds static, then dollies back slowly as the machine advances. Heavy, ominous.
 Sound (BGM+SFX, no dialogue): Music turns dark with a low brass drone and slow taiko hits; diesel engine rumble, tracks clanking, wood cracking, soil scraping.
-Cut→S010: Hard cut to a silhouette at the forest edge, facing the machine sound.
+Cut→S010: Hard cut to the lone man at the forest edge, turning toward the machine sound.
 
 **S010 — The warning arrow | 1:12–1:20**
 Step 3 Ingredients: Vehicle/Subject Reference Image: `TanaruMan_Portrait.png`, `TanaruMan_6Angle.png` · Environment Reference Image: `SettingB_Env.png` · Scene Continuity Reference: `S009_Ref.png`
 Step 3 — Reference Image Prompt (Google Flow):
-Backlit silhouette of the lone man at the edge of the clearing, seen from behind at golden dusk, bow raised and pointed toward the trees, feathered arrow on the string; no face visible and no target in frame, only a hazy dark tree line and orange smoke.
+Medium shot at golden dusk of the lone man at the edge of the clearing, face clearly visible in three-quarter profile with a fierce, wary, sorrowful expression, bow raised and feathered arrow on the string pointing toward the trees, orange smoke and a hazy dark tree line behind; no target in frame.
 Save as: `S010_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S010_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S010_Ref.png`. The camera pushes in slowly from behind his shoulder; the man holds the drawn bow, still and tense; a breeze moves the smoke; he lowers the bow slowly and stays standing. Sombre, restrained.
+I2V from `S010_Ref.png`. The camera pushes in slowly toward his face; his dark eyes track something off-screen and his jaw tightens; he holds the drawn bow still and tense; a breeze moves the smoke; he lowers the bow slowly, his expression softening into weary resignation. Sombre, restrained.
 Sound (BGM+SFX, no dialogue): Music thins to a single held string note; bow-string creak, a distant engine fading away, a cicada drone; a soft low sting as he lowers the bow.
 Cut→S011: Cross-dissolve to a far-off observer's view through foliage.
 
 **S011 — Watched from afar | 1:20–1:28**
 Step 3 Ingredients: Vehicle/Subject Reference Image: `TanaruMan_Portrait.png` · Environment Reference Image: `SettingA_Env.png` · Scene Continuity Reference: `S010_Ref.png`
 Step 3 — Reference Image Prompt (Google Flow):
-Long telephoto shot compressed through blurred foreground leaves, far away a small silhouetted figure at his hut fire in golden dusk light; heavy leaf blur frames the image like a hidden observer's view.
+Medium telephoto shot compressed through blurred foreground leaves, the lone man crouched at his hut fire in golden dusk light, his weathered face clearly visible in profile with watchful eyes lit by the flames; heavy leaf blur frames the image like a hidden observer's view.
 Save as: `S011_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S011_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S011_Ref.png`. A slow lateral creep behind the foreground leaves as the tiny distant figure tends the fire and then turns away into the hut; the leaves sway; focus racks from foreground leaves to the far clearing.
+I2V from `S011_Ref.png`. A slow lateral creep behind the foreground leaves as he tends the fire, glances up toward the trees with a wary look, then turns and walks into the hut; the leaves sway; focus racks from foreground leaves to his face and back.
 Sound (BGM+SFX, no dialogue): Quiet, held-breath ambience with faint crackling fire, insects and a very soft pad; a distant woodpecker.
 Cut→S012: Match cut on the fire's glow into a time-lapse of the clearing.
 
@@ -341,11 +341,11 @@ Cut→S013: Hard cut to a close view of him alone at the fire.
 **S013 — Alone at the fire | 1:36–1:44**
 Step 3 Ingredients: Vehicle/Subject Reference Image: `TanaruMan_Portrait.png`, `TanaruMan_6Angle.png` · Environment Reference Image: `SettingB_Env.png` · Scene Continuity Reference: `S012_Ref.png`
 Step 3 — Reference Image Prompt (Google Flow):
-Medium shot from behind and slightly above of the lone man sitting cross-legged at a small fire in front of his hut, silhouetted by the flames, face hidden, the dark forest wall around him and nobody else in frame; the mood is deep loneliness.
+Medium close shot from the front and slightly above of the lone man sitting cross-legged at a small fire in front of his hut, his lined face clearly visible and lit by the flames, eyes distant and sorrowful, the dark forest wall around him and nobody else in frame; the mood is deep loneliness.
 Save as: `S013_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S013_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S013_Ref.png`. A very slow push-in from behind him; the flames flicker, sparks rise, and he lifts his head slightly toward the dark trees, then stays still. The camera ends framing just his silhouette against the fire glow.
+I2V from `S013_Ref.png`. A very slow push-in toward his face; the flames flicker, sparks rise, and he lifts his head slightly toward the dark trees, eyes glistening, then stays still. The camera ends on a close, steady view of his face against the fire glow.
 Sound (BGM+SFX, no dialogue): Solo flute over a soft string pad, the fire crackling, insects and a distant owl; the music dips to near silence on his head-lift.
 Cut→S014: Slow cross-dissolve into a glimpse of a macaw feather in the next scene.
 
@@ -367,11 +367,11 @@ Cut→S015: Cross-dissolve, the scarlet feather colour melting into the dawn mis
 **S015 — 1925, the trail head | 1:52–2:00**
 Step 3 Ingredients: Vehicle/Subject Reference Image: `Explorers_Portrait.png`, `Explorers_6Angle.png` · Environment Reference Image: `SettingC_Env.png` · Scene Continuity Reference: `S014_Ref.png`
 Step 3 — Reference Image Prompt (Google Flow):
-Wide establishing shot in warm misty morning light on a muddy jungle trail, three khaki-clad explorers standing in a line seen from behind at the trail head, faces unseen under hat brims, looking into a wall of towering trees; the small camp and canvas tent sit at frame left.
+Wide establishing shot in warm misty morning light on a muddy jungle trail, three khaki-clad explorers standing in a line at the trail head, seen from a low three-quarter front angle with faces clearly visible: the grey-moustached colonel looking ahead with fierce determination, the freckled young man eager, the stubbled companion calm; a wall of towering trees behind them; the small camp and canvas tent at frame left.
 Save as: `S015_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S015_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S015_Ref.png`. A slow crane-up from behind the trio, mist drifting between trunks; the colonel in the centre lifts a hand to point ahead, and the three step forward together; the camera settles at a higher wide angle as they enter the trail.
+I2V from `S015_Ref.png`. A slow crane-up and arc around the trio, mist drifting between trunks; the colonel in the centre lifts a hand to point ahead with a resolute look, the young man smiles, and the three step forward together; the camera settles at a higher wide angle as they enter the trail.
 Sound (BGM+SFX, no dialogue): Adventurous, gentle orchestral theme enters with pizzicato strings and a soft snare; boots in mud, canvas rustle, a dawn bird chorus.
 Cut→S016: Hard cut to a macro on a map lying on a supply crate.
 
@@ -389,11 +389,11 @@ Cut→S017: Hard cut to a low-angle tracking shot of boots on the trail.
 **S017 — Boots in the mud | 2:08–2:16**
 Step 3 Ingredients: Vehicle/Subject Reference Image: `Explorers_Portrait.png`, `Explorers_6Angle.png` · Environment Reference Image: `SettingC_Env.png` · Scene Continuity Reference: `S016_Ref.png`
 Step 3 — Reference Image Prompt (Google Flow):
-Very low-angle shot at mud level of three pairs of leather boots and puttees marching along the trail toward the camera, mist behind them, each print filling with water; no faces visible.
+Very low-angle shot at mud level of three pairs of leather boots and puttees marching along the trail toward the camera, mist behind them, each print filling with water; the three explorers' faces are just visible above, determined and sweat-streaked, softly out of focus.
 Save as: `S017_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S017_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S017_Ref.png`. The camera tracks backwards at ground level ahead of the marching boots, mud squelching, water splashing from a puddle, and a rucksack strap swinging in the upper frame; steady rhythmic pace, no cuts.
+I2V from `S017_Ref.png`. The camera tracks backwards at ground level ahead of the marching boots, mud squelching, water splashing from a puddle, then tilts up slowly to reveal the three faces, focused and tired; steady rhythmic pace, no cuts.
 Sound (BGM+SFX, no dialogue): The theme picks up energy with a steady marching pulse; squelching boots, splashes, leather creak, insects.
 Cut→S018: Hard cut to a macro on the brass compass at the belt.
 
@@ -422,11 +422,11 @@ Cut→S020: Cut to a rack-focus close shot of the leader gazing ahead.
 **S020 — The colonel's resolve | 2:32–2:40**
 Step 3 Ingredients: Vehicle/Subject Reference Image: `Explorers_Portrait.png` · Environment Reference Image: `SettingC_Env.png` · Scene Continuity Reference: `S019_Ref.png`
 Step 3 — Reference Image Prompt (Google Flow):
-Medium shot from behind and slightly to the side of the tall colonel in his pith helmet standing on a mossy rock above the river, leather map case at his hip, the other two men blurred behind, warm misty light, face hidden.
+Medium shot of the tall colonel in his pith helmet standing on a mossy rock above the river in three-quarter profile, his lined face clearly visible, pale blue eyes fixed on the far misty treeline with fierce resolve, leather map case at his hip, the other two men blurred behind, warm misty light.
 Save as: `S020_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S020_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S020_Ref.png`. A rack focus from the map case in the foreground to the misty far treeline, the colonel standing still, his jacket stirring in the breeze; the camera pushes in gently to his shoulder. Steady and resolute.
+I2V from `S020_Ref.png`. A rack focus from the map case in the foreground to his face and then to the misty far treeline; his jacket stirs in the breeze; the camera pushes in gently to a close view of his determined face. Steady and resolute.
 Sound (BGM+SFX, no dialogue): The theme reaches a hopeful, determined peak with brass and strings, then softens; river flow, leather creak, wind.
 Cut→S021: Cross-dissolve into a macro of a sealed letter.
 
@@ -632,22 +632,22 @@ Cut→S038: Cross-dissolve to the dawn trail of a rubber tapper.
 **S038 — The tapper at dawn | 4:56–5:04**
 Step 3 Ingredients: Vehicle/Subject Reference Image: `Tapper_Portrait.png`, `Tapper_6Angle.png` · Environment Reference Image: `SettingE_Env.png` · Scene Continuity Reference: `S037_Ref.png`
 Step 3 — Reference Image Prompt (Google Flow):
-Wide shot at dawn on a misty rubber-tree trail, a lone rubber tapper in a straw hat seen from behind walking between the trunks, the headlamp on his hat glowing faintly, gold rim light through the mist, tin cups on the trees.
+Wide shot at dawn on a misty rubber-tree trail, a lone rubber tapper in a straw hat walking toward the camera between the trunks, his face clearly visible and calm, the headlamp on his hat glowing faintly, gold rim light through the mist, tin cups on the trees.
 Save as: `S038_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S038_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S038_Ref.png`. The camera follows a few metres behind him, gliding forward as he walks between the trunks; the mist swirls, light beams shift and a bird flies across; he stops at a tree and looks up.
+I2V from `S038_Ref.png`. The camera tracks backwards a few metres ahead of him as he walks between the trunks; the mist swirls, light beams shift and a bird flies across; he stops at a tree, looks up at its bark with a thoughtful expression, and touches it.
 Sound (BGM+SFX, no dialogue): A warm, humble guitar and flute theme enters; boots on mud, dawn birds, a soft wind.
 Cut→S039: Hard cut to a macro on the knife cut.
 
 **S039 — The cut that gives life | 5:04–5:12**
 Step 3 Ingredients: Vehicle/Subject Reference Image: `Tapper_Portrait.png` · Environment Reference Image: `SettingE_Env.png` · Scene Continuity Reference: `S038_Ref.png`
 Step 3 — Reference Image Prompt (Google Flow):
-Macro of a curved tapping knife making a fresh diagonal cut into a rubber tree's bark, a thin line of white latex beading along the cut, latex-stained sleeve blurred at the edge of frame, no face visible.
+Macro-to-close shot of a curved tapping knife making a fresh diagonal cut into a rubber tree's bark, a thin line of white latex beading along the cut, latex-stained sleeve and the tapper's calm, focused face softly visible in the background.
 Save as: `S039_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S039_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S039_Ref.png`. The knife draws a smooth, shallow cut down the bark, and milky latex wells up and slowly runs along the groove; the camera tracks with it as a first drip forms.
+I2V from `S039_Ref.png`. The knife draws a smooth, shallow cut down the bark, and milky latex wells up and slowly runs along the groove; the camera tracks with it as a first drip forms, then racks focus to the tapper's face watching it with quiet satisfaction.
 Sound (BGM+SFX, no dialogue): The theme stays warm and gentle; the crisp scrape of the knife on bark, soft wet latex ooze, a droplet.
 Cut→S040: Match cut on the falling drop, into a top-down cup.
 
@@ -665,22 +665,22 @@ Cut→S041: Hard cut to a wide low-angle view of the tapper turning toward a dis
 **S041 — Smoke on the ridge | 5:20–5:28**
 Step 3 Ingredients: Vehicle/Subject Reference Image: `Tapper_Portrait.png`, `Tapper_6Angle.png` · Environment Reference Image: `SettingE_Env.png` · Scene Continuity Reference: `S040_Ref.png`
 Step 3 — Reference Image Prompt (Google Flow):
-Low-angle wide shot of the tapper standing small between giant trunks, seen from behind, his straw hat lifted, looking toward a dark column of smoke rising above the ridge far away, dawn light turning orange near the smoke.
+Low-angle wide shot of the tapper standing small between giant trunks, his straw hat lifted, his face clearly visible in profile with a troubled, sorrowful look as he gazes toward a dark column of smoke rising above the ridge far away, dawn light turning orange near the smoke.
 Save as: `S041_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S041_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S041_Ref.png`. The camera pushes in slowly from behind his shoulder as he stands still watching the smoke grow; birds fly away from the ridge; the light in the mist shifts to orange.
+I2V from `S041_Ref.png`. The camera pushes in slowly toward his face as he watches the smoke grow; his brow furrows and his eyes narrow; birds fly away from the ridge; the light in the mist shifts to orange.
 Sound (BGM+SFX, no dialogue): The theme darkens with a low cello; a distant chainsaw whine, crackling far off, birds scattering.
-Cut→S042: Hard cut to a wide backlit view of many silhouettes gathered.
+Cut→S042: Hard cut to a wide golden-hour view of many tappers gathered.
 
 **S042 — A voice, and many with him | 5:28–5:36**
 Step 3 Ingredients: Vehicle/Subject Reference Image: `Tapper_Portrait.png` · Environment Reference Image: `SettingE_Env.png` · Scene Continuity Reference: `S041_Ref.png`
 Step 3 — Reference Image Prompt (Google Flow):
-Wide backlit view at sunrise of the tapper standing in front of a line of dozens of other rubber tappers on the trail, all seen only as silhouettes with straw hats, some raising their hats overhead, golden light streaming from behind them through the trunks.
+Wide golden-hour view at sunrise of the tapper standing in front of a line of dozens of other rubber tappers on the trail, his face clearly visible and resolute as he addresses them, the others in straw hats with weathered, serious faces, some raising their hats overhead, golden light streaming through the trunks.
 Save as: `S042_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S042_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S042_Ref.png`. The camera slowly pushes in from behind the tapper as more silhouettes raise their hats one by one; the sun rays intensify; the mist glows.
+I2V from `S042_Ref.png`. The camera slowly pushes in toward the tapper's determined face as more tappers raise their hats one by one behind him; the sun rays intensify; the mist glows.
 Sound (BGM+SFX, no dialogue): The music grows into a hopeful, determined swell with strings and a soft choir-like pad; a rustle of fabric, a murmuring crowd without words.
 Cut→S043: Cross-dissolve to a quiet close-up of an award medal.
 
@@ -746,11 +746,11 @@ Cut→S048: Cut to a close rack focus at the trail.
 **S048 — The cup keeps filling | 6:16–6:24**
 Step 3 Ingredients: Vehicle/Subject Reference Image: `Tapper_Portrait.png`, `Tapper_6Angle.png` · Environment Reference Image: `SettingE_Env.png` · Scene Continuity Reference: `S047_Ref.png`
 Step 3 — Reference Image Prompt (Google Flow):
-Close view at dawn of a tin cup on a rubber tree filling with white latex, sun flare and mist behind it, and beyond it a blurred silhouette of a tapper in a straw hat walking down the trail, seen from behind.
+Close view at dawn of a tin cup on a rubber tree filling with white latex, sun flare and mist behind it, and beyond it a softly blurred tapper in a straw hat with a calm, hopeful face walking down the trail.
 Save as: `S048_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S048_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S048_Ref.png`. A drop of latex falls into the cup; a rack focus moves from the cup to the walking silhouette and back; sun flare grows across the lens; the tapper walks on down the trail out of frame.
+I2V from `S048_Ref.png`. A drop of latex falls into the cup; a rack focus moves from the cup to the tapper's face as he glances back with a gentle smile and back again; sun flare grows across the lens; the tapper walks on down the trail out of frame.
 Sound (BGM+SFX, no dialogue): The theme resolves into a soft, hopeful piano and strings; a latex drop plink, footsteps fading, a distant bird.
 Cut→S049: Hard cut to a cold dawn aerial with a drone in flight.
 
@@ -822,16 +822,16 @@ Step 4 Ingredients: Starting Reference Image: `S054_Ref.png`
 Video Prompt (Google Flow, 8s):
 I2V from `S054_Ref.png`. The camera glides forward and slightly down as the fire line creeps across the land and the smoke columns twist upward; the small forest island glows on the horizon; the tiny thread of smoke inside it stays steady.
 Sound (BGM+SFX, no dialogue): The score reaches a menacing peak with pounding percussion; roaring fire, wind, distant collapsing trees.
-Cut→S055: Cut to a quiet silhouette looking out at the fire.
+Cut→S055: Cut to the lone man's face, looking out at the fire.
 
 **S055 — How many are still there? | 7:12–7:20**
 Step 3 Ingredients: Vehicle/Subject Reference Image: `TanaruMan_Portrait.png`, `TanaruMan_6Angle.png` · Environment Reference Image: `SettingB_Env.png` · Scene Continuity Reference: `S054_Ref.png`
 Step 3 — Reference Image Prompt (Google Flow):
-Medium-wide shot from behind at the tree line of the clearing at dusk, a lone silhouetted man with a bow at his side, standing still and looking out toward a far orange glow of fire on the horizon; his face is never visible.
+Medium shot at the tree line of the clearing at dusk, the lone man in three-quarter profile with his bow at his side, face clearly visible and lit by the far orange glow, his eyes fixed on the fire on the horizon with grief and quiet defiance.
 Save as: `S055_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S055_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S055_Ref.png`. A slow push-in from behind his shoulder; the far glow pulses; a breeze stirs the smoke and his hair; he lowers his head slightly and stays still while the camera settles. Quiet and heavy.
+I2V from `S055_Ref.png`. A slow push-in toward his face; the far glow pulses in his eyes; a breeze stirs the smoke and his hair; he lowers his head slightly and stays still while the camera settles. Quiet and heavy.
 Sound (BGM+SFX, no dialogue): The music drops to a lone flute over a soft pad; distant fire rumble, crickets, and a deep silence beat before the next scene.
 Cut→S056: Slow cross-dissolve through the silent beat into a bright dawn.
 
@@ -868,7 +868,7 @@ Cut→END: Fade to black.
 - **Runtime check:** 7:30 = 450 s. 450 ÷ 8 = 56.25, so 57 scenes. Scenes S001–S056 are 8 s each (448 s). S057 nominally runs 7:28–7:36 and is trimmed to 2 s so the video ends at exactly 7:30.
 - **Image generation is Google Flow only.** Step 1 subject sheets, Step 2 environment plates and Step 3 scene reference images are all made there. Video prompts use each scene's saved `_Ref.png` as the starting frame. One video prompt per scene.
 - **Continuity chain:** every Step 3 prompt lists the previous scene's saved `SXXX_Ref.png` as its Scene Continuity Reference, plus the subject sheets in the shot and the correct environment plate. Generate the scenes in order so each reference image exists before it is needed.
-- **Hard-rules reminder:** no on-screen text, no readable faces, no gore or visible violence. Tragic events (the massacre, Fawcett's disappearance, the 1988 killing) are shown only through symbols and sound: empty hammock, fog, dropped hat, birds bursting from trees. Humans are silhouettes, back-turned or distant.
+- **Hard-rules reminder:** no on-screen text, human faces are fully visible and must match the face rows on the Step 1 sheets (fictional faces, no real likenesses), no gore or visible violence. Tragic events (the massacre, Fawcett's disappearance, the 1988 killing) are shown only through symbols and sound: empty hammock, fog, dropped hat, birds bursting from trees. Grief, fear and resolve are shown on the characters' faces.
 - **Voice-over:** the generated clips carry only BGM and diegetic SFX. Lay the Tamil narration in the edit. Roughly 7:30 of narration is needed, so trim the 20-minute script to about 25–30% of its length. Keep the hook, the Tanaru story, the Fawcett story, one river-danger beat, the Chico Mendes story and the closing line.
 - **Fact-check before recording:** the candiru "swims up the body" story is largely folk myth. The 1997 anaconda attack on a gardener isn't a well-documented case. Check the Kawahiva "2011 drone" detail.
 - **Segment shifts to watch in the edit:** S043 (dusk medal) sits between the dawn trail scenes and the dusk yard on purpose. Colour-match it to Setting F.
