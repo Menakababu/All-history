@@ -3,7 +3,7 @@
 
 **Rules followed:** max 2 characters per scene · mixed 4s / 6s / 8s scene lengths (31 × 4 s + 39 × 6 s + 19 × 8 s = 510 s) · **YANTHIRASAMY (யந்திரசாமி) stays hidden**: his name is only spoken in scenes 20, 25, 32, 54, 85 and he is never shown, not even as a shadow, hand or silhouette.
 
-**Characters used (existing images):** `Kottaimuthu.png`, `Kokkayi.png`, `Pechiammavum.png`, `Kuppusamy.png`, `Poni.png`, `Mayandi.png`, `Ganesha.png`
+**Characters used (saved in Flow, by name):** Kottaimuthu, Kokkayi, Pechiammavum, Kuppusamy, Poni, Mayandi Thatha, Ganesha
 
 **Story in one paragraph:** The morning after Episode 4, the well is full but it ticks like a machine. The lamp burns without oil, the handprint has gear lines, and the village tap now runs strong. Mayandi Thatha shows an old water-map and names Yanthirasamy. The same spiral is on the water tank and on the forest boulder, which glows near the lamp but will not open. At night a floating pot brings a leaf message: come at dawn. The group walks the dark trail, Poni sneaks along, the boulder opens, and they descend into a glowing copper workshop where a cup of tea is still steaming. The arched door clicks shut and the maker stays unseen.
 
