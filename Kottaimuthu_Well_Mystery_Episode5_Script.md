@@ -1,730 +1,641 @@
-# கிணற்றில் ஒரு மர்மம் (The Mystery at the Well) — Episode 5
-### Continuity episode (follows Episode 4) | 89 scenes | 8:30 total
+# கிணற்றில் ஒரு மர்மம் — Episode 5 (story script)
+### Continuity episode | 92 scenes | 8:20 | comedy · action · songs · max 2 characters per scene
 
-**Rules followed:** max 2 characters per scene · mixed 4s / 6s / 8s scene lengths (31 × 4 s + 39 × 6 s + 19 × 8 s = 510 s) · **YANTHIRASAMY (யந்திரசாமி) stays hidden**: his name is only spoken in scenes 20, 25, 32, 54, 85 and he is never shown, not even as a shadow, hand or silhouette.
+**One-line story:** The morning after Episode 4, a tiny clockwork beetle steals Kottaimuthu's vada. The chase leads the gang to a riddle song, a stubborn boulder that only opens for music, a singing staircase, a water slide, a giant gear hall and a workshop with a cup of tea still warm. The final door swings open into blinding light and Yanthirasamy is still unseen.
 
-**Characters used (saved in Flow, by name):** Kottaimuthu, Kokkayi, Pechiammavum, Kuppusamy, Poni, Mayandi Thatha, Ganesha
-
-**Story in one paragraph:** The morning after Episode 4, the well is full but it ticks like a machine. The lamp burns without oil, the handprint has gear lines, and the village tap now runs strong. Mayandi Thatha shows an old water-map and names Yanthirasamy. The same spiral is on the water tank and on the forest boulder, which glows near the lamp but will not open. At night a floating pot brings a leaf message: come at dawn. The group walks the dark trail, Poni sneaks along, the boulder opens, and they descend into a glowing copper workshop where a cup of tea is still steaming. The arched door clicks shut and the maker stays unseen.
-
----
-
-| # | Time | Sec | Characters (max 2) | Dialogue |
+| # | Time | Sec | Characters | Line type |
 |---|---|---|---|---|
-| 01 | 0:00–0:04 | 4 | Kottaimuthu | ✔ |
-| 02 | 0:04–0:10 | 6 | Kottaimuthu, Kokkayi | ✔ |
-| 03 | 0:10–0:14 | 4 | Kokkayi | ✔ |
-| 04 | 0:14–0:22 | 8 | Kokkayi, Kottaimuthu | ✔ |
-| 05 | 0:22–0:28 | 6 | Poni, Ganesha | ✔ |
-| 06 | 0:28–0:32 | 4 | Ganesha | SFX only |
-| 07 | 0:32–0:38 | 6 | Poni, Kokkayi | ✔ |
-| 08 | 0:38–0:44 | 6 | Kottaimuthu | ✔ |
-| 09 | 0:44–0:52 | 8 | Pechiammavum, Kuppusamy | ✔ |
-| 10 | 0:52–0:56 | 4 | Kuppusamy | ✔ |
-| 11 | 0:56–1:02 | 6 | Pechiammavum | ✔ |
-| 12 | 1:02–1:08 | 6 | Kuppusamy, Kottaimuthu | ✔ |
-| 13 | 1:08–1:16 | 8 | Kuppusamy, Kottaimuthu | ✔ |
-| 14 | 1:16–1:20 | 4 | Poni | ✔ |
-| 15 | 1:20–1:26 | 6 | Pechiammavum, Poni | ✔ |
-| 16 | 1:26–1:30 | 4 | Kuppusamy | ✔ |
-| 17 | 1:30–1:38 | 8 | Mayandi Thatha, Pechiammavum | ✔ |
-| 18 | 1:38–1:44 | 6 | Mayandi Thatha | ✔ |
-| 19 | 1:44–1:50 | 6 | Kokkayi, Mayandi Thatha | ✔ |
-| 20 | 1:50–1:58 | 8 | Mayandi Thatha, Kokkayi | ✔ (name) |
-| 21 | 1:58–2:04 | 6 | Mayandi Thatha, Kokkayi | ✔ |
-| 22 | 2:04–2:10 | 6 | Kokkayi | ✔ |
-| 23 | 2:10–2:14 | 4 | Mayandi Thatha | ✔ |
-| 24 | 2:14–2:20 | 6 | Kuppusamy, Kottaimuthu | ✔ |
-| 25 | 2:20–2:28 | 8 | Mayandi Thatha, Kuppusamy | ✔ (name) |
-| 26 | 2:28–2:32 | 4 | Mayandi Thatha | ✔ |
-| 27 | 2:32–2:38 | 6 | Kokkayi, Kottaimuthu | ✔ |
-| 28 | 2:38–2:42 | 4 | Kuppusamy | ✔ |
-| 29 | 2:42–2:48 | 6 | Poni, Mayandi Thatha | ✔ |
-| 30 | 2:48–2:54 | 6 | Poni, Kottaimuthu | ✔ |
-| 31 | 2:54–2:58 | 4 | Ganesha | SFX only |
-| 32 | 2:58–3:06 | 8 | Kuppusamy, Kottaimuthu | ✔ (name) |
-| 33 | 3:06–3:10 | 4 | Kokkayi | ✔ |
-| 34 | 3:10–3:16 | 6 | Kokkayi, Kottaimuthu | ✔ |
-| 35 | 3:16–3:22 | 6 | Kuppusamy, Kokkayi | ✔ |
-| 36 | 3:22–3:30 | 8 | Ganesha, Poni | ✔ |
-| 37 | 3:30–3:34 | 4 | Kottaimuthu | ✔ |
-| 38 | 3:34–3:40 | 6 | Pechiammavum, Kottaimuthu | ✔ |
-| 39 | 3:40–3:48 | 8 | Pechiammavum, Kuppusamy | ✔ |
-| 40 | 3:48–3:52 | 4 | Pechiammavum | ✔ |
-| 41 | 3:52–3:58 | 6 | Ganesha, Poni | ✔ |
-| 42 | 3:58–4:04 | 6 | Pechiammavum, Poni | ✔ |
-| 43 | 4:04–4:08 | 4 | Poni | ✔ |
-| 44 | 4:08–4:14 | 6 | Kokkayi, Kuppusamy | ✔ |
-| 45 | 4:14–4:22 | 8 | Mayandi Thatha, Kokkayi | ✔ |
-| 46 | 4:22–4:26 | 4 | Kottaimuthu | ✔ |
-| 47 | 4:26–4:30 | 4 | Kokkayi | ✔ |
-| 48 | 4:30–4:36 | 6 | Kottaimuthu, Ganesha | ✔ |
-| 49 | 4:36–4:42 | 6 | Kottaimuthu, Kokkayi | ✔ |
-| 50 | 4:42–4:46 | 4 | Kuppusamy | ✔ |
-| 51 | 4:46–4:52 | 6 | Kuppusamy, Kottaimuthu | ✔ |
-| 52 | 4:52–4:56 | 4 | Kottaimuthu | ✔ |
-| 53 | 4:56–5:04 | 8 | Kottaimuthu, Ganesha | ✔ |
-| 54 | 5:04–5:08 | 4 | Kokkayi | ✔ (name) |
-| 55 | 5:08–5:14 | 6 | Kokkayi, Kuppusamy | ✔ |
-| 56 | 5:14–5:18 | 4 | Ganesha | SFX only |
-| 57 | 5:18–5:24 | 6 | Kottaimuthu, Kokkayi | ✔ |
-| 58 | 5:24–5:32 | 8 | Mayandi Thatha, Kokkayi | ✔ |
-| 59 | 5:32–5:36 | 4 | Pechiammavum | ✔ |
-| 60 | 5:36–5:40 | 4 | Poni | ✔ |
-| 61 | 5:40–5:46 | 6 | Kokkayi, Mayandi Thatha | ✔ |
-| 62 | 5:46–5:50 | 4 | Kuppusamy | ✔ |
-| 63 | 5:50–5:58 | 8 | Kuppusamy, Kottaimuthu | ✔ |
-| 64 | 5:58–6:04 | 6 | Ganesha, Kottaimuthu | ✔ |
-| 65 | 6:04–6:08 | 4 | Ganesha | SFX only |
-| 66 | 6:08–6:14 | 6 | Kokkayi, Mayandi Thatha | ✔ |
-| 67 | 6:14–6:22 | 8 | Poni | ✔ |
-| 68 | 6:22–6:26 | 4 | Poni, Ganesha | ✔ |
-| 69 | 6:26–6:32 | 6 | Kuppusamy, Poni | ✔ |
-| 70 | 6:32–6:36 | 4 | Mayandi Thatha | ✔ |
-| 71 | 6:36–6:42 | 6 | Kokkayi, Mayandi Thatha | ✔ |
-| 72 | 6:42–6:50 | 8 | Kokkayi, Kottaimuthu | ✔ |
-| 73 | 6:50–6:54 | 4 | Ganesha | SFX only |
-| 74 | 6:54–7:00 | 6 | Kuppusamy, Kottaimuthu | ✔ |
-| 75 | 7:00–7:08 | 8 | Mayandi Thatha | ✔ |
-| 76 | 7:08–7:12 | 4 | Poni | ✔ |
-| 77 | 7:12–7:18 | 6 | Kokkayi, Kottaimuthu | ✔ |
-| 78 | 7:18–7:22 | 4 | Kuppusamy | ✔ |
-| 79 | 7:22–7:30 | 8 | Kokkayi, Mayandi Thatha | ✔ |
-| 80 | 7:30–7:36 | 6 | Kuppusamy, Kottaimuthu | ✔ |
-| 81 | 7:36–7:42 | 6 | Poni, Ganesha | ✔ |
-| 82 | 7:42–7:48 | 6 | Poni, Ganesha | ✔ |
-| 83 | 7:48–7:52 | 4 | Kottaimuthu | ✔ |
-| 84 | 7:52–8:00 | 8 | Kokkayi, Kuppusamy | ✔ |
-| 85 | 8:00–8:06 | 6 | Kokkayi, Mayandi Thatha | ✔ (name) |
-| 86 | 8:06–8:12 | 6 | Mayandi Thatha, Kottaimuthu | ✔ |
-| 87 | 8:12–8:18 | 6 | Kuppusamy, Kottaimuthu | ✔ |
-| 88 | 8:18–8:22 | 4 | Kokkayi | ✔ |
-| 89 | 8:22–8:30 | 8 | Mayandi Thatha, Kokkayi | ✔ |
+| 01 | 0:00–0:04 | 4 | Kottaimuthu | dialogue |
+| 02 | 0:04–0:08 | 4 | Kokkayi | dialogue |
+| 03 | 0:08–0:14 | 6 | Kottaimuthu, Kokkayi | song |
+| 04 | 0:14–0:20 | 6 | Kottaimuthu, Kokkayi | song |
+| 05 | 0:20–0:24 | 4 | Poni, Ganesha | dialogue |
+| 06 | 0:24–0:30 | 6 | Poni, Ganesha | dialogue |
+| 07 | 0:30–0:34 | 4 | Kokkayi, Kottaimuthu | dialogue |
+| 08 | 0:34–0:40 | 6 | Kuppusamy | dialogue |
+| 09 | 0:40–0:44 | 4 | Pechiammavum | dialogue |
+| 10 | 0:44–0:50 | 6 | Kuppusamy, Pechiammavum | dialogue |
+| 11 | 0:50–0:56 | 6 | Pechiammavum, Poni | dialogue |
+| 12 | 0:56–1:00 | 4 | Poni, Ganesha | dialogue |
+| 13 | 1:00–1:06 | 6 | Ganesha, Kuppusamy | dialogue |
+| 14 | 1:06–1:12 | 6 | Kokkayi, Kottaimuthu | dialogue |
+| 15 | 1:12–1:16 | 4 | Kokkayi | dialogue |
+| 16 | 1:16–1:22 | 6 | Kuppusamy, Kottaimuthu | dialogue |
+| 17 | 1:22–1:26 | 4 | Kuppusamy | dialogue |
+| 18 | 1:26–1:30 | 4 | Kottaimuthu | dialogue |
+| 19 | 1:30–1:34 | 4 | Kokkayi | dialogue |
+| 20 | 1:34–1:40 | 6 | Kottaimuthu, Kokkayi | dialogue |
+| 21 | 1:40–1:44 | 4 | Kottaimuthu | dialogue |
+| 22 | 1:44–1:50 | 6 | Mayandi Thatha | dialogue |
+| 23 | 1:50–1:54 | 4 | Kokkayi | dialogue |
+| 24 | 1:54–2:02 | 8 | Mayandi Thatha, Kokkayi | song |
+| 25 | 2:02–2:08 | 6 | Kottaimuthu, Mayandi Thatha | dialogue |
+| 26 | 2:08–2:12 | 4 | Kottaimuthu | dialogue |
+| 27 | 2:12–2:18 | 6 | Poni, Mayandi Thatha | dialogue |
+| 28 | 2:18–2:24 | 6 | Kuppusamy, Mayandi Thatha | dialogue |
+| 29 | 2:24–2:28 | 4 | Mayandi Thatha | dialogue |
+| 30 | 2:28–2:34 | 6 | Kokkayi, Mayandi Thatha | dialogue |
+| 31 | 2:34–2:40 | 6 | Kuppusamy, Kottaimuthu | dialogue |
+| 32 | 2:40–2:44 | 4 | Kuppusamy | dialogue |
+| 33 | 2:44–2:50 | 6 | Kuppusamy, Kottaimuthu | dialogue |
+| 34 | 2:50–2:56 | 6 | Poni, Kottaimuthu | dialogue |
+| 35 | 2:56–3:02 | 6 | Poni, Kottaimuthu | dialogue |
+| 36 | 3:02–3:06 | 4 | Kokkayi | dialogue |
+| 37 | 3:06–3:12 | 6 | Poni, Ganesha | dialogue |
+| 38 | 3:12–3:16 | 4 | Ganesha | SFX |
+| 39 | 3:16–3:22 | 6 | Kokkayi, Kottaimuthu | song |
+| 40 | 3:22–3:26 | 4 | Pechiammavum | dialogue |
+| 41 | 3:26–3:32 | 6 | Pechiammavum, Kuppusamy | dialogue |
+| 42 | 3:32–3:40 | 8 | Kuppusamy | song |
+| 43 | 3:40–3:46 | 6 | Pechiammavum, Kottaimuthu | dialogue |
+| 44 | 3:46–3:50 | 4 | Pechiammavum | dialogue |
+| 45 | 3:50–3:56 | 6 | Poni, Pechiammavum | dialogue |
+| 46 | 3:56–4:02 | 6 | Kokkayi, Kottaimuthu | dialogue |
+| 47 | 4:02–4:08 | 6 | Kuppusamy, Kokkayi | dialogue |
+| 48 | 4:08–4:12 | 4 | Mayandi Thatha | dialogue |
+| 49 | 4:12–4:18 | 6 | Kokkayi, Kottaimuthu | dialogue |
+| 50 | 4:18–4:24 | 6 | Kuppusamy, Poni | dialogue |
+| 51 | 4:24–4:28 | 4 | Ganesha | SFX |
+| 52 | 4:28–4:34 | 6 | Poni, Ganesha | dialogue |
+| 53 | 4:34–4:40 | 6 | Kuppusamy, Ganesha | dialogue |
+| 54 | 4:40–4:44 | 4 | Kokkayi | dialogue |
+| 55 | 4:44–4:52 | 8 | Kokkayi, Kottaimuthu | song |
+| 56 | 4:52–4:56 | 4 | Mayandi Thatha | song |
+| 57 | 4:56–5:02 | 6 | Kuppusamy, Kottaimuthu | dialogue |
+| 58 | 5:02–5:06 | 4 | Poni | dialogue |
+| 59 | 5:06–5:12 | 6 | Poni, Ganesha | dialogue |
+| 60 | 5:12–5:18 | 6 | Kokkayi, Kottaimuthu | dialogue |
+| 61 | 5:18–5:24 | 6 | Kuppusamy, Poni | dialogue |
+| 62 | 5:24–5:28 | 4 | Kuppusamy | dialogue |
+| 63 | 5:28–5:34 | 6 | Kokkayi, Kuppusamy | dialogue |
+| 64 | 5:34–5:40 | 6 | Mayandi Thatha, Kokkayi | dialogue |
+| 65 | 5:40–5:44 | 4 | Kottaimuthu | dialogue |
+| 66 | 5:44–5:50 | 6 | Kuppusamy, Kottaimuthu | dialogue |
+| 67 | 5:50–5:56 | 6 | Kokkayi, Mayandi Thatha | dialogue |
+| 68 | 5:56–6:04 | 8 | Kuppusamy, Kottaimuthu | dialogue |
+| 69 | 6:04–6:08 | 4 | Kokkayi | dialogue |
+| 70 | 6:08–6:14 | 6 | Kokkayi, Kottaimuthu | dialogue |
+| 71 | 6:14–6:18 | 4 | Kuppusamy | dialogue |
+| 72 | 6:18–6:24 | 6 | Poni, Kuppusamy | dialogue |
+| 73 | 6:24–6:30 | 6 | Kottaimuthu, Poni | dialogue |
+| 74 | 6:30–6:38 | 8 | Kokkayi, Kottaimuthu | dialogue |
+| 75 | 6:38–6:42 | 4 | Kuppusamy | dialogue |
+| 76 | 6:42–6:48 | 6 | Kuppusamy, Poni | dialogue |
+| 77 | 6:48–6:52 | 4 | Kokkayi | dialogue |
+| 78 | 6:52–6:58 | 6 | Kokkayi, Kottaimuthu | dialogue |
+| 79 | 6:58–7:06 | 8 | Kottaimuthu | song |
+| 80 | 7:06–7:12 | 6 | Kokkayi, Kuppusamy | dialogue |
+| 81 | 7:12–7:18 | 6 | Kuppusamy, Kottaimuthu | dialogue |
+| 82 | 7:18–7:22 | 4 | Kokkayi | dialogue |
+| 83 | 7:22–7:28 | 6 | Mayandi Thatha, Kokkayi | dialogue |
+| 84 | 7:28–7:32 | 4 | Poni | dialogue |
+| 85 | 7:32–7:38 | 6 | Kuppusamy, Poni | dialogue |
+| 86 | 7:38–7:44 | 6 | Kottaimuthu, Poni | dialogue |
+| 87 | 7:44–7:50 | 6 | Kokkayi, Kottaimuthu | dialogue |
+| 88 | 7:50–7:58 | 8 | Kokkayi, Kuppusamy | song |
+| 89 | 7:58–8:02 | 4 | Kuppusamy | dialogue |
+| 90 | 8:02–8:06 | 4 | Kottaimuthu | dialogue |
+| 91 | 8:06–8:12 | 6 | Mayandi Thatha, Poni | dialogue |
+| 92 | 8:12–8:20 | 8 | Mayandi Thatha, Kokkayi | dialogue |
 
 ---
 
-## SCENES
 
+## Segment 1 — Hook & Water Song (scenes 01–07) | 0:00–0:34
 
-## Segment 1 — The Ticking Well (Scenes 01–08) | 0:00–0:44
-
-### SCENE 01 — 4 sec — HOOK
+### SCENE 01 — 4 s — HOOK
 **Characters:** Kottaimuthu
-**Action:** Morning at the full well. Kottaimuthu presses his ear to the stone rim. A faint, steady "டக்… டக்…" ticks from deep inside, like a small machine.
-**Camera:** Medium side shot with a slow push-in on his ear.
-**KOTTAIMUTHU (whisper, puzzled):** "இது தண்ணி சத்தம் இல்ல… இயந்திரம் ஓடுது!"
+**Action:** Kottaimuthu listens at the well and a tiny brass clockwork beetle pops up and snatches his vada; The beetle scuttles away along the pipe.
+**KOTTAIMUTHU (shocked, comic) — waves his empty hand and hops up and down:** "ஐயோ! என் வடை! டக் டக்னு திருடிடுச்சு!"
 
-### SCENE 02 — 6 sec
+### SCENE 02 — 4 s
+**Characters:** Kokkayi
+**Action:** Kokkayi swings into frame holding the lamp like a torch; Hold on her determined smirk.
+**KOKKAYI (sassy, quick) — points the lamp down the pipe:** "விடாதே! இது தண்ணி திருடன் வேலை!"
+
+### SCENE 03 — 6 s — SONG 1 — Water Song
 **Characters:** Kottaimuthu, Kokkayi
-**Action:** Kokkayi shows Kottaimuthu the clay lamp from the rim. The flame burns steadily, yet the lamp has no oil.
-**Camera:** Medium two-shot, then a close-up of the steady flame.
-**KOKKAYI (amazed):** "விளக்குல எண்ணெயே இல்ல… ஆனாலும் எரியுது!"
-**KOTTAIMUTHU (wondering):** "அப்போ இது சாதாரண விளக்கு இல்ல!"
+**Action:** Kokkayi taps the well rim like a drum and starts a beat; Both freeze in a pose on the beat.
+**KOKKAYI (singing, kuthu beat) — strikes a dance pose and taps the rim in rhythm:** "தண்ணி தண்ணி டக்கு டக்கு"
+**KOTTAIMUTHU (singing, shaky) — shrugs and spins on his heels:** "கிணத்துல என்ன இருக்கு?"
 
-### SCENE 03 — 4 sec
-**Characters:** Kokkayi
-**Action:** Kokkayi crouches by the big handprint on the rim, now dry and pale. Inside the palm are fine gear-like lines. She traces them with a fingertip.
-**Camera:** Extreme close-up on the palm lines, slow tilt up to her face.
-**KOKKAYI (whisper):** "இந்த கை ரேகையில சக்கரம் மாதிரி கோடுகள்!"
+### SCENE 04 — 6 s — SONG 1 — Water Song
+**Characters:** Kottaimuthu, Kokkayi
+**Action:** Both bounce to the beat beside the well; They high-five on the last beat.
+**KOKKAYI (singing, bold) — pumps her fist in the air:** "திருடன் யாரு பிடிக்கணும்"
+**KOTTAIMUTHU (singing, squeaky) — clutches his empty hand to his chest dramatically:** "வடையை கண்டா சொல்லுங்க!"
 
-### SCENE 04 — 8 sec
-**Characters:** Kokkayi, Kottaimuthu
-**Action:** They press a bamboo pipe against the well wall to listen. The ticking is louder and comes from far below, and the water ripples with every tick.
-**Camera:** Medium two-shot from the side, slow push-in on the bamboo pipe.
-**KOKKAYI (whisper, focused):** "அமைதி… சத்தம் கீழ இருந்து வருது."
-**KOTTAIMUTHU (excited):** "ஒவ்வொரு டக்குக்கும் தண்ணி அசையுது!"
-**KOKKAYI (thoughtful):** "கிணத்துக்கு அடியில ஏதோ ஓடுது."
-
-### SCENE 05 — 6 sec
+### SCENE 05 — 4 s
 **Characters:** Poni, Ganesha
-**Action:** Ganesha drinks calmly from the well, ears relaxed. Poni pats him, smiling.
-**Camera:** Medium two-shot at eye level, slow drift.
-**PONI (happy, child voice):** "கணேசா இப்போ பயப்படல… அப்போ வந்தவர் நல்லவர்தானே?"
+**Action:** Poni scratches two spoons on Ganesha's head like a DJ; Ganesha gives a happy rumble.
+**PONI (cheeky shout) — leaps onto Ganesha's trunk like a slide:** "ரெண்டு பேரும் நிறுத்துங்க! நான் பிடிக்கறேன்!"
 
-### SCENE 06 — 4 sec
-**Characters:** Ganesha
-**Action:** Ganesha splashes himself with well water and flaps his ears happily. No dialogue.
-**Camera:** Low-angle wide shot, slow push-in.
-**SFX:** Water spray, splash on stone, a happy trumpet-rumble, birds. No dialogue.
+### SCENE 06 — 6 s
+**Characters:** Poni, Ganesha
+**Action:** Poni slides down the trunk onto his back and Ganesha takes off; Ganesha trumpets as they zoom out of frame.
+**PONI (thrilled) — holds his ears like handlebars:** "கணேசா வேகமா! ராக்கெட் மாதிரி!"
 
-### SCENE 07 — 6 sec
-**Characters:** Poni, Kokkayi
-**Action:** Poni offers a tiny rice cake to the lamp. Kokkayi laughs.
-**Camera:** Medium two-shot, slight push-in on the lamp.
-**PONI (cute and serious):** "அக்கா, விளக்குக்கு பசிக்குமா? எண்ணெய் வேணாமா?"
-**KOKKAYI (laughing):** "இந்த விளக்கு தன்னைத்தானே பாத்துக்கும்!"
-
-### SCENE 08 — 6 sec
-**Characters:** Kottaimuthu
-**Action:** Kottaimuthu presses a spoon to the stone. It jumps and rattles in time with the ticking.
-**Camera:** Close-up on the rattling spoon, then on his face.
-**KOTTAIMUTHU (comic, amazed):** "ஐயோ… கரண்டியே ஆடுது! இது சாதாரண சத்தம் இல்ல!"
-
-
-## Segment 2 — Water for the Village (Scenes 09–18) | 0:44–1:44
-
-### SCENE 09 — 8 sec
-**Characters:** Pechiammavum, Kuppusamy
-**Action:** At the village tap, clear water pours strongly. Pechiammavum is delighted. Kuppusamy wonders who is sending it.
-**Camera:** Medium two-shot, slow push-in on the tap, then on Kuppusamy.
-**PECHIAMMAVUM (joyful):** "பாத்தியாடா தம்பி… தண்ணி கொட்டுது!"
-**KUPPUSAMY (thoughtful):** "சந்தோஷம்தான்… ஆனா யார் தர்றாங்க?"
-**PECHIAMMAVUM (warm):** "யார் கொடுத்தா என்னடா… பிள்ளைங்க குடிச்சா போதும்."
-
-### SCENE 10 — 4 sec
-**Characters:** Kuppusamy
-**Action:** Kuppusamy wipes mud from the base of the water tank and finds a small copper plate with a spiral mark.
-**Camera:** Close-up on the plate, tilt up to his face.
-**KUPPUSAMY (surprised):** "இங்கயும் அதே சுத்து குறி!"
-
-### SCENE 11 — 6 sec
-**Characters:** Pechiammavum
-**Action:** Pechiammavum thanks the sky quietly as the last pot fills.
-**Camera:** Medium shot, slow push-in.
-**PECHIAMMAVUM (soft, grateful):** "யாரோ நல்லவங்க… அவங்களுக்கு நல்லதே நடக்கட்டும்."
-
-### SCENE 12 — 6 sec
-**Characters:** Kuppusamy, Kottaimuthu
-**Action:** Kottaimuthu tells Kuppusamy about the ticking sound. Kuppusamy doubts him.
-**Camera:** Medium two-shot, slight handheld energy.
-**KOTTAIMUTHU (excited):** "அண்ணே, கிணத்துல இயந்திரம்!"
-**KUPPUSAMY (doubtful):** "கனவு கண்டிருப்ப டா."
-**KOTTAIMUTHU (insisting):** "கரண்டியே ஆடுச்சு!"
-
-### SCENE 13 — 8 sec
-**Characters:** Kuppusamy, Kottaimuthu
-**Action:** They compare the copper plate with the base of the lamp. The spiral is the same.
-**Camera:** Medium two-shot, push-in on the plate and lamp.
-**KOTTAIMUTHU (amazed):** "பாருங்க அண்ணே… விளக்கு அடியிலயும் அதே குறி!"
-**KUPPUSAMY (convinced):** "சரி… இன்னிக்கே தாத்தாகிட்ட போய் கேப்போம்."
-**KOTTAIMUTHU (happy):** "நானும் வர்றேன்!"
-
-### SCENE 14 — 4 sec
-**Characters:** Poni
-**Action:** Poni copies the spiral in the dust with a stick.
-**Camera:** Low-angle close shot, slow drift.
-**PONI (playful):** "சுத்து குறி… நானும் போடுவேன்!"
-
-### SCENE 15 — 6 sec
-**Characters:** Pechiammavum, Poni
-**Action:** Pechiammavum gently scolds Poni for scribbling in the dust.
-**Camera:** Medium two-shot, slow push-in.
-**PECHIAMMAVUM (gently scolding):** "பிள்ளை, தரையில கிறுக்காம வீட்டுக்கு வா."
-**PONI (proud):** "அம்மா, இது மாயக்குறி!"
-
-### SCENE 16 — 4 sec
-**Characters:** Kuppusamy
-**Action:** Kuppusamy scans the forest edge, speaking to whoever is hidden there.
-**Camera:** Low-angle medium shot, slow push-in toward the forest.
-**KUPPUSAMY (low, challenging):** "நீ யாரு… வெளிய வா பார்ப்போம்!"
-
-### SCENE 17 — 8 sec
-**Characters:** Mayandi Thatha, Pechiammavum
-**Action:** Mayandi Thatha tastes the tap water and recognises its old flavour.
-**Camera:** Medium two-shot, slow push-in on Mayandi Thatha.
-**PECHIAMMAVUM (hopeful):** "தாத்தா, தண்ணி எப்படி இருக்கு?"
-**MAYANDI THATHA (slow, wise):** "இது பழைய தண்ணி ருசி பிள்ளை… எனக்கு நல்லா தெரியும்."
-**PECHIAMMAVUM (curious):** "அப்படீன்னா?"
-
-### SCENE 18 — 6 sec
-**Characters:** Mayandi Thatha
-**Action:** The coconut trembles in his palm in time with a distant ticking.
-**Camera:** Medium shot, slow push-in.
-**MAYANDI THATHA (quiet, knowing):** "வந்துட்டான்னு தெரியுது… ஆனா இன்னும் முகம் காட்டமாட்டான்."
-
-
-## Segment 3 — The Old Water Map (Scenes 19–29) | 1:44–2:48
-
-### SCENE 19 — 6 sec
-**Characters:** Kokkayi, Mayandi Thatha
-**Action:** Kokkayi shows Mayandi Thatha the oil-free lamp. The coconut in his hand turns slowly and gently.
-**Camera:** Medium two-shot, slow push-in on the lamp and the coconut.
-**KOKKAYI (eager):** "தாத்தா, விளக்கு எண்ணெய் இல்லாம எரியுது."
-**MAYANDI THATHA (calm, slow):** "எரியட்டும்… கிணறு பாதுகாப்புன்னு அர்த்தம்."
-
-### SCENE 20 — 8 sec — NAME
-**Characters:** Mayandi Thatha, Kokkayi
-**Action:** Mayandi Thatha unrolls an old cloth map of wavy lines and a spiral. He speaks Yanthirasamy's name. (Name #1; only the map is shown.)
-**Camera:** Top-down shot of the map, then a medium two-shot.
-**MAYANDI THATHA (slow, quiet):** "இதோ பாரு… யந்திரசாமி வரைஞ்ச தண்ணி வரைபடம். ஊருக்கு அடியில போற பாதை."
-**KOKKAYI (excited):** "அப்போ சுத்து குறி வழி காட்டுது!"
-
-### SCENE 21 — 6 sec
-**Characters:** Mayandi Thatha, Kokkayi
-**Action:** Mayandi Thatha remembers a drought long ago when every well filled in a single night.
-**Camera:** Medium two-shot, slow drift.
-**MAYANDI THATHA (dreamy):** "அந்த காலத்துல பஞ்சம்… ஒரு ராத்திரி எல்லா கிணறும் நிரம்பிச்சு."
-**KOKKAYI (breathless):** "யார் செஞ்சாங்க?"
-
-### SCENE 22 — 6 sec
-**Characters:** Kokkayi
-**Action:** Kokkayi sketches the three-ring spiral and the wavy lines.
-**Camera:** Close-up on the drawing hand, tilt up to her face.
-**KOKKAYI (thinking aloud):** "சுத்து குறி… மூணு வளையம்… மூணு தண்ணி வழி!"
-
-### SCENE 23 — 4 sec
-**Characters:** Mayandi Thatha
-**Action:** Mayandi Thatha speaks softly about the hidden maker, with his eyes closed.
-**Camera:** Close-up on his face, slow push-in.
-**MAYANDI THATHA (soft):** "அவன் நல்லவன்… ஆனா தனிமைய விரும்புறவன்."
-
-### SCENE 24 — 6 sec
-**Characters:** Kuppusamy, Kottaimuthu
-**Action:** They rush in with the copper plate and the spoon.
-**Camera:** Medium two-shot with a quick push-in.
-**KUPPUSAMY (breathless):** "தாத்தா! தொட்டி அடியில சுத்து குறி!"
-**KOTTAIMUTHU (breathless):** "கிணத்துல இயந்திர சத்தமும் இருக்கு!"
-
-### SCENE 25 — 8 sec — NAME
-**Characters:** Mayandi Thatha, Kuppusamy
-**Action:** Kuppusamy asks who Yanthirasamy is. Mayandi Thatha answers, grave and slow. (Name #2, spoken by Kuppusamy.)
-**Camera:** Medium two-shot, slow arc around them.
-**KUPPUSAMY (impatient):** "யாரு தாத்தா அந்த யந்திரசாமி?"
-**MAYANDI THATHA (grave, slow):** "தண்ணி ரகசியம் தெரிஞ்ச மேதை. சொல்ற நேரம் வரும்."
-**KUPPUSAMY (stubborn):** "நல்லவனா கெட்டவனா?"
-
-### SCENE 26 — 4 sec
-**Characters:** Mayandi Thatha
-**Action:** Mayandi Thatha repeats his old line, grim.
-**Camera:** Slow push-in from behind his shoulder toward the forest.
-**MAYANDI THATHA (grim):** "நல்லவனா இல்லையான்னு… இன்னிக்கு ராத்திரி தெரியும்."
-
-### SCENE 27 — 6 sec
+### SCENE 07 — 4 s
 **Characters:** Kokkayi, Kottaimuthu
-**Action:** They plan the night watch at the well.
-**Camera:** Medium two-shot, gentle push-in.
-**KOKKAYI (planning):** "இன்னிக்கு ராத்திரி கிணத்துகிட்ட காவல்."
-**KOTTAIMUTHU (eager):** "கணேசாவையும் கூட்டிட்டு போவோம்!"
+**Action:** Kokkayi grabs Kottaimuthu's wrist and sprints; They zoom out of frame leaving a dust cloud.
+**KOKKAYI (urgent) — pulls him along so his feet fly:** "முத்து! ஓடு ஓடு! வடை போச்சு!"
 
-### SCENE 28 — 4 sec
+
+## Segment 2 — The Great Vada Chase (scenes 08–21) | 0:34–1:44
+
+### SCENE 08 — 6 s — HERO ENTRANCE
 **Characters:** Kuppusamy
-**Action:** Kuppusamy joins the plan, thinking about dinner first.
-**Camera:** Low-angle medium shot, quick push-in.
-**KUPPUSAMY (comic):** "நானும் வருவேன்… ஆனா முதல்ல சாப்பாடு!"
+**Action:** Kuppusamy lifts a pot on each arm at the tap and flexes; The beetle is already gone; he scratches his head.
+**KUPPUSAMY (boastful) — flexes both arms with the pots:** "நான் தான் ஊரோட பலசாலி! ஹா!"
+**KUPPUSAMY (confused) — looks down between his feet:** "என்னது அது?"
 
-### SCENE 29 — 6 sec
+### SCENE 09 — 4 s
+**Characters:** Pechiammavum
+**Action:** Something small zips past her feet and she hops onto a stool; She peeks down, ladle trembling.
+**PECHIAMMAVUM (dramatic) — raises the ladle and hops on the stool:** "அம்மாடி! என்ன ஓடுது கால் கீழ?"
+
+### SCENE 10 — 6 s
+**Characters:** Kuppusamy, Pechiammavum
+**Action:** Kuppusamy dives for the beetle and lands in the pot basket; The pots wobble and settle.
+**KUPPUSAMY (confident then pained) — dives forward with outstretched arms:** "நான் பிடிச்சிட்டேன்! ஐயோ… பானை!"
+**PECHIAMMAVUM (scolding) — shakes the ladle:** "என் பானைங்க! நிறுத்துடா!"
+
+### SCENE 11 — 6 s
+**Characters:** Pechiammavum, Poni
+**Action:** Poni rolls a clay pot toward Pechiammavum, who swings her ladle like a bat; The pot lands softly in a basket.
+**PECHIAMMAVUM (excited) — swings the ladle like a bat:** "சிக்ஸ்! பானை வானத்துல போச்சு!"
+**PONI (cheering) — jumps up and down:** "அம்மா சூப்பர்!"
+
+### SCENE 12 — 4 s
+**Characters:** Poni, Ganesha
+**Action:** Ganesha speeds down the lane with Poni on his back; Ganesha skids around the corner.
+**PONI (thrilled) — leans hard to the right like steering:** "வலது! வலது! யானை மாமா திரும்பு!"
+
+### SCENE 13 — 6 s
+**Characters:** Ganesha, Kuppusamy
+**Action:** Ganesha playfully sprays water onto Kuppusamy; Ganesha trumpets a happy laugh.
+**KUPPUSAMY (indignant) — shakes the water off his head:** "கணேசா! நான் குளிச்சாச்சு!"
+
+### SCENE 14 — 6 s
+**Characters:** Kokkayi, Kottaimuthu
+**Action:** Kottaimuthu slides on his belly under a low cart; They pop out the other side.
+**KOTTAIMUTHU (wailing comic) — slides on his belly with arms outstretched:** "அக்கா! என் வயிறு தரையில தேய்யுது!"
+**KOKKAYI (laughing) — hops over him:** "கத்தாம வேகமா ஊர்ந்து போ!"
+
+### SCENE 15 — 4 s
+**Characters:** Kokkayi
+**Action:** Kokkayi vaults over the row of pots; She lands perfectly and runs on.
+**KOKKAYI (triumphant) — points ahead mid-vault:** "அங்க பாரு! வாழைத்தோப்பு பக்கம்!"
+
+### SCENE 16 — 6 s
+**Characters:** Kuppusamy, Kottaimuthu
+**Action:** Kuppusamy crouches to leap at the beetle on the banyan root; Kuppusamy leaps off screen.
+**KUPPUSAMY (cocky) — crouches ready to leap:** "விடு! நான் ஒரே பாய்ச்சல்ல பிடிப்பேன்!"
+**KOTTAIMUTHU (worried) — tugs his sleeve:** "அண்ணே வேண்டாம்!"
+
+### SCENE 17 — 4 s
+**Characters:** Kuppusamy
+**Action:** Kuppusamy soars through the air in slow motion; He lands softly in the pile of pots with a comic bounce.
+**KUPPUSAMY (mid-air boast) — soars with a hero pose:** "பாரு என் பாய்ச்சலை!"
+
+### SCENE 18 — 4 s
+**Characters:** Kottaimuthu
+**Action:** Kottaimuthu dangles from a banyan root by his shirt; The root swings him in a slow circle.
+**KOTTAIMUTHU (pleading) — kicks his legs in the air:** "விடுங்க என்னை! நான் மரம் இல்ல!"
+
+### SCENE 19 — 4 s
+**Characters:** Kokkayi
+**Action:** Kokkayi slams a clay pot upside-down over the beetle; The pot rattles gently from inside.
+**KOKKAYI (triumphant) — slams the clay pot down with both hands:** "பிடிச்சாச்சு! பானைக்குள்ள போட்டாச்சு!"
+
+### SCENE 20 — 6 s
+**Characters:** Kottaimuthu, Kokkayi
+**Action:** Kokkayi lifts the pot and the beetle stands still beside a copper spiral token; The beetle gives a tiny bow.
+**KOTTAIMUTHU (amazed) — peers with his nose almost touching it:** "இது இயந்திரம்! உயிரில்ல!"
+**KOKKAYI (excited) — holds the token up to the light:** "இதுல சுத்து குறி இருக்கு!"
+
+### SCENE 21 — 4 s
+**Characters:** Kottaimuthu
+**Action:** Kottaimuthu takes a huge bite of the saved vada; Crumbs fall from his chin.
+**KOTTAIMUTHU (happy, mouth full) — takes a huge bite and nods:** "வடை இல்லாம யாரும் சாகசம் பண்ணக்கூடாது!"
+
+
+## Segment 3 — Thatha's Riddle Song (scenes 22–30) | 1:44–2:34
+
+### SCENE 22 — 6 s
+**Characters:** Mayandi Thatha
+**Action:** The coconut spins on its own in Mayandi Thatha's palm; He winks at the camera.
+**MAYANDI THATHA (raspy, amused) — taps the spinning coconut with one finger:** "வந்துட்டீங்களா பசங்களா? தேங்காய் ஆடுது பாரு!"
+
+### SCENE 23 — 4 s
+**Characters:** Kokkayi
+**Action:** Kokkayi holds the pot out; The pot rattles.
+**KOKKAYI (blurting) — holds the pot forward:** "தாத்தா! கிணத்துல இயந்திரப் பூச்சி!"
+
+### SCENE 24 — 8 s — SONG 2 — Thatha's Riddle
+**Characters:** Mayandi Thatha, Kokkayi
+**Action:** Mayandi Thatha taps the coconut like a drum and starts an old folk tune; Kokkayi cheers and the coconut spins.
+**MAYANDI THATHA (singing, old folk) — sways with closed eyes and taps the coconut:** "ஆயிரம் விளக்கு எரியுது அடியில"
+**MAYANDI THATHA (singing, deep) — raises one finger as Kokkayi claps:** "யந்திரசாமி கைவண்ணம் தெரியுது"
+
+### SCENE 25 — 6 s
+**Characters:** Kottaimuthu, Mayandi Thatha
+**Action:** The spinning coconut bonks Kottaimuthu on the head; Thatha chuckles and shakes his head.
+**KOTTAIMUTHU (confused, comic) — scratches his head:** "தாத்தா… பாட்டு நல்லா இருக்கு! ஆனா அர்த்தம் என்ன?"
+
+### SCENE 26 — 4 s
+**Characters:** Kottaimuthu
+**Action:** Kottaimuthu holds the coconut to his ear; He shakes the coconut and listens again.
+**KOTTAIMUTHU (amazed) — holds the coconut to his ear:** "தேங்காய் கூட பாடுது!"
+
+### SCENE 27 — 6 s
 **Characters:** Poni, Mayandi Thatha
-**Action:** Poni asks to come; Mayandi Thatha says no, kindly.
-**Camera:** Medium two-shot, eye level.
-**PONI (pleading):** "தாத்தா, நானும் வருவேன்!"
-**MAYANDI THATHA (firm but kind):** "இது பெரியவங்க வேலை."
-**PONI (cheeky):** "நான் கணேசா கூட வருவேன்!"
+**Action:** Poni jumps to grab the coconut but Thatha lifts it higher; Poni pouts, arms crossed.
+**PONI (cheeky) — jumps with her arms up:** "தாத்தா! தேங்காய் எனக்கு வேணும்!"
+**MAYANDI THATHA (playful) — holds the coconut high:** "அது என் சூரிய சந்திரன் குட்டி!"
+
+### SCENE 28 — 6 s
+**Characters:** Kuppusamy, Mayandi Thatha
+**Action:** Kuppusamy cracks his knuckles and steps up; Mayandi Thatha chuckles and wags a finger.
+**KUPPUSAMY (cocky) — cracks his knuckles:** "சுத்து குறின்னா நான் ஒரே தட்டுல கண்டுபிடிப்பேன்!"
+
+### SCENE 29 — 4 s
+**Characters:** Mayandi Thatha
+**Action:** He wags his finger wisely; He taps his nose.
+**MAYANDI THATHA (dry joke) — wags his finger as the coconut spins once:** "பலத்தால இல்ல… பாட்டால திறக்கும் பசங்களா!"
+
+### SCENE 30 — 6 s
+**Characters:** Kokkayi, Mayandi Thatha
+**Action:** Mayandi Thatha unrolls the cloth map with a flourish; Kokkayi salutes.
+**MAYANDI THATHA (whispering, dramatic) — unrolls the map with a flourish:** "பாறைக்கு போங்க… சூரியன் அஸ்தமிக்கும் முன்னாடி!"
 
 
-## Segment 4 — The Boulder by Day (Scenes 30–37) | 2:48–3:34
+## Segment 4 — The Stubborn Boulder (scenes 31–40) | 2:34–3:26
 
-### SCENE 30 — 6 sec
+### SCENE 31 — 6 s — BOULDER ROUND 1
+**Characters:** Kuppusamy, Kottaimuthu
+**Action:** Kuppusamy warms up with huge arm circles; Kuppusamy shoots him a look.
+**KUPPUSAMY (roaring) — warms up with big arm circles:** "இன்னிக்கு பாறை என் கிட்ட தோத்துடும்!"
+**KOTTAIMUTHU (sarcastic) — waves a tiny cheering flag:** "அண்ணே நேத்தும் இதேதான் சொன்னீங்க!"
+
+### SCENE 32 — 4 s
+**Characters:** Kuppusamy
+**Action:** Kuppusamy pushes with all his might; Nothing moves; a leaf drifts down onto his head.
+**KUPPUSAMY (grunting) — pushes with a comically strained face:** "ஹாஆ… நகரு… பாறையே!"
+
+### SCENE 33 — 6 s
+**Characters:** Kuppusamy, Kottaimuthu
+**Action:** Kuppusamy slides down the boulder and sits flat with swirly eyes; A leaf drops onto Kuppusamy's nose.
+**KUPPUSAMY (breathless) — sits flat with swirly eyes:** "கை வலிக்குது… பாறை ஜெயிச்சுடுச்சு"
+**KOTTAIMUTHU (cheerful) — pats Kuppusamy's head:** "அண்ணே நாளைக்கும் முயற்சி பண்ணலாம்!"
+
+### SCENE 34 — 6 s
 **Characters:** Poni, Kottaimuthu
-**Action:** Poni uncovers a spiral carved in the boulder. Kottaimuthu touches it and finds it warm.
-**Camera:** Close-up on the spiral, pull back to a medium two-shot.
-**PONI (excited):** "அண்ணா, பாறையிலயும் அதே சுத்து குறி!"
-**KOTTAIMUTHU (wondering):** "அப்போ பாறைக்கு அடியில வழி இருக்கு!"
+**Action:** Poni climbs onto Kottaimuthu's shoulders; He wobbles but holds steady.
+**PONI (bossy) — climbs onto his shoulders:** "முத்து அண்ணா குனி! நான் ஏறணும்!"
+**KOTTAIMUTHU (wobbling) — wobbles with arms out:** "நான் ஏணி இல்ல!"
 
-### SCENE 31 — 4 sec
-**Characters:** Ganesha
-**Action:** Ganesha rests his trunk on the spiral and a deep hum rises from under the stone. No dialogue.
-**Camera:** Low-angle close shot, slow push-in on his calm eye.
-**SFX:** Trunk on stone, deep underground hum, a soft curious rumble. No dialogue.
+### SCENE 35 — 6 s
+**Characters:** Poni, Kottaimuthu
+**Action:** Poni knocks on the boulder like a door; A faint tick answers from inside the stone.
+**PONI (curious) — knocks on the boulder with her little fist:** "டொக் டொக்! யாரு உள்ள?"
+**KOTTAIMUTHU (squeaky) — waves his arms:** "அது பாறை, கதவு இல்ல!"
 
-### SCENE 32 — 8 sec — NAME
-**Characters:** Kuppusamy, Kottaimuthu
-**Action:** Kuppusamy pushes the boulder with all his strength and it stays still. (Name #3, spoken by Kuppusamy.)
-**Camera:** Medium two-shot with a slight low angle, then a comic close-up of Kuppusamy.
-**KUPPUSAMY (straining):** "நகரு… நகரு!"
-**KUPPUSAMY (panting):** "என் பலத்துக்கே அசையல… யந்திரசாமி கதவு!"
-**KOTTAIMUTHU (comic):** "அண்ணே, இது பலத்தால திறக்காது!"
-
-### SCENE 33 — 4 sec
+### SCENE 36 — 4 s
 **Characters:** Kokkayi
-**Action:** Kokkayi lifts the lamp near the boulder and the spiral glows.
-**Camera:** Close-up on the lamp and spiral, then on her eyes.
-**KOKKAYI (whisper):** "விளக்கை தூக்குனா… குறி ஒளிருது!"
+**Action:** Kokkayi raises the lamp and the spiral glows; She snaps her fingers.
+**KOKKAYI (clever) — raises the glowing lamp high:** "விளக்கு பாட்டு இது தான் சாவி!"
 
-### SCENE 34 — 6 sec
+### SCENE 37 — 6 s
+**Characters:** Poni, Ganesha
+**Action:** Poni waves her stick like a conductor; Ganesha takes a deep breath.
+**PONI (bossy and cute) — waves the stick like a conductor:** "கணேசா! ஒன்னு இரண்டு மூணு… ஊது!"
+
+### SCENE 38 — 4 s
+**Characters:** Ganesha
+**Action:** .
+**SFX only:** Ganesha trumpets a bright joyful note toward the boulder / The spiral pulses with blue-green light and a deep hum answers.
+
+### SCENE 39 — 6 s
 **Characters:** Kokkayi, Kottaimuthu
-**Action:** The spiral glows but the boulder stays shut. Something more is needed.
-**Camera:** Medium two-shot, slow push-in.
-**KOKKAYI (puzzled):** "ஒளி வருது… ஆனா கதவு திறக்கல."
-**KOTTAIMUTHU (thinking):** "இன்னும் ஏதோ வேணும் போல!"
+**Action:** Kottaimuthu sings loudly with his eyes shut; Dust sprinkles from the boulder onto their heads.
+**KOTTAIMUTHU (off-key singing) — sings with eyes shut and hands on belly:** "தண்ணி தண்ணி டொய்ங் டொய்ங்!"
+**KOKKAYI (wincing) — covers her ears:** "நிறுத்து! பாறையே காது பொத்துது!"
 
-### SCENE 35 — 6 sec
-**Characters:** Kuppusamy, Kokkayi
-**Action:** The spiral stays dark when Kuppusamy holds the lamp. Kokkayi teases him.
-**Camera:** Medium two-shot, slight push-in.
-**KUPPUSAMY (indignant):** "எனக்கு ஏன் ஒளிரல?"
-**KOKKAYI (teasing):** "விளக்கு உன்னை நம்பல போல!"
-
-### SCENE 36 — 8 sec
-**Characters:** Ganesha, Poni
-**Action:** Ganesha rests against the boulder. The hum answers like a lullaby. Poni listens.
-**Camera:** Medium two-shot at eye level, slow drift.
-**PONI (whisper, wondering):** "கணேசா… இந்த பாறை உன்கிட்ட பேசுது!"
-**PONI (delighted):** "தாலாட்டு மாதிரி இருக்கு!"
-
-### SCENE 37 — 4 sec
-**Characters:** Kottaimuthu
-**Action:** Kottaimuthu finds a fresh wet patch on the boulder.
-**Camera:** Close-up on the wet patch, tilt up to his face.
-**KOTTAIMUTHU (whisper):** "புதுசா ஈரம்… யாரோ சமீபத்துல தொட்டிருக்காங்க!"
+### SCENE 40 — 4 s
+**Characters:** Pechiammavum
+**Action:** Pechiammavum arrives and bangs her ladle on a pot; The gong echo makes everyone jump.
+**PECHIAMMAVUM (scolding but loving) — bangs her ladle on a pot like a gong:** "சாப்பாடு ஆறுது! சீக்கிரம் வாங்க!"
 
 
-## Segment 5 — Dusk Preparations (Scenes 38–46) | 3:34–4:26
+## Segment 5 — Dusk Prep & Hero Song (scenes 41–48) | 3:26–4:12
 
-### SCENE 38 — 6 sec
-**Characters:** Pechiammavum, Kottaimuthu
-**Action:** At dusk, Pechiammavum gives Kottaimuthu food and a shawl for the night watch.
-**Camera:** Warm medium two-shot, gentle push-in.
-**PECHIAMMAVUM (warm):** "தம்பி, இந்தா சோறு. இராத்திரி கிணத்துக்கிட்ட பத்திரம்."
-**KOTTAIMUTHU (smiling):** "சரிம்மா, கவலைப்படாதீங்க!"
-
-### SCENE 39 — 8 sec
+### SCENE 41 — 6 s — KITCHEN CHAOS
 **Characters:** Pechiammavum, Kuppusamy
-**Action:** In the kitchen, Pechiammavum asks Kuppusamy to look after the children.
-**Camera:** Medium two-shot, slow push-in.
-**PECHIAMMAVUM (tender):** "தம்பி, புள்ளைங்கள பத்திரமா பாத்துக்கோ."
-**KUPPUSAMY (warm, firm):** "கவலைப்படாதீங்க அம்மா… நான் இருக்கேன்."
-**PECHIAMMAVUM (caring):** "நல்லவனா இருந்தாலும் கவனம்."
+**Action:** Kuppusamy sneaks a laddu and Pechiammavum swats his hand; Pechiammavum shakes her head with a smile.
+**PECHIAMMAVUM (sharp mom) — swats his hand with the ladle:** "லட்டை தொடாதே தம்பி! அது காவலுக்கு!"
+**KUPPUSAMY (mouth full) — chews with puffed cheeks:** "நான் தான் காவல்காரன்!"
 
-### SCENE 40 — 4 sec
-**Characters:** Pechiammavum
-**Action:** Pechiammavum lights a lamp and says a quiet prayer.
-**Camera:** Close-up on the flame, tilt up to her face.
-**PECHIAMMAVUM (soft prayer):** "எல்லாரையும் நல்லபடியா காப்பாத்து."
-
-### SCENE 41 — 6 sec
-**Characters:** Ganesha, Poni
-**Action:** Poni makes a little promise to Ganesha at the village boundary.
-**Camera:** Medium two-shot at eye level, slow push-in.
-**PONI (whisper, sweet):** "கணேசா, நீ என்னை பாத்துக்கோ… நான் உன்னை பாத்துக்கறேன்."
-
-### SCENE 42 — 6 sec
-**Characters:** Pechiammavum, Poni
-**Action:** Poni asks again. Pechiammavum says no, gently.
-**Camera:** Medium two-shot, eye level.
-**PONI (pleading):** "அம்மா, நானும் போகணும்!"
-**PECHIAMMAVUM (kind but firm):** "காட்டுக்கு பிள்ளை போகக்கூடாது… காலையில பார்க்கலாம்."
-
-### SCENE 43 — 4 sec
-**Characters:** Poni
-**Action:** Poni decides to follow anyway.
-**Camera:** Close-up on her face, slow push-in.
-**PONI (whisper, determined):** "நான் எப்படியும் பார்ப்பேன்!"
-
-### SCENE 44 — 6 sec
-**Characters:** Kokkayi, Kuppusamy
-**Action:** Kokkayi and Kuppusamy pack their things for the night.
-**Camera:** Medium two-shot, gentle push-in.
-**KOKKAYI (practical):** "ரெண்டு விளக்கு… எண்ணெய்… தடி… எல்லாம் இருக்கு."
-**KUPPUSAMY (confident):** "நான் முன்னாடி போறேன்!"
-
-### SCENE 45 — 8 sec
-**Characters:** Mayandi Thatha, Kokkayi
-**Action:** Mayandi Thatha gives Kokkayi a copper spiral amulet.
-**Camera:** Medium two-shot, slow push-in on the amulet.
-**MAYANDI THATHA (solemn):** "இதை எடுத்துட்டு போ… கதவுக்கு தேவைப்படும்."
-**KOKKAYI (serious):** "பத்திரமா வச்சுக்கறேன் தாத்தா."
-**MAYANDI THATHA (quiet):** "விளக்கும் இதுவும் சேர்ந்தா தான் வழி தெரியும்."
-
-### SCENE 46 — 4 sec
-**Characters:** Kottaimuthu
-**Action:** Kottaimuthu watches the sunset.
-**Camera:** Medium shot, slow push-in.
-**KOTTAIMUTHU (quiet):** "இன்னிக்கு ராத்திரி… எதுவும் நடக்கலாம்."
-
-
-## Segment 6 — Night Watch at the Well (Scenes 47–60) | 4:26–5:40
-
-### SCENE 47 — 4 sec
-**Characters:** Kokkayi
-**Action:** Kokkayi sets the lamp on the well rim at night.
-**Camera:** Close-up on the lamp, slow tilt up to her face.
-**KOKKAYI (whisper):** "இன்னிக்கு ராத்திரி… யாரு வராங்கன்னு பார்ப்போம்."
-
-### SCENE 48 — 6 sec
-**Characters:** Kottaimuthu, Ganesha
-**Action:** Kottaimuthu leans against Ganesha, wrapped in his shawl.
-**Camera:** Warm lantern-lit medium two-shot, slow drift.
-**KOTTAIMUTHU (sleepy, warm):** "கணேசா… நீ கூட இருக்கறதால தான் எனக்கு தைரியம்."
-
-### SCENE 49 — 6 sec
-**Characters:** Kottaimuthu, Kokkayi
-**Action:** Fireflies gather above the water and drift in a slow spiral.
-**Camera:** Medium two-shot, slow upward tilt following the fireflies.
-**KOTTAIMUTHU (whisper):** "அக்கா, மின்மினி பூச்சிங்க சுத்து வடிவத்துல பறக்குது பாரு!"
-**KOKKAYI (whisper):** "ஷ்ஷ்… அமைதியா இரு."
-
-### SCENE 50 — 4 sec
+### SCENE 42 — 8 s — SONG 3 — Mass Hero Song
 **Characters:** Kuppusamy
-**Action:** Kuppusamy patrols the treeline with a lantern.
-**Camera:** Medium tracking shot, moving with him.
-**KUPPUSAMY (low):** "யாரும் வராத வரைக்கும் நல்லதுதான்."
+**Action:** Kuppusamy steps into the middle of the kitchen and strikes a pose; He ends on a mass pose with a sparkle.
+**KUPPUSAMY (singing, mass hero) — strikes a hero pose:** "நான் தான் பலசாலி"
+**KUPPUSAMY (singing, mass hero) — flexes and lifts a pot:** "பாறையும் பஞ்சு தான்"
+**KUPPUSAMY (singing, mass hero) — pats his belly proudly:** "லட்டு தந்தா வீரன்"
 
-### SCENE 51 — 6 sec
-**Characters:** Kuppusamy, Kottaimuthu
-**Action:** Kuppusamy eats noisily while Kottaimuthu tries to keep him quiet.
-**Camera:** Medium two-shot, slight handheld shake.
-**KOTTAIMUTHU (whisper, pleading):** "அண்ணே, மெதுவா சாப்பிடுங்க… சத்தம் கேக்கும்!"
-**KUPPUSAMY (mouth full, comic):** "சாப்பிடாம கேக்க முடியாது!"
+### SCENE 43 — 6 s
+**Characters:** Pechiammavum, Kottaimuthu
+**Action:** Pechiammavum ties the lucky thread on his wrist; His knees knock together.
+**PECHIAMMAVUM (fussy mom) — ties a thread on his wrist:** "இந்தா தம்பி ராசி நூல் கட்டிக்கோ!"
+**KOTTAIMUTHU (trembling brave) — his voice cracks:** "அம்மா எனக்கு பயமே இல்ல!"
 
-### SCENE 52 — 4 sec
-**Characters:** Kottaimuthu
-**Action:** The crickets stop. The ticking returns from the well.
-**Camera:** Tight close-up on his face, lantern flame flickering.
-**KOTTAIMUTHU (whisper):** "டக்… டக்… திரும்ப வருது!"
-
-### SCENE 53 — 8 sec
-**Characters:** Kottaimuthu, Ganesha
-**Action:** A small clay pot floats up carrying a leaf with a spiral. Ganesha hands the leaf to Kottaimuthu.
-**Camera:** Wide shot of the rippling well, then a medium two-shot as Ganesha offers the leaf.
-**KOTTAIMUTHU (amazed whisper):** "கணேசா… தண்ணியில ஒரு சின்ன பானை மிதக்குது!"
-**KOTTAIMUTHU (wonder):** "அது நமக்கு வந்த கடிதம் மாதிரி இருக்கே!"
-
-### SCENE 54 — 4 sec — NAME
-**Characters:** Kokkayi
-**Action:** Kokkayi unfolds the leaf. It shows a spiral and a boulder shape. (Name #4.)
-**Camera:** Over-the-shoulder close-up on the leaf, then on her face.
-**KOKKAYI (excited whisper):** "பாறை படம்… யந்திரசாமி கூப்பிடறாரு!"
-
-### SCENE 55 — 6 sec
-**Characters:** Kokkayi, Kuppusamy
-**Action:** They find a sun symbol and three drops on the leaf. It means dawn.
-**Camera:** Medium two-shot, slow push-in on the leaf.
-**KUPPUSAMY (whisper):** "இதுல பாறை, மூணு சொட்டு, ஒரு சூரியன்!"
-**KOKKAYI (realizing):** "விடிகாலையில பாறைக்கு வரச்சொல்லுது!"
-
-### SCENE 56 — 4 sec
-**Characters:** Ganesha
-**Action:** Ganesha looks at the forest. Two tiny lights glint and vanish. He greets them with a soft rumble. No dialogue.
-**Camera:** Low-angle dramatic shot on his eyes and trunk.
-**SFX:** Soft rumble with a gentle forest echo, faint rustle. No dialogue.
-
-### SCENE 57 — 6 sec
-**Characters:** Kottaimuthu, Kokkayi
-**Action:** They feel someone is watching. They are not worried.
-**Camera:** Medium two-shot, slow push-in.
-**KOTTAIMUTHU (whisper):** "அக்கா… யாரோ நம்மள பாத்துட்டிருக்காங்க."
-**KOKKAYI (calm):** "பாக்கட்டும்… நாமளும் பாக்கத்தான் வந்தோம்."
-
-### SCENE 58 — 8 sec
-**Characters:** Mayandi Thatha, Kokkayi
-**Action:** Mayandi Thatha arrives. His coconut is perfectly still.
-**Camera:** Medium two-shot, slow push-in on the coconut.
-**KOKKAYI (surprised):** "தாத்தா! நீங்க தூங்கலயா?"
-**MAYANDI THATHA (quiet, knowing):** "கொட்டாங்குச்சி அமைதி… அவன் பக்கத்துல தான் இருக்கான்."
-**KOKKAYI (whisper):** "அப்போ விடியற வரை இங்கயே இருப்போம்."
-
-### SCENE 59 — 4 sec
+### SCENE 44 — 4 s
 **Characters:** Pechiammavum
-**Action:** Pechiammavum watches the faint glow far away.
-**Camera:** Close-up on her eyes, slow zoom-out.
-**PECHIAMMAVUM (soft):** "குழந்தைகளே… பத்திரமா வாங்க."
+**Action:** Pechiammavum dabs her eyes dramatically with her saree; She waves a big goodbye.
+**PECHIAMMAVUM (dramatic) — wipes happy tears with her saree:** "என் பிள்ளைங்க போய் ஜெயிச்சு வாங்க!"
 
-### SCENE 60 — 4 sec
-**Characters:** Poni
-**Action:** Poni sneaks out toward the forest with a tiny lantern.
-**Camera:** Low tracking shot following her.
-**PONI (whisper):** "அம்மா தூங்கட்டும்… நான் வந்துடுவேன்!"
+### SCENE 45 — 6 s
+**Characters:** Poni, Pechiammavum
+**Action:** Poni hugs her mother's leg with puppy eyes; Poni cheers with the sweet in her mouth.
+**PONI (pleading) — hugs her leg:** "அம்மா நானும் வருவேன்!"
+**PECHIAMMAVUM (melting) — hands her a sweet:** "சரி சரி கணேசா பக்கத்துல இரு!"
+
+### SCENE 46 — 6 s
+**Characters:** Kokkayi, Kottaimuthu
+**Action:** Kokkayi coaches Kottaimuthu into a hero stance; His knees stop shaking for one second.
+**KOKKAYI (coach) — pushes his shoulders back:** "நெஞ்சை நிமிர்த்து! தைரியமா சிரி!"
+**KOTTAIMUTHU (forced grin) — grins with shaking knees:** "ஹி ஹி ஹி பயமா இருக்கு!"
+
+### SCENE 47 — 6 s
+**Characters:** Kuppusamy, Kokkayi
+**Action:** Kuppusamy flexes in the sunset; Kuppusamy flexes even harder.
+**KUPPUSAMY (proud) — flexes in a sunset pose:** "நான் வீரன்! நீ பின்னாடி இரு!"
+**KOKKAYI (rolling eyes) — taps his arm with the lamp:** "நீ தான் பின்னாடி வருவ அண்ணே!"
+
+### SCENE 48 — 4 s
+**Characters:** Mayandi Thatha
+**Action:** Mayandi Thatha points at the setting sun; The coconut spins once.
+**MAYANDI THATHA (wise) — points at the setting sun:** "நேரம் ஆச்சு பசங்களா! சூரியன் சாயுது!"
 
 
-## Segment 7 — The Path Before Dawn (Scenes 61–70) | 5:40–6:36
+## Segment 6 — The Door Song (scenes 49–58) | 4:12–5:06
 
-### SCENE 61 — 6 sec
-**Characters:** Kokkayi, Mayandi Thatha
-**Action:** Kokkayi and Mayandi Thatha lead the way along the night trail.
-**Camera:** Medium tracking shot from behind.
-**MAYANDI THATHA (quiet):** "விளக்கை உயர்த்தி பிடி… பாதை தெரியும்."
-**KOKKAYI (whisper):** "தெரியுது தாத்தா… வழி ஒளிருது."
+### SCENE 49 — 6 s — SONG 4 — The Door Song
+**Characters:** Kokkayi, Kottaimuthu
+**Action:** Kokkayi raises both arms like a conductor; Everyone takes a breath.
+**KOKKAYI (commanding) — raises both arms like a conductor:** "எல்லாரும் ஒரே தாளத்துல பாடணும்!"
+**KOTTAIMUTHU (worried) — gulps:** "தப்பா பாடினா?"
+**KOKKAYI (smirking) — winks:** "பாறை சிரிக்கும்!"
 
-### SCENE 62 — 4 sec
-**Characters:** Kuppusamy
-**Action:** Kuppusamy holds a branch aside for the others.
-**Camera:** Low medium shot, slow push-in.
-**KUPPUSAMY (gentle):** "பார்த்து வாங்க… கிளை இருக்கு."
-
-### SCENE 63 — 8 sec
-**Characters:** Kuppusamy, Kottaimuthu
-**Action:** An owl hoots. Kottaimuthu jumps into Kuppusamy's arms.
-**Camera:** Medium two-shot with a quick comic jolt.
-**KOTTAIMUTHU (startled, comic):** "அண்ணே! மேல ஏதோ கண்ணு முழிக்குது!"
-**KUPPUSAMY (dry):** "அது ஆந்தை டா… இறங்கு!"
-**KOTTAIMUTHU (sheepish):** "ஆந்தையா? ஹி ஹி… மன்னிச்சிடுங்க."
-
-### SCENE 64 — 6 sec
-**Characters:** Ganesha, Kottaimuthu
-**Action:** Kottaimuthu hides behind Ganesha on the trail.
-**Camera:** Medium two-shot, slow tracking.
-**KOTTAIMUTHU (whisper, comic):** "கணேசா… நீ முன்னாடி போ! நான் பின்னாடியே வர்றேன்!"
-
-### SCENE 65 — 4 sec
-**Characters:** Ganesha
-**Action:** Ganesha clears the way with his trunk. No dialogue.
-**Camera:** Low-angle wide shot, slow push-in.
-**SFX:** Branch sweep, leaf rustle, heavy footsteps. No dialogue.
-
-### SCENE 66 — 6 sec
-**Characters:** Kokkayi, Mayandi Thatha
-**Action:** The coconut shakes harder as they get close.
-**Camera:** Close-medium shot, slow push-in on the coconut.
-**MAYANDI THATHA (low):** "கொட்டாங்குச்சி நடுங்குது… நெருங்கிட்டோம்."
-**KOKKAYI (whisper):** "ரகசியம் ரொம்ப பக்கத்துல இருக்கு."
-
-### SCENE 67 — 8 sec
-**Characters:** Poni
-**Action:** Poni follows behind and spots the lights ahead.
-**Camera:** Low-angle medium shot, slow push-in.
-**PONI (whisper):** "அவங்க இங்கதான் போறாங்க… நானும் வந்துட்டேன்!"
-
-### SCENE 68 — 4 sec
-**Characters:** Poni, Ganesha
-**Action:** Ganesha finds Poni and lifts her gently.
-**Camera:** Medium two-shot, slight upward tilt.
-**PONI (whisper):** "அம்மாகிட்ட சொல்லாத கணேசா!"
-
-### SCENE 69 — 6 sec
+### SCENE 50 — 6 s
 **Characters:** Kuppusamy, Poni
-**Action:** Kuppusamy discovers Poni.
-**Camera:** Medium two-shot, comic push-in.
-**KUPPUSAMY (shocked whisper):** "பிள்ளை! நீ எப்படி இங்க வந்த?"
-**PONI (innocent):** "கணேசா கூட்டிட்டு வந்துச்சு!"
+**Action:** Kuppusamy and Poni start a beatbox; They bump fists on the beat.
+**KUPPUSAMY (beatbox) — pounds a rhythm on the barrel:** "டும் டும் டுமுக்கு!"
+**PONI (beatbox cute) — hits a pot with two spoons:** "டக் டக் டக்கு!"
 
-### SCENE 70 — 4 sec
-**Characters:** Mayandi Thatha
-**Action:** The sky turns pale pink. Dawn is near.
-**Camera:** Low-angle medium shot, slow tilt up to the sky.
-**MAYANDI THATHA (solemn):** "விடியுது… நேரம் வந்துடுச்சு."
-
-
-## Segment 8 — The Door of Light (Scenes 71–76) | 6:36–7:12
-
-### SCENE 71 — 6 sec
-**Characters:** Kokkayi, Mayandi Thatha
-**Action:** They stand at the boulder at dawn with the lamp and the amulet.
-**Camera:** Medium two-shot, slow push-in.
-**KOKKAYI (nervous):** "தாத்தா… இது சரியான நேரமா?"
-**MAYANDI THATHA (steady):** "இல்லன்னாலும் இவ்வளவு தூரம் வந்துட்டோம்."
-
-### SCENE 72 — 8 sec
-**Characters:** Kokkayi, Kottaimuthu
-**Action:** Kokkayi presses the amulet into the spiral. The spiral glows and the ticking speeds up like a heartbeat.
-**Camera:** Medium two-shot, low angle, slow push-in on the glowing spiral.
-**KOTTAIMUTHU (excited whisper):** "அக்கா… சத்தம் வேகமா ஆகுது!"
-**KOKKAYI (awed):** "இதயம் துடிக்கிற மாதிரி இருக்கு!"
-
-### SCENE 73 — 4 sec
+### SCENE 51 — 4 s
 **Characters:** Ganesha
-**Action:** Ganesha greets the boulder and a crack of light widens. No dialogue.
-**Camera:** Low-angle wide shot, slow push-in.
-**SFX:** Soft trumpet, deep stone grinding, magical shimmer. No dialogue.
+**Action:** .
+**SFX only:** Ganesha stomps his foot in time with the beat / He swings his trunk like a bass-line and blows a short rhythmic trumpet.
 
-### SCENE 74 — 6 sec
-**Characters:** Kuppusamy, Kottaimuthu
-**Action:** The boulder slides open by itself.
-**Camera:** Medium two-shot with a quick pull-back.
-**KUPPUSAMY (amazed):** "நான் தள்ளவே இல்லயே!"
-**KOTTAIMUTHU (delighted):** "அண்ணே, இது தானா திறந்துச்சு!"
-
-### SCENE 75 — 8 sec
-**Characters:** Mayandi Thatha
-**Action:** Mayandi Thatha stands before the open doorway. The coconut is still.
-**Camera:** Medium shot slightly low angle, slow push-in.
-**MAYANDI THATHA (solemn, slow):** "அறுபது வருஷம் கழிச்சு… இந்த வாசல் திறக்குது."
-**MAYANDI THATHA (quiet):** "இனி எல்லாமே மாறும்."
-
-### SCENE 76 — 4 sec
-**Characters:** Poni
-**Action:** Poni peeks at the glowing steps.
-**Camera:** Close-up on her face, slow push-in.
-**PONI (whisper):** "அய்யோ… எவ்வளவு அழகா இருக்கு!"
-
-
-## Segment 9 — Down the Glowing Steps (Scenes 77–89) | 7:12–8:30
-
-### SCENE 77 — 6 sec
-**Characters:** Kokkayi, Kottaimuthu
-**Action:** Each step lights as they walk down.
-**Camera:** Medium two-shot from behind and above, slowly descending.
-**KOTTAIMUTHU (whisper):** "அக்கா… படி எல்லாம் எரியுது!"
-**KOKKAYI (whisper):** "நம்மள வரவேற்கறாங்க."
-
-### SCENE 78 — 4 sec
-**Characters:** Kuppusamy
-**Action:** Kuppusamy bumps his head on a low copper pipe.
-**Camera:** Medium shot, quick comic jolt.
-**KUPPUSAMY (muffled, comic):** "ஐயோ… என் தலை!"
-
-### SCENE 79 — 8 sec
-**Characters:** Kokkayi, Mayandi Thatha
-**Action:** They find the long copper tunnel with the village's water pipes.
-**Camera:** Wide two-shot, slow push-in down the tunnel.
-**MAYANDI THATHA (awed):** "இதுதான் ஊருக்கு தண்ணி கொண்டு போற நரம்பு."
-**KOKKAYI (amazed):** "எல்லா குழாயிலயும் அதே சுத்து குறி!"
-
-### SCENE 80 — 6 sec
-**Characters:** Kuppusamy, Kottaimuthu
-**Action:** A glowing water drop falls into Kottaimuthu's hands.
-**Camera:** Medium two-shot, push-in on the drop.
-**KUPPUSAMY (awed):** "நான் சாகசம்னு நெனச்சேன்… இது அதிசயம்!"
-**KOTTAIMUTHU (whisper):** "தண்ணியே ஒளிருது!"
-
-### SCENE 81 — 6 sec
+### SCENE 52 — 6 s
 **Characters:** Poni, Ganesha
-**Action:** Poni wants to follow, but Ganesha gently keeps guard at the entrance.
-**Camera:** Medium two-shot, slow push-in.
-**PONI (sulky):** "கணேசா, நானும் உள்ள போகணும்!"
+**Action:** Ganesha sways side to side while Poni claps; Ganesha spins once and Poni cheers.
+**PONI (cheering) — claps and spins around:** "ஆடு கணேசா ஆடு!"
 
-### SCENE 82 — 6 sec
-**Characters:** Poni, Ganesha
-**Action:** Poni's dust spiral glows faintly, as if someone saw it.
-**Camera:** Low-angle two-shot, slow push-in on the glowing spiral.
-**PONI (amazed whisper):** "என் குறியும் ஒளிருது! அவர் என்னை பாக்கறாரா?"
+### SCENE 53 — 6 s
+**Characters:** Kuppusamy, Ganesha
+**Action:** Kuppusamy and Ganesha start a drum duet; Ganesha finishes with a loud tap and a grin.
+**KUPPUSAMY (proud) — drums on a clay barrel:** "யானை கூட நான் ஜோடி!"
 
-### SCENE 83 — 4 sec
-**Characters:** Kottaimuthu
-**Action:** Kottaimuthu finds a tiny brass gear toy.
-**Camera:** Close-up on the toy, tilt up to his face.
-**KOTTAIMUTHU (whisper):** "யாரோ இங்க விளையாடியிருக்காங்க போல!"
-
-### SCENE 84 — 8 sec
-**Characters:** Kokkayi, Kuppusamy
-**Action:** In the workshop, a cup of tea is still steaming. The maker was just here.
-**Camera:** Medium two-shot, slow push-in on the cup.
-**KUPPUSAMY (whisper, amazed):** "இந்த தேநீர் இன்னும் சூடா இருக்கு!"
-**KOKKAYI (breathless):** "அப்போ அவர் இப்பதான் இங்க இருந்திருக்கார்!"
-
-### SCENE 85 — 6 sec — NAME
-**Characters:** Kokkayi, Mayandi Thatha
-**Action:** A wall of hundreds of tiny lamps, one for every well. (Name #5.)
-**Camera:** Wide-medium two-shot, slow tilt up the wall.
-**MAYANDI THATHA (awed):** "ஒவ்வொரு கிணத்துக்கும் ஒரு விளக்கு… யந்திரசாமி எல்லாத்தையும் கவனிக்கறான்."
-
-### SCENE 86 — 6 sec
-**Characters:** Mayandi Thatha, Kottaimuthu
-**Action:** The ticking stops the moment Kottaimuthu touches the wheel.
-**Camera:** Medium two-shot, slow push-in on the wheel.
-**KOTTAIMUTHU (whisper):** "தாத்தா… சத்தம் நின்னுடுச்சு!"
-**MAYANDI THATHA (low):** "அவன் நம்மள கவனிக்கறான்."
-
-### SCENE 87 — 6 sec
-**Characters:** Kuppusamy, Kottaimuthu
-**Action:** They stand back to back in the silence. The ticking slowly returns.
-**Camera:** Medium two-shot, slow orbit.
-**KUPPUSAMY (whisper):** "மூச்சு விடாதே…"
-**KOTTAIMUTHU (whisper):** "அண்ணே… டக் டக்… மெதுவா திரும்ப ஆரம்பிச்சுடுச்சு."
-
-### SCENE 88 — 4 sec
+### SCENE 54 — 4 s
 **Characters:** Kokkayi
-**Action:** Kokkayi finds the big wet footprints leading to a dark arched door.
-**Camera:** Close-up on the footprints, tilt up to the door.
-**KOKKAYI (whisper):** "அதே பெரிய காலடி… கதவுக்குள்ள போகுது!"
+**Action:** Kokkayi snaps her fingers to count in the beat; Everyone takes a deep breath.
+**KOKKAYI (snappy) — snaps her fingers to count in:** "ஒன்னு இரண்டு மூணு நாலு!"
 
-### SCENE 89 — 8 sec — CLIFFHANGER
+### SCENE 55 — 8 s — SONG 4 — Chorus
+**Characters:** Kokkayi, Kottaimuthu
+**Action:** Kokkayi and Kottaimuthu step forward as the beat drops; The boulder spiral blazes with light.
+**KOKKAYI (singing, loud) — spreads her arms wide:** "தண்ணி தண்ணி டக்கு டக்கு"
+**KOTTAIMUTHU (singing, brave) — hops in rhythm:** "கிணத்துல என்ன இருக்கு?"
+**KOKKAYI (singing, powerful) — thrusts the lamp toward the boulder:** "திறடா வாசலே!"
+
+### SCENE 56 — 4 s
+**Characters:** Mayandi Thatha
+**Action:** Mayandi Thatha raises the coconut high; The coconut glows and spins.
+**MAYANDI THATHA (singing, deep) — raises the coconut high:** "யந்திரசாமி வாசல் திற!"
+
+### SCENE 57 — 6 s
+**Characters:** Kuppusamy, Kottaimuthu
+**Action:** The boulder slides open and Kuppusamy jumps back; Kuppusamy staggers under his weight.
+**KUPPUSAMY (amazed) — jumps back:** "நான் தள்ளவே இல்லையே! பாட்டுக்கு பயந்துடுச்சு!"
+**KOTTAIMUTHU (cheering) — jumps into Kuppusamy's arms:** "பாறை திறந்துடுச்சு!"
+
+### SCENE 58 — 4 s
+**Characters:** Poni
+**Action:** Poni peeks at the glowing steps; She tiptoes toward the glow.
+**PONI (whispered wow) — peeks around the boulder:** "அண்ணா! உள்ளே மின்னுது!"
+
+
+## Segment 7 — Down the Singing Stairs (scenes 59–68) | 5:06–6:04
+
+### SCENE 59 — 6 s
+**Characters:** Poni, Ganesha
+**Action:** Poni hands Ganesha a snack and points down the steps; Ganesha salutes with his trunk and munches the snack.
+**PONI (bossy) — points down the steps:** "நீ இங்க காவல்! நான் உள்ள போறேன்!"
+
+### SCENE 60 — 6 s — PIANO STAIRS
+**Characters:** Kokkayi, Kottaimuthu
+**Action:** Each step lights up and plays a musical note as they hop down; They land at the bottom in a dance pose.
+**KOTTAIMUTHU (delighted) — hops from step to step:** "படி பாடுது! டோ ரே மி!"
+**KOKKAYI (laughing) — follows, tapping the steps with the lamp:** "பியானோ படி!"
+
+### SCENE 61 — 6 s
+**Characters:** Kuppusamy, Poni
+**Action:** Kuppusamy stomps and the step booms like a bass drum; They stomp in rhythm together.
+**KUPPUSAMY (proud) — stomps on a step:** "நான் மிதிச்சா டும் டும்!"
+**PONI (giggling) — hops after him:** "இந்த படி பாஸ் கிட்டார்!"
+
+### SCENE 62 — 4 s
+**Characters:** Kuppusamy
+**Action:** Kuppusamy squeezes into a narrow gap and gets stuck; His belly wiggles.
+**KUPPUSAMY (comic panic) — waves his arms:** "சிக்கிட்டேன்! லட்டு அதிகம்!"
+
+### SCENE 63 — 6 s
+**Characters:** Kokkayi, Kuppusamy
+**Action:** Kokkayi braces her feet and pulls; Kuppusamy rolls forward like a ball.
+**KOKKAYI (strained) — pulls his hands with her feet braced:** "இழு! ஒன்னு இரண்டு மூணு!"
+**KUPPUSAMY (popping) — pops free and tumbles forward:** "பாப்!"
+
+### SCENE 64 — 6 s — THE TICKING SECRET
 **Characters:** Mayandi Thatha, Kokkayi
-**Action:** The arched door swings shut with a click. A last "டக்" sounds, then silence. Hard cut to black.
-**Camera:** Medium two-shot from behind, slow push-in on the closing door, hard cut to black.
-**MAYANDI THATHA (grim):** "அவன் நம்மள பாத்துட்டான்… ஆனா இன்னும் வரல."
-**KOKKAYI (whisper):** "அப்போ நாம போகணுமா தாத்தா?"
+**Action:** They walk in and see hundreds of tiny beetles carrying glowing water drops; A beetle waves a tiny antenna at them.
+**MAYANDI THATHA (awed) — points along the pipes:** "இதோ டக் டக் ரகசியம்! பூச்சிங்க தான்!"
+**KOKKAYI (giggling) — crouches to watch:** "வேலைக்காரப் பூச்சிங்க!"
 
----
+### SCENE 65 — 4 s
+**Characters:** Kottaimuthu
+**Action:** A tiny beetle walks onto his nose; The beetle bows and hops away.
+**KOTTAIMUTHU (cross-eyed, comic) — crosses his eyes at the beetle:** "என் மூக்கு மேல நடக்குது!"
 
-## YANTHIRASAMY NOTE (for later episodes)
-**Yanthirasamy (யந்திரசாமி)** is still the hidden machine-genius who understands the forest's underground water. Do **not** show his face, body, hand, shadow or silhouette until the reveal episode. Clues so far: ticking from the well, the oil-free lamp, gear lines in the handprint, copper spiral plates, the cloth water-map, the glowing boulder spiral, fireflies in a spiral, the floating pot with a leaf, the amulet, the glowing dust spiral, the steaming tea cup, the wall of tiny lamps and the arched door that clicks shut.
+### SCENE 66 — 6 s
+**Characters:** Kuppusamy, Kottaimuthu
+**Action:** A line of beetles carries Kuppusamy's laddu away; Kuppusamy sniffs dramatically.
+**KUPPUSAMY (heartbroken) — reaches out with a trembling hand:** "என் லட்டு! என் லட்டு போகுது!"
+**KOTTAIMUTHU (consoling) — pats his back:** "அண்ணே அவங்களுக்கு பசி போல!"
+
+### SCENE 67 — 6 s
+**Characters:** Kokkayi, Mayandi Thatha
+**Action:** Mayandi Thatha holds the coconut like a compass and leads the way; The coconut points down a side tunnel.
+**MAYANDI THATHA (whispering) — holds the spinning coconut like a compass:** "தேங்காய் ஆடுது வழி இதோ!"
+**KOKKAYI (impressed) — follows with the lamp:** "தாத்தா சூப்பர் திசைகாட்டி!"
+
+### SCENE 68 — 8 s — ACTION — LADDU CHASE
+**Characters:** Kuppusamy, Kottaimuthu
+**Action:** Kuppusamy and Kottaimuthu run after the laddu beetles; The floor tilts into a glowing chute.
+**KUPPUSAMY (roaring) — runs with arms stretched forward:** "நில்லுங்க! என் லட்டை திருப்பிக் கொடுங்க!"
+**KOTTAIMUTHU (running) — points ahead as the floor tilts:** "அண்ணே இது தண்ணி சறுக்கு!"
+
+
+## Segment 8 — Slide & Gear Hall Action (scenes 69–80) | 6:04–7:12
+
+### SCENE 69 — 4 s
+**Characters:** Kokkayi
+**Action:** Kokkayi grins at the top of the glowing chute; She jumps in.
+**KOKKAYI (thrilled) — points the lamp down the chute:** "இது தண்ணி சறுக்கு! வா வா!"
+
+### SCENE 70 — 6 s
+**Characters:** Kokkayi, Kottaimuthu
+**Action:** They hop into a clay-pot sled and zoom down the chute; The sled spins around a bend.
+**KOTTAIMUTHU (panicking) — clings to her arm:** "நான் வரலை… வர… வர்றேன்!"
+**KOKKAYI (thrilled) — steers with the lamp:** "பிடிச்சுக்கோ!"
+
+### SCENE 71 — 4 s
+**Characters:** Kuppusamy
+**Action:** Kuppusamy spins on a giant pot lid down the chute; He spins out of frame.
+**KUPPUSAMY (dizzy) — spins with his arms out:** "சுத்துது சுத்துது நிறுத்து!"
+
+### SCENE 72 — 6 s
+**Characters:** Poni, Kuppusamy
+**Action:** Poni spreads her arms like wings on Kuppusamy's shoulders; They zoom around a curve.
+**PONI (thrilled) — raises her arms like flying:** "இன்னும் வேகமா அண்ணா!"
+**KUPPUSAMY (dizzy) — eyes swirling:** "நிறுத்து நிறுத்து!"
+
+### SCENE 73 — 6 s
+**Characters:** Kottaimuthu, Poni
+**Action:** They fly out of the chute and splash into a shallow pool; Water settles around the sled.
+**PONI (thrilled) — raises her arms:** "இன்னொரு முறை! இன்னொரு முறை!"
+**KOTTAIMUTHU (dizzy) — his head spins:** "நான் இறங்கணும்"
+
+### SCENE 74 — 8 s — GEAR HALL
+**Characters:** Kokkayi, Kottaimuthu
+**Action:** A huge brass pendulum swings toward them and Kokkayi pulls Kottaimuthu down; They step in rhythm with the gears.
+**KOKKAYI (calling) — pulls Kot down by the collar:** "பெண்டுலம் வருது! குனி!"
+**KOTTAIMUTHU (squeaky) — ducks flat as the pendulum passes:** "என் தலை!"
+**KOKKAYI (cheeky) — steps in time with the beat:** "டக்கு டக்கு தாளத்துல நட!"
+
+### SCENE 75 — 4 s
+**Characters:** Kuppusamy
+**Action:** Kuppusamy grabs the giant lever; The lever bounces back and bumps him.
+**KUPPUSAMY (straining) — pulls the lever with all his strength:** "என் பலம் இப்போ தேவை!"
+
+### SCENE 76 — 6 s
+**Characters:** Kuppusamy, Poni
+**Action:** Poni claps a rhythm and the gears align; The gears click into place.
+**PONI (sing-song) — claps a quick rhythm:** "தட் தட் தட்டு தட்டு"
+**KUPPUSAMY (amazed) — falls onto his back relieved:** "குட்டி பாட்டுக்கு கியரே ஆடுது!"
+
+### SCENE 77 — 4 s
+**Characters:** Kokkayi
+**Action:** Kokkayi balances on a turning gear; She hops to the next gear.
+**KOKKAYI (calm brave) — balances with the lamp held out:** "ஒன்னு இரண்டு மூணு நடப்பேன்!"
+
+### SCENE 78 — 6 s
+**Characters:** Kokkayi, Kottaimuthu
+**Action:** Kottaimuthu flaps his arms at the edge of the gear; Kottaimuthu closes his eyes.
+**KOTTAIMUTHU (shaky) — flaps his arms on the edge:** "அக்கா நான் எப்படி வர்றது?"
+**KOKKAYI (encouraging) — holds out a hand:** "கண்ணை மூடிட்டு பாடு!"
+
+### SCENE 79 — 8 s — SONG 5 — Brave Muthu
+**Characters:** Kottaimuthu
+**Action:** Kottaimuthu hops gear to gear with his eyes shut; Kokkayi catches him and laughs.
+**KOTTAIMUTHU (singing, brave) — hops gear to gear:** "நான் தான் கோட்டை முத்து"
+**KOTTAIMUTHU (singing, proud) — eyes shut and arms wide:** "பயமே எனக்கு இல்லை"
+**KOTTAIMUTHU (singing, squeak) — slips on the last gear and lands in Kokkayi's arms:** "அய்யோ அம்மா!"
+
+### SCENE 80 — 6 s
+**Characters:** Kokkayi, Kuppusamy
+**Action:** Kuppusamy stands like a wall as the pendulum bonks him into a gong; The gong rings out.
+**KUPPUSAMY (proud) — stands like a wall:** "நான் தாங்குவேன்! அய்யோ!"
+**KOKKAYI (laughing) — covers her mouth:** "அண்ணே பாட்டு தாளம் கிடைச்சுடுச்சு!"
+
+
+## Segment 9 — The Workshop & the Cliffhanger (scenes 81–92) | 7:12–8:20
+
+### SCENE 81 — 6 s — THE WARM TEA
+**Characters:** Kuppusamy, Kottaimuthu
+**Action:** Kuppusamy lifts the steaming cup close to his nose; The steam curls up to the ceiling.
+**KUPPUSAMY (whispering, amazed) — holds the steaming cup near his nose:** "தேநீர் இன்னும் சூடு! யாரு இங்க?"
+**KOTTAIMUTHU (squeaking) — hides behind Kuppusamy:** "டீ குடிச்சவன் எங்க?"
+
+### SCENE 82 — 4 s
+**Characters:** Kokkayi
+**Action:** Kokkayi looks up at the wall of tiny flames; She turns her head slowly across the wall.
+**KOKKAYI (amazed) — looks up at the wall:** "ஒவ்வொரு கிணத்துக்கும் ஒரு விளக்கு!"
+
+### SCENE 83 — 6 s
+**Characters:** Mayandi Thatha, Kokkayi
+**Action:** Mayandi Thatha touches the wall of flames; A tiny flame brightens when he touches it.
+**MAYANDI THATHA (misty) — touches the wall of flames:** "அறுபது வருஷம் கழிச்சு திரும்ப வந்திருக்கேன்"
+
+### SCENE 84 — 4 s
+**Characters:** Poni
+**Action:** The beetle gives Poni a spiral token; The beetle waves its antenna.
+**PONI (delighted) — holds the beetle on her palm:** "சின்ன பூச்சி என் பிரண்டு!"
+
+### SCENE 85 — 6 s
+**Characters:** Kuppusamy, Poni
+**Action:** A beetle returns a tiny laddu with a bow; Kuppusamy gobbles the laddu.
+**KUPPUSAMY (tearful happy) — holds the tiny laddu in both hands:** "நீ தான் நல்ல பூச்சி!"
+**PONI (giggling) — pats his arm:** "அண்ணா அழாத!"
+
+### SCENE 86 — 6 s — ACTION — MUSIC BOX
+**Characters:** Kottaimuthu, Poni
+**Action:** They crank a giant brass music box and the whole workshop dances; Everything stops with a final chime.
+**PONI (thrilled) — cranks the music box:** "தண்ணி பாட்டு ஓடுது!"
+**KOTTAIMUTHU (laughing) — dances in a circle:** "கியர்லாம் ஆடுது!"
+
+### SCENE 87 — 6 s
+**Characters:** Kokkayi, Kottaimuthu
+**Action:** Kokkayi follows the wet footprints with the lamp; The arched door creaks softly.
+**KOKKAYI (whispering) — traces a footprint with the lamp:** "அதே பெரிய காலடி! கதவுக்குள்ள போகுது!"
+**KOTTAIMUTHU (squeaky) — hides behind her:** "நான் கதவை திறக்க மாட்டேன்!"
+
+### SCENE 88 — 8 s — SONG 6 — The Last Door
+**Characters:** Kokkayi, Kuppusamy
+**Action:** Kokkayi and Kuppusamy grab the copper spiral wheel together; The wheel clicks and the door shudders.
+**KOKKAYI (singing, loud) — turns the wheel with both hands:** "தண்ணி தண்ணி டக்கு டக்கு"
+**KUPPUSAMY (singing, deep) — heaves the wheel with a hero grunt:** "திறடா கதவே திறடா!"
+
+### SCENE 89 — 4 s
+**Characters:** Kuppusamy
+**Action:** Kuppusamy strikes a hero pose holding the tea cup; He takes a sip with a satisfied sigh.
+**KUPPUSAMY (cool) — strikes a hero pose with the cup:** "டீ குடிச்சா தான் வீரன்!"
+
+### SCENE 90 — 4 s
+**Characters:** Kottaimuthu
+**Action:** The cup slides across the table by itself; The cup stops with a tiny clink.
+**KOTTAIMUTHU (squeaking) — points at the sliding cup:** "அண்ணே கப் உங்களை கூப்பிடுது!"
+
+### SCENE 91 — 6 s
+**Characters:** Mayandi Thatha, Poni
+**Action:** Poni looks up at Mayandi Thatha; The coconut spins faster.
+**PONI (curious) — looks up with big eyes:** "தாத்தா அவருக்கு பாட்டு பிடிச்சிருக்கா?"
+**MAYANDI THATHA (warm) — smiles and pats her head:** "பிடிச்சிருக்கு… கதவு திறக்குது"
+
+### SCENE 92 — 8 s — CLIFFHANGER
+**Characters:** Mayandi Thatha, Kokkayi
+**Action:** The arched door swings wide open and blinding blue-green light pours out; The light fills the whole frame, then hard cut to black.
+**MAYANDI THATHA (grim) — faces the light with his coconut:** "அவன் வந்துட்டான்… நீங்க தயாரா?"
+**KOKKAYI (bold) — raises the lamp:** "எப்பவுமே!"
+
