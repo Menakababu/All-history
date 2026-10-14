@@ -473,7 +473,7 @@ The edge of a shady mango grove at midday, green raw mangoes hanging in clusters
 Save as: `S019_Ref.png`
 Step 4 Ingredients: Starting Reference Image: `S019_Ref.png`
 Video Prompt (Google Flow, 8s):
-I2V from `S019_Ref.png`. 0–2s: the two kids peek out one above the other, their eyes huge; 2–4s: they spot the sleeping watchman, his towel rising and falling with each snore; 4–6s: Valli puts a finger to her lips, points to the highest branch, Selva gulps and nods; 6–8s: they tiptoe barefoot across the leaf litter in slow motion, every step careful.
+I2V from `S019_Ref.png`. 0–2s: the two kids peek out one above the other, their eyes huge; 2–4s: they spot the sleeping watchman, his towel rising and falling with each breath; 4–6s: Valli puts a finger to her lips, points to the highest branch, Selva gulps and nods; 6–8s: they tiptoe barefoot across the leaf litter in slow motion, every step careful.
 Sound (BGM+SFX only): A hushed, tip-toe pizzicato theme; cicadas, leaves crunching softly, a slow rustle of the towel on the cot, a mango dropping with a faint thump.
 Cut→S020: Hard cut into the tree.
 
