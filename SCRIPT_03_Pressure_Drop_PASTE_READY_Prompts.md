@@ -25,6 +25,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Reyes_Portrait.png
 ```
 NEGATIVE:
 ```
@@ -45,6 +47,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Reyes_6Angle.png
 ```
 NEGATIVE:
 ```
@@ -66,6 +70,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Voss_Portrait.png
 ```
 NEGATIVE:
 ```
@@ -86,6 +92,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Voss_6Angle.png
 ```
 NEGATIVE:
 ```
@@ -107,6 +115,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Lind_Portrait.png
 ```
 NEGATIVE:
 ```
@@ -127,6 +137,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Lind_6Angle.png
 ```
 NEGATIVE:
 ```
@@ -148,6 +160,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Okafor_Portrait.png
 ```
 NEGATIVE:
 ```
@@ -168,6 +182,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Okafor_6Angle.png
 ```
 NEGATIVE:
 ```
@@ -189,6 +205,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Case_Portrait.png
 ```
 NEGATIVE:
 ```
@@ -209,6 +227,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Case_6Angle.png
 ```
 NEGATIVE:
 ```
@@ -234,6 +254,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Cabin_A_Intact.png
 ```
 NEGATIVE:
 ```
@@ -255,6 +277,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Cabin_B_RampTear.png
 ```
 NEGATIVE:
 ```
@@ -276,6 +300,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Cabin_C_Cockpit.png
 ```
 NEGATIVE:
 ```
@@ -297,6 +323,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Cabin_D_Damaged.png
 ```
 NEGATIVE:
 ```
@@ -318,6 +346,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Cabin_E_RampOpen.png
 ```
 NEGATIVE:
 ```
@@ -344,6 +374,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S001_Ref.png
 ```
 NEGATIVE:
 ```
@@ -366,6 +398,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S001_Video.mp4  (then save the final frame as S001_LastFrame.png)
 ```
 NEGATIVE:
 ```
@@ -388,6 +422,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S002_Ref.png
 ```
 NEGATIVE:
 ```
@@ -410,6 +446,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S002_Video.mp4  (then save the final frame as S002_LastFrame.png)
 ```
 NEGATIVE:
 ```
@@ -432,6 +470,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S003_Ref.png
 ```
 NEGATIVE:
 ```
@@ -454,6 +494,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S003_Video.mp4  (then save the final frame as S003_LastFrame.png)
 ```
 NEGATIVE:
 ```
@@ -476,6 +518,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S004_Ref.png
 ```
 NEGATIVE:
 ```
@@ -498,6 +542,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating objects, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only (engines, wind, electronic alarm tones, straps, metal, hydraulics). No dialogue, narration, radio chatter or synthetic voice callouts in any language; characters never speak (breathing and exertion only).
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S004_Video.mp4
 ```
 NEGATIVE:
 ```

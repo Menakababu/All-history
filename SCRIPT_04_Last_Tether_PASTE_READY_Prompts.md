@@ -26,6 +26,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Ione_Portrait.png
 ```
 NEGATIVE:
 ```
@@ -47,6 +49,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Ione_6Angle.png
 ```
 NEGATIVE:
 ```
@@ -69,6 +73,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Lumen_Portrait.png
 ```
 NEGATIVE:
 ```
@@ -90,6 +96,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Lumen_6Angle.png
 ```
 NEGATIVE:
 ```
@@ -112,6 +120,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Wexley_Portrait.png
 ```
 NEGATIVE:
 ```
@@ -133,6 +143,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Wexley_6Angle.png
 ```
 NEGATIVE:
 ```
@@ -155,6 +167,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Shard_Portrait.png
 ```
 NEGATIVE:
 ```
@@ -176,6 +190,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Shard_6Angle.png
 ```
 NEGATIVE:
 ```
@@ -202,6 +218,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Halcyon_A_Cabin.png
 ```
 NEGATIVE:
 ```
@@ -224,6 +242,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Halcyon_B_Airlock.png
 ```
 NEGATIVE:
 ```
@@ -246,6 +266,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Halcyon_C_Exterior.png
 ```
 NEGATIVE:
 ```
@@ -268,6 +290,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Halcyon_D_Housing.png
 ```
 NEGATIVE:
 ```
@@ -290,6 +314,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Halcyon_E_Station.png
 ```
 NEGATIVE:
 ```
@@ -317,6 +343,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S001_Ref.png
 ```
 NEGATIVE:
 ```
@@ -340,6 +368,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S001_Video.mp4  (then save the final frame as S001_LastFrame.png)
 ```
 NEGATIVE:
 ```
@@ -363,6 +393,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S002_Ref.png
 ```
 NEGATIVE:
 ```
@@ -386,6 +418,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S002_Video.mp4  (then save the final frame as S002_LastFrame.png)
 ```
 NEGATIVE:
 ```
@@ -409,6 +443,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S003_Ref.png
 ```
 NEGATIVE:
 ```
@@ -432,6 +468,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S003_Video.mp4  (then save the final frame as S003_LastFrame.png)
 ```
 NEGATIVE:
 ```
@@ -455,6 +493,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S004_Ref.png
 ```
 NEGATIVE:
 ```
@@ -478,6 +518,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
 CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S004_Video.mp4
 ```
 NEGATIVE:
 ```

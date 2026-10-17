@@ -27,6 +27,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Ryker_Portrait.png
 ```
 NEGATIVE:
 ```
@@ -47,6 +49,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Ryker_6Angle.png
 ```
 NEGATIVE:
 ```
@@ -68,6 +72,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Mia_Portrait.png
 ```
 NEGATIVE:
 ```
@@ -88,6 +94,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Mia_6Angle.png
 ```
 NEGATIVE:
 ```
@@ -109,6 +117,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Medic_Portrait.png
 ```
 NEGATIVE:
 ```
@@ -129,6 +139,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Medic_6Angle.png
 ```
 NEGATIVE:
 ```
@@ -154,6 +166,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Ruin_A_Exterior_Crest.png
 ```
 NEGATIVE:
 ```
@@ -175,6 +189,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Ruin_B_DebrisHall.png
 ```
 NEGATIVE:
 ```
@@ -196,6 +212,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Ruin_C_Nursery.png
 ```
 NEGATIVE:
 ```
@@ -217,6 +235,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Ruin_D1_Corridor_ToNursery.png
 ```
 NEGATIVE:
 ```
@@ -238,6 +258,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Ruin_D2_Corridor_ToExit.png
 ```
 NEGATIVE:
 ```
@@ -259,6 +281,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: Ruin_E_Street.png
 ```
 NEGATIVE:
 ```
@@ -285,6 +309,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S001_Ref.png
 ```
 NEGATIVE:
 ```
@@ -307,6 +333,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S001_Video.mp4  (then save the final frame as S001_LastFrame.png)
 ```
 NEGATIVE:
 ```
@@ -329,6 +357,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S002_Ref.png
 ```
 NEGATIVE:
 ```
@@ -351,6 +381,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S002_Video.mp4  (then save the final frame as S002_LastFrame.png)
 ```
 NEGATIVE:
 ```
@@ -373,6 +405,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S003_Ref.png
 ```
 NEGATIVE:
 ```
@@ -395,6 +429,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S003_Video.mp4  (then save the final frame as S003_LastFrame.png)
 ```
 NEGATIVE:
 ```
@@ -417,6 +453,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S004_Ref.png
 ```
 NEGATIVE:
 ```
@@ -439,6 +477,8 @@ HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no l
 ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/people/objects, floating debris, texture smearing, plastic skin, distorted hands or anatomy.
 AUDIO — Instrumental cinematic BGM plus diegetic SFX only. No dialogue, narration or speech in any language; characters never speak (breathing and exertion only). The baby's non-verbal cry and coo are allowed SFX.
 CAMERA — Smooth, physically plausible motion only; each shot opens with the camera motion the previous shot closed on.
+
+SAVE AS: S004_Video.mp4
 ```
 NEGATIVE:
 ```
