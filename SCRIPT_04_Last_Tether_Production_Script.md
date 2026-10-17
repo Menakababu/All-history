@@ -1,0 +1,289 @@
+# SCRIPT 04 — The Last Tether: Ione Kastell's Climb
+### [TEMPLATE v3 (futuristic 3D edition) — Google Flow only · clips of 4/6/8/10 s · character & prop sheets → fixed structure plates → per-scene reference image → per-scene video · 9:16 STRICTLY for every image and video · global lock appended to every prompt · negative prompt on every video · no on-screen text · BGM + SFX only]
+
+**Logline:** A space-elevator car begins to slip down its tether. An engineer and her companion drone suit up, climb the outside gantry and slot a new power core, and the car climbs again toward the stars.
+**Style identity (unique to this script):** ultra-realistic ray-traced sci-fi CGI — pearl-white ceramic hard-surface, iridescent teal holograms, warm gold sunrise, deep-space navy; volumetric holograms, liquid-metal suit assembly, voxel dissolves, bullet-time orbit camera.
+**Duration:** 0:30 | **Total Scenes:** 4 = 4 reference images = 4 videos (8 s + 6 s + 8 s + 8 s = 30 s, no trimming needed)
+**Image generation:** Google Flow only — **aspect ratio 9:16 on every generation**
+**Video generation:** Google Flow — one prompt per scene, exact clip length, own sound design and own negative prompt; all four scenes chain from the last frame of the previous clip
+**Dialogue/Audio rule:** NO speech; only instrumental BGM and SFX. Lumen speaks in musical bleeps. Exterior shots follow the vacuum rule (no airborne sound).
+
+**All-new cast:** Ione Kastell (engineer), Lumen (companion drone), Controller Wexley (hologram), the Core Shard (prop) — none reused from earlier scripts.
+
+**Logic notes:**
+1. **One structure, one layout:** cabin airlock at screen-left and window at screen-right, a 10 m gantry to the Power Housing, one 1 m gap. Five plates lock it.
+2. **Direction locks:** UP = tether = screen-up, Earth at screen-bottom, sun at screen-right, so the slip (tether streaming upward past the camera) and the final climb read clearly.
+3. **Vacuum realism:** no sound outside the capsule except suit-internal breathing, HUD tones and vibrations through contact.
+4. **Cause and effect:** shard cradle by the hatch (S001) → shard on chest (S002) → shard carried and leapt-with (S003) → shard locked into the slot (S004).
+5. **Continuity chain:** every scene starts from the exact last frame of the previous clip.
+
+**Segment map**
+
+| # | Segment | Scene | Time | Clip |
+|---|---|---|---|---|
+| 1 | Flicker | S001 | 0:00–0:08 | 8 s |
+| 2 | Suit Up | S002 | 0:08–0:14 | 6 s |
+| 3 | The Climb | S003 | 0:14–0:22 | 8 s |
+| 4 | Lock | S004 | 0:22–0:30 | 8 s |
+
+---
+
+## ⚠️ GLOBAL LOCK BLOCK — append this in full to the END of every single prompt below (Step 1, Step 2, every Step 3, every Step 4)
+
+```
+GLOBAL LOCK:
+ASPECT RATIO — STRICTLY 9:16 vertical portrait (1080x1920) for every image and every video. Never 16:9, 1:1, 4:3 or 4:5; no letterbox, pillarbox or black bars. Compose natively for vertical and keep faces and key action inside the central safe area.
+NO OTHER CHANGES — Generate exactly what this prompt describes and nothing more: one continuous shot with no cuts, no extra characters, no extra props, no extra events, no new locations, no text. Do not add, remove, rename or restyle anything that is not written here.
+CONTINUITY — Ione Kastell, the drone Lumen, the Wexley hologram and the Core Shard keep their exact faces, hair, skin tone, suit design, colours and proportions from their saved reference sheets in every shot: no redesign, recolour, age change or scale drift.
+FIXED STRUCTURE — One single structure only, the space-elevator climber "Halcyon": a pearl-white capsule 14 m tall and 6 m wide riding a vertical twin-rail ribbon tether. Interior: a circular 5 m cabin with a ring of white cushioned seats, a central holographic table, a curved panoramic window on the screen-RIGHT side and a circular iris airlock hatch on the screen-LEFT side with a wall cradle for the Core Shard beside it. Exterior: a narrow grated service gantry with a handrail climbs 10 m up the car's sunward side to the Power Housing, a hexagonal module on the tether-rail above the car with a hexagonal glowing receptacle slot; the gantry has one 1 m broken gap at 6 m. Far above, at the tether's top, a ring-shaped orbital station. Never rearrange, mirror, rebuild or replace any part of this layout.
+SCREEN + LIGHT LOCK — In every exterior shot UP is the direction of the tether and is screen-UP, Earth's curved horizon is at screen-BOTTOM and the rising sun is at screen-RIGHT; the same sun and Earth appear in the cabin window. Interior light is cool teal hologram glow plus a warm gold sunrise beam from the window; after the tremor in Scene 1 (2 s) the interior turns amber-red alert. One colour grade throughout: pearl white, iridescent teal, warm gold, deep-space navy.
+STYLE — Ultra-realistic ray-traced CGI cinema, clean hard-surface sci-fi design, volumetric god-rays, subsurface-scattered skin, micro-detail on every surface, subtle anamorphic flares, strong layered parallax and IMAX-scale depth of field.
+3D-TECH LOCK — Holograms are volumetric, translucent and depth-correct with parallax, built from light lines and voxels. HUDs and holograms use only icons, arrows and geometric shapes: no letters, digits or readable symbols.
+HARD RULES — No on-screen text, captions, subtitles, logos or watermarks; no lettering anywhere. Faces are clear, natural and fully rendered (a visible face behind the helmet visor), identical in every shot (invented fictional faces). No gore, no fire, no explosion, no one detached from the tether structure.
+ZERO AI ARTIFACTS — No morphing, warping, melting, flicker, extra or duplicated limbs/parts/objects, floating junk, texture smearing, plastic skin, distorted hands or anatomy.
+AUDIO — Instrumental cinematic BGM plus SFX only; no dialogue, narration or speech; characters never speak. Vacuum rule: in exterior shots there is NO airborne sound, only suit-internal breathing, HUD tones and vibrations transmitted through contact (boot clanks, glove crackle). Lumen communicates with musical bleeps, never words.
+CAMERA — Smooth, physically plausible motion only (orbits allowed only where written); each shot opens with the camera motion the previous shot closed on.
+```
+
+**If Flow warns that a prompt is too long**, append this SHORT LOCK instead:
+
+```
+GLOBAL LOCK (short): STRICT 9:16 vertical, no black bars. One continuous shot; add nothing not written. Same faces, suit, drone and shard as the saved sheets. Same fixed Halcyon climber layout; UP = screen-up, Earth curve at screen-bottom, sun at screen-right. Ultra-realistic ray-traced sci-fi CGI, pearl white / teal / gold / navy. Holograms volumetric, icons only, no text. No gore, fire or explosions. No speech; no airborne sound outside the capsule. No morphing, flicker, extra limbs or objects.
+```
+
+### NEGATIVE PROMPTS
+Paste into Flow's negative-prompt field if it shows one; otherwise append to the end of the prompt as `AVOID: …`.
+
+**NEG-IMG (all Step 1, 2 and 3 images):**
+```
+text, captions, subtitles, logos, watermarks, letters or digits on screens or suits, 16:9, 4:3, 1:1, horizontal frame, letterbox, black bars, cropped head, extra people, extra limbs, extra fingers, distorted hands, morphing, face change, identity drift, plastic skin, waxy skin, cartoon, anime, illustration, painting, low-poly look, video-game look, low resolution, blur, noise, gore, blood, fire, flames, explosion, mirrored layout, floating junk, duplicate objects, dirty grunge look, retro sci-fi, steampunk
+```
+**NEG-VID (master — every Step 4 video also adds its own scene-specific extras, printed under each video prompt):**
+```
+text, captions, subtitles, logos, watermarks, letters or digits on HUD or holograms, speech, talking, dialogue, narration, voice-over, lip movement, singing, humming, whispering, lyrics, choir, 16:9, 4:3, 1:1, horizontal frame, letterbox, black bars, pillarbox, cropped head, subject cut off, scene cut, jump cut, hard cut, zoom glitch, sudden lighting change, changing location, changed structure layout, mirrored layout, extra people, crowd, aliens, creatures, fire, flames, explosion, fireball, debris cloud, gore, blood, injury, morphing, warping, melting, face change, identity drift, age change, extra limbs, extra fingers, fused fingers, distorted hands, duplicate drone, duplicate shard, duplicate characters, floating junk, flicker, jitter, frame stutter, texture smearing, plastic skin, waxy skin, cartoon, anime, illustration, painting, low-poly look, video-game look, uncanny face, helmet hiding the face, changed suit colour, sun on the wrong side, Earth at the top of the frame, upside-down tether, retro sci-fi, steampunk, harsh overexposure, time-lapse, unrequested slow motion, airborne explosion sounds in space
+```
+
+### Quick Flow settings
+- Aspect ratio **9:16** on every image and every video. Audio **on** for videos. Generate 2–4 variations and keep the best.
+- S001 = *Frames to video* from `S001_Ref.png`. S002, S003, S004 = *Frames to video* from the **exact last frame** of the previous accepted clip. Each `S00X_Ref.png` is the visual target and the fallback start frame.
+- Attach the listed sheets and plates as ingredients wherever Flow allows it.
+
+---
+
+# STEP 1 — CHARACTER & PROP REFERENCE IMAGES (Google Flow — image generation ONLY, 9:16)
+
+### 1A. Climber Engineer ("Ione Kastell")
+**Portrait Image Prompt — Google Flow:**
+Vertical 9:16 full-body standing portrait of Ione Kastell, a lithe, focused orbital climber engineer in her mid-30s, facing the camera in a neutral relaxed pose, with a clearly visible, fully detailed face: deep umber skin with a soft sheen, high cheekbones, luminous amber eyes, strong arched brows, close-cropped silver-white hair, a thin line of teal bioluminescent implant tracing along her left temple, a calm, alert, determined expression. She wears a fitted graphite-grey flight-skin bodysuit with fine teal seam lights and a small gold clasp at the collar; beside her, displayed for reference, floats her folded pearl-white hard-shell pressure-suit set (segmented ceramic panels with gold joint rings, teal light strips, a clear gold-tinted visor helmet, a slim thruster pack, magnetic boots), no logos, no text. Neutral light-grey seamless studio background, soft key light from upper left, macro detail on skin, hair, ceramic panel edges and gold rings. An invented fictional face. Locked reference design.
+**Save as:** `Ione_Portrait.png`
+**6-Angle Turnaround Image Prompt — Google Flow:**
+Using the saved `Ione_Portrait.png` as exact reference, generate ONE vertical 9:16 character sheet in four rows: row 1 FRONT and REAR full-body wearing the fully assembled pearl-white pressure suit with the helmet on and the face visible through the gold visor; row 2 LEFT SIDE and RIGHT SIDE in the same suit; row 3 TOP-DOWN and BOTTOM/UNDERCARRIAGE (magnetic boots and ground contact); row 4 three close-up face panels without the helmet (front, left profile, right profile) locking the face. Neutral light-grey seamless background, matched lighting and scale, neutral standing pose in every panel, no labels or text.
+**Save as:** `Ione_6Angle.png`
+**Usage note:** Attach both files to every scene where this appears: S001–S004.
+
+### 1B. Companion Drone ("Lumen")
+**Portrait Image Prompt — Google Flow:**
+Vertical 9:16 hero shot of Lumen, a 30 cm hovering companion drone: a seamless pearl-chrome sphere with a slim floating gold halo ring around its equator, a single round teal lens eye on the front, a faint teal under-glow, no visible thrusters, no text or logos. Hovering in mid-air on a neutral light-grey seamless background, three-quarter front view, soft key light from upper left, macro detail on the chrome reflections, halo ring edge and the lens. Locked reference design.
+**Save as:** `Lumen_Portrait.png`
+**6-Angle Turnaround Image Prompt — Google Flow:**
+Using the saved `Lumen_Portrait.png` as exact reference, generate ONE vertical 9:16 sheet in three rows of two: FRONT and REAR; LEFT SIDE and RIGHT SIDE; TOP-DOWN and BOTTOM. Same sphere, same halo ring, same lens position in every panel, neutral light-grey background, matched lighting and scale, no labels or text.
+**Save as:** `Lumen_6Angle.png`
+**Usage note:** Attach both files to every scene where this appears: S001–S004.
+
+### 1C. Flight Controller ("Controller Wexley", hologram)
+**Portrait Image Prompt — Google Flow:**
+Vertical 9:16 chest-up portrait of Controller Hadrian Wexley, a seasoned orbital flight controller in his early 60s, facing the camera, with a clearly visible, fully detailed face: dark brown skin, a full neatly trimmed white beard, short white hair, deep-set dark eyes behind faint crow's-feet, a stern but caring expression; high-collared slate-blue uniform with a single gold bar on the collar, a slim ear-piece. Rendered as a translucent teal volumetric hologram made of fine light lines and voxels, floating over a neutral dark-navy background, a soft teal glow, the same face unmistakably recognisable. An invented fictional face. Locked reference design.
+**Save as:** `Wexley_Portrait.png`
+**6-Angle Turnaround Image Prompt — Google Flow:**
+Using the saved `Wexley_Portrait.png` as exact reference, generate ONE vertical 9:16 sheet in three rows: row 1 FRONT and REAR chest-up hologram; row 2 LEFT SIDE and RIGHT SIDE; row 3 three close-up face panels (front, left profile, right profile) locking the face. Same teal translucent hologram rendering, neutral dark-navy background, no labels or text.
+**Save as:** `Wexley_6Angle.png`
+**Usage note:** Attach both files to every scene where this appears: S001.
+
+### 1D. Core Shard (prop)
+**Portrait Image Prompt — Google Flow:**
+Vertical 9:16 product shot of the Core Shard, a 25 cm translucent hexagonal-prism crystal with bevelled ends, glassy clear walls enclosing a glowing blue-gold lattice of light that pulses softly, a slim gold cap ring on one end, a small steel clip loop on the opposite side, no text, no markings. Floating slightly above a neutral light-grey surface, three-quarter view, soft key light from upper left, macro detail on the inner lattice and bevelled edges. Locked reference design.
+**Save as:** `Shard_Portrait.png`
+**6-Angle Turnaround Image Prompt — Google Flow:**
+Using the saved `Shard_Portrait.png` as exact reference, generate ONE vertical 9:16 sheet in three rows of two: FRONT and REAR; LEFT SIDE and RIGHT SIDE; TOP-DOWN and BOTTOM. Same hexagonal shape, gold cap ring and clip loop in every panel, neutral light-grey background, matched lighting and scale, no labels or text.
+**Save as:** `Shard_6Angle.png`
+**Usage note:** Attach both files to every scene where this appears: S001, S003, S004.
+
+---
+
+# STEP 2 — FIXED STRUCTURE PLATES (Google Flow — image generation ONLY, 9:16)
+
+**Layout map (side elevation, for your reference — not an image prompt):**
+
+```
+        ✦ ORBITAL STATION (ring) ✦        ← far above, top of tether
+                 ║ ║
+                 ║ ║   twin-rail ribbon tether (UP = screen-up)
+            ┌────╨─╨────┐
+            │ POWER     │  hexagonal housing + receptacle slot
+            │ HOUSING   │
+            └─╥─────────┘
+              ║ gantry 10 m (1 m broken gap at 6 m)   ☀ sun: screen-RIGHT
+        ┌─────╨──────────┐
+        │  HALCYON CAR   │  cabin: AIRLOCK hatch screen-LEFT,
+        │ [hatch]  [win] │         WINDOW screen-RIGHT
+        └────────────────┘
+       ─────── Earth's curved horizon = screen-BOTTOM ───────
+```
+
+| Plate | Name | Save as | Used in |
+|---|---|---|---|
+| 2A | Halcyon cabin interior | `Halcyon_A_Cabin.png` | S001 |
+| 2B | Airlock and outer hatch view | `Halcyon_B_Airlock.png` | S002 |
+| 2C | Exterior — car, gantry and Power Housing | `Halcyon_C_Exterior.png` | S003 |
+| 2D | Power Housing close view | `Halcyon_D_Housing.png` | S003 (end), S004 |
+| 2E | Tether rising to the orbital station | `Halcyon_E_Station.png` | S004 (end) |
+
+### 2A. Halcyon cabin interior
+**Environment Image Prompt — Google Flow:**
+Vertical 9:16 ultra-realistic ray-traced sci-fi interior of the Halcyon climber cabin (no people): a circular 5 m cabin with pearl-white curved walls, a ring of white cushioned seats, a central holographic table projecting a floating translucent teal lattice of orbit lines (icons only, no text), a curved panoramic window on the screen-RIGHT side showing Earth's curved horizon at the bottom and a gold sunrise with the tether rail running vertically past, and a circular iris airlock hatch on the screen-LEFT side with a wall cradle holding a glowing blue-gold hexagonal Core Shard beside it (use the saved Shard sheet). Cool teal hologram light plus a warm gold sunrise beam from the window. Calm, majestic. Locked environment layout.
+**Save as:** `Halcyon_A_Cabin.png`
+
+### 2B. Airlock and outer hatch view
+**Environment Image Prompt — Google Flow:**
+Vertical 9:16 ultra-realistic ray-traced sci-fi view from inside a small pearl-white circular airlock chamber toward its open outer hatch (no people): the iris hatch fully open onto the void, revealing a grated service gantry with a handrail running up the car's sunward side, Earth's curved horizon at the bottom of the frame, the vertical twin-rail tether, and a bright gold sunrise at screen-RIGHT. Teal indicator rings glowing around the hatch. Locked environment layout.
+**Save as:** `Halcyon_B_Airlock.png`
+
+### 2C. Exterior — car, gantry and Power Housing
+**Environment Image Prompt — Google Flow:**
+Vertical 9:16 ultra-realistic ray-traced sci-fi wide shot of the outside of the Halcyon climber (no people): the pearl-white capsule on the vertical twin-rail tether, its narrow grated service gantry with a handrail climbing 10 m up the sunward side with one 1 m broken gap at 6 m, and above the car the hexagonal Power Housing on the tether-rail with a hexagonal receptacle slot, open and sparking with thin blue plasma arcs. UP is screen-up, Earth's curved horizon fills the bottom of the frame, the rising sun at screen-RIGHT casts long gold light across the pearl-white hull, deep-space navy sky with stars at the top. Locked environment layout.
+**Save as:** `Halcyon_C_Exterior.png`
+
+### 2D. Power Housing close view
+**Environment Image Prompt — Google Flow:**
+Vertical 9:16 ultra-realistic ray-traced sci-fi close view of the hexagonal Power Housing on the tether-rail (no people): a pearl-white hex module with gold trim and a hexagonal glowing receptacle slot, open, with thin blue plasma arcs crackling from its edges and a dim amber warning glow; the twin-rail tether runs vertically behind it; Earth's curved horizon at the bottom of the frame and gold sunrise light from screen-RIGHT. Locked environment layout.
+**Save as:** `Halcyon_D_Housing.png`
+
+### 2E. Tether rising to the orbital station
+**Environment Image Prompt — Google Flow:**
+Vertical 9:16 ultra-realistic ray-traced sci-fi ultra-wide shot looking up the tether (no people): the pearl-white Halcyon capsule small at the lower part of the frame on the vertical twin-rail tether, a luminous blue-gold energy ribbon running up the tether toward a glittering ring-shaped orbital station at the top of the frame among stars, Earth's curved horizon glowing at the bottom, a large gold sunrise flare at screen-RIGHT. Majestic and peaceful. Locked environment layout.
+**Save as:** `Halcyon_E_Station.png`
+
+---
+
+# STEP 3 & STEP 4 — SCENES (clips of 6 and 8 seconds)
+
+**How each scene is shaped:** Header → **Story beat** → **Entry state** → Step 3 Ingredients → Step 3 Reference Image Prompt → Step 4 Ingredients → Video Prompt (exact clip length, in-clip second marks where `0s` = clip start) → **Negative prompt (video)** → Sound → **Exit state** → Cut→.
+Append the GLOBAL LOCK BLOCK to every Step 3 and Step 4 prompt. In Step 4, paste the **Sound** text at the end under `AUDIO DIRECTION:` (the PASTE-READY file already does this).
+
+### Segment 1 — Flicker | 0:00–0:08
+
+**S001 — Flicker | 0:00–0:08 (8s)**
+Story beat: A calm climb at sunrise. A tremor hits, the hologram collapses, and the car starts to slip.
+Entry state: Ione stands at the holographic table in the calm cabin; Lumen hovers at her shoulder; Wexley's hologram floats at the left of the table.
+Step 3 Ingredients: Subject Reference Images: `Ione_Portrait.png`, `Ione_6Angle.png`, `Lumen_Portrait.png`, `Lumen_6Angle.png`, `Wexley_Portrait.png`, `Shard_Portrait.png` · Environment Reference Images: `Halcyon_A_Cabin.png` · Scene Continuity Reference: none (first scene)
+Step 3 — Reference Image Prompt (Google Flow, 9:16):
+Vertical 9:16 ultra-realistic ray-traced sci-fi cinematic shot inside the Halcyon cabin (layout exactly as the saved Halcyon_A environment reference). Ione Kastell (use the character reference) in her graphite-grey flight-skin stands at the central holographic table, her amber eyes lit by the floating teal orbit lattice, calm and focused; Lumen (use the character reference) hovers beside her right shoulder; a small teal hologram bust of Controller Wexley (use the character reference) floats at the left edge of the table; through the curved window at screen-right a gold sunrise over Earth's curved horizon; the airlock hatch and the glowing Core Shard cradle at screen-left. Medium shot, shallow depth of field, pearl-white, teal and gold palette.
+Save as: `S001_Ref.png`
+Step 4 Ingredients: Starting Frame: `S001_Ref.png` · Also attach: `Ione_Portrait.png`, `Ione_6Angle.png`, `Lumen_Portrait.png`, `Wexley_Portrait.png`, `Shard_Portrait.png`, `Halcyon_A_Cabin.png`
+Video Prompt (Google Flow, 8s, 9:16):
+Vertical 9:16, cinematic, no text, no subtitles. I2V from `S001_Ref.png`, one continuous shot, 8 seconds. 0–2s: a slow push-in on Ione as the teal orbit lattice slowly rotates above the table and golden sunlight from the window slides across her face; Lumen's halo ring turns gently. At 2s a deep tremor shakes the cabin: the lights dim, the interior colour shifts from teal to amber-red alert, and the Wexley hologram shatters into thousands of voxel cubes that tumble and dissolve. 3–4.5s: Ione's eyes snap to the window, where the tether rail begins to slide upward past the glass (the car is slipping down) and Earth's horizon tilts slightly; Lumen's halo spins fast and flashes amber. 4.5–6.5s: she crosses to the airlock hatch at screen-left in two quick steps and pulls the glowing Core Shard from its wall cradle. 6.5–8s: she clips the shard to the chest ring of her flight-skin and turns her head toward the hatch with a determined look. Last frame: Ione at the airlock hatch, shard clipped on her chest, Lumen at her shoulder, amber-red alert glow, face visible. No speech, narration or lip movement: characters never speak. Audio is music and sound effects only.
+Negative prompt (video): NEG-VID master + readable text on the hologram, Wexley speaking, cabin damage, fire, sparks in the cabin, glass cracking, passengers, window breach, explosion, Ione already holding the shard at 0 s.
+Sound (BGM+SFX only, no voice or speech): BGM: glassy modular-synth arpeggio at 100 BPM over a warm sub pad and soft strings, calm and wondrous from 0s; a deep sub-drop with a reversed-cymbal swell at 2s; the arpeggio turns urgent and minor from 3s. SFX: soft cabin air hum, hologram chimes, a deep structural groan at 2s, the voxel dissolve as a cascade of tiny glassy ticks, a rising alarm tone (plain electronic pulses, no voice) from 3s, Lumen's anxious musical bleeps, quick footsteps, a crisp magnetic release click as the shard leaves the cradle at 5s.
+Exit state: Ione at the airlock hatch (screen-left), shard clipped on her chest, Lumen at her shoulder, amber-red alert glow, camera pushing in.
+Cut→S002: continuous — the last frame of this clip is the first frame of S002.
+
+### Segment 2 — Suit Up | 0:08–0:14
+
+**S002 — Suit Up | 0:08–0:14 (6s)**
+Story beat: The suit assembles around her, Lumen docks, and she steps out into the open.
+Entry state: Same as S001's exit.
+Step 3 Ingredients: Subject Reference Images: `Ione_Portrait.png`, `Ione_6Angle.png`, `Lumen_Portrait.png`, `Lumen_6Angle.png`, `Shard_Portrait.png` · Environment Reference Images: `Halcyon_A_Cabin.png`, `Halcyon_B_Airlock.png` · Scene Continuity Reference: last frame of the S001 clip (fallback: `S001_Ref.png`)
+Step 3 — Reference Image Prompt (Google Flow, 9:16):
+Vertical 9:16 ultra-realistic ray-traced sci-fi cinematic medium shot at the airlock hatch of the Halcyon cabin (layout exactly as the saved Halcyon_A environment reference). Ione Kastell (use the character reference) in her graphite-grey flight-skin stands facing the screen-left iris hatch, the glowing Core Shard clipped to her chest ring, Lumen (use the character reference) hovering at her right shoulder, amber-red alert glow, her face in clear three-quarter view looking at the hatch with determination.
+Save as: `S002_Ref.png`
+Step 4 Ingredients: Starting Frame: the exact last frame of the S001 clip (fallback: `S002_Ref.png`) · Also attach: `Ione_Portrait.png`, `Ione_6Angle.png`, `Lumen_Portrait.png`, `Shard_Portrait.png`, `Halcyon_A_Cabin.png`, `Halcyon_B_Airlock.png`
+Video Prompt (Google Flow, 6s, 9:16):
+Vertical 9:16, cinematic, no text, no subtitles. Image-to-video from the start frame, one continuous shot, 6 seconds, camera pushing slowly in and then following her. 0–2s: Ione raises her arms; liquid-metal pearl-white ceramic panels flow out of the wall ring and wrap over her flight-skin, snapping into place segment by segment with gold joint rings and teal light strips, the Core Shard staying clipped visibly on her chest. 2–3s: a clear gold-tinted visor helmet assembles around her head and seals with a ring of light; her face stays fully visible behind the visor; a holographic HUD of icons only blooms in the visor. 3–4s: Lumen docks onto the magnetic ring on her left shoulder. 4–6s: the iris hatch opens and she steps through; the outer hatch opens onto the void and the camera follows her onto the gantry, where her magnetic boots clamp; Earth's curved horizon fills the bottom of the frame and the sun blazes at screen-right. Last frame: Ione on the gantry, face in clear profile through the visor, Lumen on her shoulder, shard on her chest, tether vertical beside her. No speech, narration or lip movement: characters never speak. Audio is music and sound effects only.
+Negative prompt (video): NEG-VID master + suit made of fabric, helmet hiding the face, the Core Shard missing, readable HUD text, additional crew, hatch opening before the suit is complete, explosion, sound in vacuum.
+Sound (BGM+SFX only, no voice or speech): BGM: the urgent arpeggio continues with rising taiko-free synth pulses; at 2s a heroic string-and-synth swell as the suit completes; at 4.5s the music hushes to a single sustained pad as she steps into space. SFX: cabin: ceramic panels clicking into place with soft metallic shimmer (0–3s), visor seal chime at 2.5s, Lumen's docking click and bleep at 3.5s, iris hatch whir; outside from 4.5s: NO airborne sound, only suit-internal breathing, a soft HUD tone and a boot clamp thud felt through the suit.
+Exit state: Ione on the gantry outside, profile through the visor, Lumen on her left shoulder, shard on her chest, Earth below, sun at screen-right.
+Cut→S003: continuous — same pose and framing on the gantry.
+
+### Segment 3 — The Climb | 0:14–0:22
+
+**S003 — The Climb | 0:14–0:22 (8s)**
+Story beat: The car slips. She thrusts up the gantry, leaps the gap and reaches the sparking Power Housing.
+Entry state: Same as S002's exit.
+Step 3 Ingredients: Subject Reference Images: `Ione_Portrait.png`, `Ione_6Angle.png`, `Lumen_Portrait.png`, `Lumen_6Angle.png`, `Shard_Portrait.png` · Environment Reference Images: `Halcyon_C_Exterior.png`, `Halcyon_D_Housing.png` · Scene Continuity Reference: last frame of the S002 clip (fallback: `S003_Ref.png`)
+Step 3 — Reference Image Prompt (Google Flow, 9:16):
+Vertical 9:16 ultra-realistic ray-traced sci-fi cinematic shot outside the Halcyon climber (layout exactly as the saved Halcyon_C environment reference). Ione Kastell (use the character reference) in her pearl-white pressure suit with the gold-tinted visor, her face visible in profile, stands on the grated service gantry with magnetic boots clamped, Lumen (use the character reference) on her left shoulder, the Core Shard glowing on her chest, looking up the gantry toward the sparking hexagonal Power Housing above; Earth's curved horizon at the bottom of the frame, gold sunrise at screen-RIGHT, deep-space navy and stars at the top.
+Save as: `S003_Ref.png`
+Step 4 Ingredients: Starting Frame: the exact last frame of the S002 clip (fallback: `S003_Ref.png`) · Also attach: `Ione_Portrait.png`, `Ione_6Angle.png`, `Lumen_Portrait.png`, `Shard_Portrait.png`, `Halcyon_C_Exterior.png`, `Halcyon_D_Housing.png`
+Video Prompt (Google Flow, 8s, 9:16):
+Vertical 9:16, cinematic, no text, no subtitles. Image-to-video from the start frame, one continuous shot, 8 seconds. 0–1s: the car lurches and the tether rail streaks downward past the frame as the car slips; Ione crouches, magnetic boots clamped. 1–3s: she fires her thruster pack in short bursts and sprints up the gantry along the car's sunward side while the camera makes a smooth bullet-time orbit around her, sun flares sweeping across her visor. 3–5s: Lumen projects a glowing arrow trail of light up toward the Power Housing; at the 1 m gap in the gantry she leaps with a thruster burst, her shard glowing. 5–7s: she lands, boots clamping, at the Power Housing; blue plasma arcs crackle from its open hexagonal slot across her gloves and visor. 7–8s: she lifts the shard in both hands toward the slot. Last frame: Ione at the Power Housing, the shard held in both hands in front of the slot, arcs lighting her visor, Earth's horizon behind. No speech, narration or lip movement: characters never speak. Audio is music and sound effects only.
+Negative prompt (video): NEG-VID master + Ione falling off the structure, tether snapping completely, the gantry collapsing, explosion, fire, debris cloud, helmet breach, additional robots, sound of explosions in space, text in the HUD, sun on the wrong side.
+Sound (BGM+SFX only, no voice or speech): BGM: relentless 100 BPM synth-bass pulse with rapid glassy arpeggios and low strings; a rising riser from 3s; the beat drops to a held tone at 7s. SFX (exterior, no airborne sound): suit-internal heavy breathing, thruster bursts felt as soft hisses inside the helmet (1s, 2s, 4s), boot clamp clanks through the suit, Lumen's bleeps via the helmet, plasma crackle conducted through the gloves at 5.5s.
+Exit state: Ione at the Power Housing holding the shard in both hands before the slot, plasma arcs lighting her visor.
+Cut→S004: continuous — same pose and framing at the housing.
+
+### Segment 4 — Lock | 0:22–0:30
+
+**S004 — Lock | 0:22–0:30 (8s)**
+Story beat: She slots the shard; power surges up the tether; the car locks and rises toward the station.
+Entry state: Same as S003's exit.
+Step 3 Ingredients: Subject Reference Images: `Ione_Portrait.png`, `Ione_6Angle.png`, `Lumen_Portrait.png`, `Lumen_6Angle.png`, `Shard_Portrait.png` · Environment Reference Images: `Halcyon_D_Housing.png`, `Halcyon_E_Station.png` · Scene Continuity Reference: last frame of the S003 clip (fallback: `S004_Ref.png`)
+Step 3 — Reference Image Prompt (Google Flow, 9:16):
+Vertical 9:16 ultra-realistic ray-traced sci-fi cinematic close shot at the hexagonal Power Housing (layout exactly as the saved Halcyon_D environment reference). Ione Kastell (use the character reference) in her pearl-white pressure suit, her face clearly visible in three-quarter view through the gold visor, holds the glowing blue-gold Core Shard (use the shard reference) in both hands in front of the open hexagonal slot, thin blue plasma arcs lighting her visor, Lumen on her left shoulder, Earth's curved horizon at the bottom of the frame, gold sunrise from screen-RIGHT.
+Save as: `S004_Ref.png`
+Step 4 Ingredients: Starting Frame: the exact last frame of the S003 clip (fallback: `S004_Ref.png`) · Also attach: `Ione_Portrait.png`, `Ione_6Angle.png`, `Lumen_Portrait.png`, `Shard_Portrait.png`, `Halcyon_D_Housing.png`, `Halcyon_E_Station.png`
+Video Prompt (Google Flow, 8s, 9:16):
+Vertical 9:16, cinematic, no text, no subtitles. Image-to-video from the start frame, one continuous shot, 8 seconds. 0–1.5s: Ione slides the shard into the hexagonal slot and twists it a quarter turn; the slot locks with a ring of gold light and the plasma arcs vanish. 1.5–3.5s: a blue-gold energy ribbon rips up the tether toward the stars and rings of light pulse outward from the housing; the car's slip stops with a shuddering lurch as its magnetic clamps re-engage. 3.5–5s: Ione exhales, the rising sun reflecting in her visor; Lumen floats off her shoulder and projects a small glowing star icon, then settles back. 5–7s: the car begins to rise smoothly and she grips the rail, her face calm and relieved. 7–8s: the camera pulls back and up into an ultra-wide shot: the capsule climbing the tether, the energy ribbon rising to the ring-shaped orbital station among stars, Earth's glowing horizon below and the sun flaring at screen-right; the image fades smoothly to black over the last 0.7s. No speech, narration or lip movement: characters never speak. Audio is music and sound effects only.
+Negative prompt (video): NEG-VID master + explosion on the lock, fire, the car overshooting, the tether glowing red, additional people, a title card, sound of explosions in space, sun on the wrong side, no fade to black, text in the ending.
+Sound (BGM+SFX only, no voice or speech): BGM: silence at the lock; a single glassy note at 1.5s as the ribbon fires, then a soaring orchestral-and-synth release in a resolved major key building to 6s; a long sustained final chord that decays to silence at 8s. SFX: shard clicking into the slot felt through the gloves at 1s, a deep low hum conducted through the structure at 2s, the suit-internal exhale at 3.5s, Lumen's happy bleep via the helmet at 4.5s; the wide shot is silent except for the music.
+Exit state: Fade to black.
+Cut→End of video (fade to black).
+
+---
+
+# SOUND DESIGN MASTER (BGM · SFX · mix)
+
+**Why this exists:** each Flow clip generates its own audio, so the music can restart at every cut. Keep each clip's **SFX**, lay the one continuous **master track** below underneath, and mute the clips' own music if it clashes.
+
+**Master BGM prompt (any AI music generator — 30 s, instrumental):**
+```
+Futuristic cinematic instrumental, exactly 30 seconds, no vocals, no choir, no lyrics. Four continuous movements, key C-sharp minor resolving to E major. 0:00–0:08 'Flicker': glassy modular-synth arpeggio at 100 BPM over a warm sub pad and soft strings, calm and wondrous, then a deep sub-drop with a reversed-cymbal swell at 0:02 and the arpeggio turning urgent. 0:08–0:14 'Suit Up': rising synth pulses, a heroic string-and-synth swell at 0:10 as the suit completes, then a hush to a single sustained pad at 0:12.5. 0:14–0:22 'The Climb': relentless synth-bass pulse with rapid glassy arpeggios and low strings, a riser from 0:17, dropping to a held tone at 0:21. 0:22–0:30 'Lock': silence, a single glassy note at 0:23.5, then a soaring orchestral-and-synth release in E major building to 0:28 and a long sustained final chord decaying to silence at 0:30.
+```
+
+**Cue sheet:**
+
+| Time | Music | SFX |
+|---|---|---|
+| 0:00–0:02 | Calm arpeggio over sub pad | Cabin air hum, hologram chimes |
+| 0:02 | Sub-drop + reversed-cymbal swell | Deep structural groan, voxel dissolve (glassy ticks) |
+| 0:03–0:05 | Arpeggio turns urgent, minor | Alarm pulses (no voice), Lumen's anxious bleeps |
+| 0:05 | Urgency builds | Magnetic release click as the shard leaves the cradle |
+| 0:08–0:11 | Rising synth pulses | Ceramic panels clicking on, visor seal chime (0:10.5) |
+| 0:10–0:12 | Heroic swell | Lumen docks (0:11.5), iris hatch whir |
+| 0:12.5–0:14 | Hush to a single pad | Outside: suit breathing only, boot clamp thud |
+| 0:14 | Pulse starts | Suit-internal heavy breathing, car lurch felt as vibration |
+| 0:15–0:18 | Synth bass + arpeggios, riser from 0:17 | Thruster hisses inside the helmet (0:15, 0:16, 0:18), boot clanks |
+| 0:19.5–0:21 | Peak, then held tone at 0:21 | Plasma crackle through the gloves (0:19.5) |
+| 0:22–0:23.5 | Silence | Shard click felt through gloves (0:23) |
+| 0:23.5–0:26 | Glassy note → soaring release | Deep low structural hum (0:24), suit exhale (0:25.5) |
+| 0:26.5 | Swell | Lumen's happy bleep via the helmet |
+| 0:28–0:30 | Final E-major chord decays to silence | None — silent wide shot; fade to black |
+
+**Mix guide:** SFX stem –6 dB peak, master BGM –14 dB under SFX, sub-drops and the final swell allowed to peak at –3 dB; 6-frame audio crossfades at every cut; target loudness –14 LUFS for YouTube Shorts / Reels.
+
+# QC CHECKLIST (run on every generated clip before moving on)
+
+- [ ] Frame is 9:16, no black bars, no letters or digits on any hologram, HUD or surface.
+- [ ] Ione's face (amber eyes, silver-white crop, teal temple line), suit, Lumen's halo and the shard match the sheets in every shot.
+- [ ] UP is screen-up, Earth's curve at screen-bottom, sun at screen-right in every exterior and window shot.
+- [ ] S001: tremor at 2 s, hologram dissolves into voxels, the interior turns amber-red; she takes the shard at ~5 s.
+- [ ] S002: the suit builds from ceramic panels, face visible behind the visor, shard still on her chest; no airborne sound outside.
+- [ ] S003: she stays on the structure, leaps the 1 m gap, arrives at the housing with the shard.
+- [ ] S004: shard locks, energy ribbon rises up the tether, car stops slipping then climbs, final wide shot, fade to black.
+- [ ] The last frame of each clip matches the entry state of the next scene.
+
+# SHORTS PUBLISHING (optional)
+
+- **Title ideas:** "The Space Elevator Started Falling. She Went Outside" · "30 Seconds Above the Atmosphere"
+- **Description:** When a space-elevator car begins to slip, an engineer and her drone climb outside to restore power. AI-generated cinematic sci-fi short.
+- **Hashtags:** #shorts #scifi #futuristic #spaceelevator #aivideo #googleflow #veo
+- Keep the AI-generated / altered-content disclosure switched on when you upload.
